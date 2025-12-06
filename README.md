@@ -53,3 +53,4 @@ Default data is bundled under `dashboard/predicted_alignments/`:
 
 
 
+# en-ar-word-alignments
