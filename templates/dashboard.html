@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Alignment Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <h2>Sentences</h2>
+            <div class="search-box">
+                <input type="text" id="sentence-search" placeholder="Search sentence ID...">
+            </div>
+            <div id="sentence-list" class="sentence-list">
+                <p>Loading sentences...</p>
+            </div>
+        </div>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <div class="header">
+                <h1>Word Alignment Visualization</h1>
+                <div id="current-sentence-id" class="current-id"></div>
+            </div>
+            
+            <!-- Metrics Table -->
+            <div class="metrics-section">
+                <h2>Metrics Comparison</h2>
+                <table id="metrics-table" class="metrics-table">
+                    <thead>
+                        <tr>
+                            <th>System</th>
+                            <th>AER</th>
+                            <th>Precision</th>
+                            <th>Recall</th>
+                            <th>F1</th>
+                        </tr>
+                    </thead>
+                    <tbody id="metrics-body">
+                    </tbody>
+                </table>
+            </div>
+            
+            <!-- Visualizations -->
+            <div id="visualizations" class="visualizations">
+                <p>Select a sentence to view alignments</p>
+            </div>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='js/dashboard.js') }}"></script>
+</body>
+</html>
+
+
+
+
+
+
