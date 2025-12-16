@@ -1,0 +1,2396 @@
+[
+  {
+    "id": "m10006",
+    "ar": "بما توصي ؟ لا اعرف ماذا يصلح لانني لست مدخنا .",
+    "en": "What do you recommend ? I don't know what's good because I'm a nonsmoker .",
+    "alignment_string": "(بما, What), (توصي, [you, recommend]), (؟, ?), (لا, [I, don't]), (اعرف, know), (ماذا, what's), (يصلح, good), (لانني, [because, I'm]), ([مدخنا, لست], [nonsmoker]), (., .)"
+  },
+  {
+    "id": "a4586",
+    "ar": "شكرا لك يا سارة .",
+    "en": "Thank you , Sara .",
+    "alignment_string": "(شكرا, Thank), (لك, you), (يا, ,), (سارة, Sara), (., .)"
+  },
+  {
+    "id": "m10881",
+    "ar": "هل لي ان اتناول طبق الوجبة الرئيسي فقط ؟",
+    "en": "Can I have just an entree ?",
+    "alignment_string": "(هل, Can), (لي, I), (اتناول, have), (طبق, entree), (الوجبة, entree), (الرئيسي, entree), (فقط, just), (؟, ?)"
+  },
+  {
+    "id": "a12713",
+    "ar": "لا باس .",
+    "en": "No problem .",
+    "alignment_string": "(لا, No), (باس, problem), (., .)"
+  },
+  {
+    "id": "a5603",
+    "ar": "هل تتذكر قصتك المضحكة ؟",
+    "en": "Do you remember your funny story ?",
+    "alignment_string": "(هل, Do), (تتذكر, [you, remember]), (قصتك, [your, story]), (المضحكة, funny), (؟, ?)"
+  },
+  {
+    "id": "m7393",
+    "ar": "عجبا لم يتصرف اليابانيون على هذا النحو غير الاجتماعي ؟",
+    "en": "Gee - why do Japanese guys act so unsociably ?",
+    "alignment_string": "(عجبا, Gee), (لم, why), (يتصرف, act), (اليابانيون, [Japanese, guys]), (على, so), (هذا, so), (النحو, so), (غير, unsociably), (الاجتماعي, unsociably), (؟, ?)"
+  },
+  {
+    "id": "m10248",
+    "ar": "كان الشارع مزدحما بالسيارات .",
+    "en": "The street was congested with cars .",
+    "alignment_string": "(كان, was), (الشارع, [The, street]), (مزدحما, congested), (بالسيارات, [with, cars]), (., .)"
+  },
+  {
+    "id": "m786",
+    "ar": "كم عمر ابنتك ؟",
+    "en": "How old is your daughter ?",
+    "alignment_string": "(كم, How), (عمر, old), (ابنتك, [your, daughter]), (؟, ?)"
+  },
+  {
+    "id": "a772",
+    "ar": "اخذت العلبة .",
+    "en": "I took the box .",
+    "alignment_string": "(اخذت, [I, took]), (العلبة, [the, box]), (., .)"
+  },
+  {
+    "id": "a9930",
+    "ar": "يا كريم ، كم مرة تساعد في اعمال البيت ؟",
+    "en": "Karim , how often do you help with the house chores ?",
+    "alignment_string": "(يا, Karim), (كريم, Karim), (،, ,), (كم, how), (مرة, often), (تساعد, [you, help]), (في, with), (اعمال, chores), (البيت, [the, house]), (؟, ?)"
+  },
+  {
+    "id": "a12912",
+    "ar": "صندوقك على طاولة المطبخ .",
+    "en": "Your lunchbox is on the kitchen counter .",
+    "alignment_string": "(صندوقك, [Your, lunchbox]), (على, on), (طاولة, [the, counter]), (المطبخ, kitchen), (., .)"
+  },
+  {
+    "id": "m10204",
+    "ar": "ساذهب الى نادي اللياقة البدنية . هل يمكن ان استخدم الاجهزة بحريه ؟",
+    "en": "I'll go to the fitness club . May I use freely ?",
+    "alignment_string": "(ساذهب, [I'll, go]), (الى, to), (نادي, [the, club]), (اللياقة, fitness), (البدنية, fitness), (., .), (هل, May), (يمكن, [May, I]), (استخدم, use), (الاجهزة, use), (بحريه, freely), (؟, ?)"
+  },
+  {
+    "id": "m4278",
+    "ar": "من فضلك ارسل هذا بالبريد الجوى .",
+    "en": "Please send this by airmail .",
+    "alignment_string": "(من, Please), (فضلك, Please), (ارسل, send), (هذا, this), (بالبريد, [by, airmail]), (الجوى, airmail), (., .)"
+  },
+  {
+    "id": "m7087",
+    "ar": "اراهن بعشرة دولارات .",
+    "en": "I'll bet ten dollars .",
+    "alignment_string": "(اراهن, [I'll, bet]), (بعشرة, ten), (دولارات, dollars), (., .)"
+  },
+  {
+    "id": "a724",
+    "ar": "اتمنى ذلك . هذا امر مزعج .",
+    "en": "I hope so . This is an annoying matter .",
+    "alignment_string": "(اتمنى, [I, hope]), (ذلك, so), (., .), (هذا, This), (امر, matter), (مزعج, annoying), (., .)"
+  },
+  {
+    "id": "m4755",
+    "ar": "معذرة . كيف يمكنني الوصول الى البنك من هنا ؟",
+    "en": "Excuse me . How can I get from here to the bank ?",
+    "alignment_string": "(معذرة, [Excuse, me]), (., .), (كيف, How), (يمكنني, [can, I]), (الوصول, get), (الى, to), (البنك, [the, bank]), (من, from), (هنا, here), (؟, ?)"
+  },
+  {
+    "id": "a1208",
+    "ar": "مرحبا يا زينب . لدينا مجموعة دراسة للامتحان .",
+    "en": "Hello Zainab . We have a study group for the exam .",
+    "alignment_string": "(مرحبا, Hello), (يا, Zainab), (زينب, Zainab), (., .), (لدينا, [We, have]), (مجموعة, [group]), (دراسة, study), (للامتحان, [for, the, exam]), (., .)"
+  },
+  {
+    "id": "a13387",
+    "ar": "تفضل . ثلاثة موز .",
+    "en": "Here you go . Three bananas .",
+    "alignment_string": "(تفضل, [Here, you, go]), (., .), (ثلاثة, Three), (موز, bananas), (., .)"
+  },
+  {
+    "id": "m9946",
+    "ar": "اين مكان هذا المقعد ؟",
+    "en": "Where is this seat located ?",
+    "alignment_string": "(اين, Where), (مكان, [located]), (هذا, this), (المقعد, seat), (؟, ?)"
+  },
+  {
+    "id": "m9553",
+    "ar": "هل يوجد سوق بالقرب من هنا ؟",
+    "en": "Is there a market near here ?",
+    "alignment_string": "(هل, Is), (يوجد, there), (سوق, [market]), (بالقرب, near), (من, near), (هنا, here), (؟, ?)"
+  },
+  {
+    "id": "a7054",
+    "ar": "اريد التقرير الجديد . هو على مكتبك .",
+    "en": "I want the new report . It is on your desk .",
+    "alignment_string": "(اريد, [I, want]), (التقرير, [the, report]), (الجديد, new), (., .), (هو, It), (على, on), (مكتبك, [your, desk]), (., .)"
+  },
+  {
+    "id": "a12021",
+    "ar": "حركة المرور مزدحمة جدا اليوم .",
+    "en": "The traffic is very heavy today .",
+    "alignment_string": "(حركة, [The, traffic]), (المرور, [The, traffic]), (مزدحمة, [heavy]), (جدا, very), (اليوم, today), (., .)"
+  },
+  {
+    "id": "m1804",
+    "ar": "هل تم تكرار التاكيد ؟",
+    "en": "Is it reconfirmed ?",
+    "alignment_string": "(هل, Is), (تم, it), (تكرار, reconfirmed), (التاكيد, reconfirmed), (؟, ?)"
+  },
+  {
+    "id": "m4104",
+    "ar": "الاخضر .",
+    "en": "The green one .",
+    "alignment_string": "(الاخضر, [The, green, one]), (., .)"
+  },
+  {
+    "id": "m5483",
+    "ar": "هل تغادر الحافلة الى بوسطن في الساعة التاسعة وثلاثين دقيقة ؟",
+    "en": "Does the bus to Boston leave at nine thirty ?",
+    "alignment_string": "(هل, Does), (تغادر, [leave]), (الحافلة, [the, bus]), (الى, to), (بوسطن, Boston), (في, at), (التاسعة, nine), (وثلاثين, thirty), (؟, ?)"
+  },
+  {
+    "id": "m6597",
+    "ar": "الملح من فضلك .",
+    "en": "Salt , please .",
+    "alignment_string": "(الملح, Salt), (من, [please]), (فضلك, please]), (., .)"
+  },
+  {
+    "id": "a3565",
+    "ar": "اسمه خالد . هو طالب عماني لطيف جدا .",
+    "en": "His name is Khalid . He is a very kind Omani student .",
+    "alignment_string": "(اسمه, [His, name]), (خالد, [Khalid]), (., .), (هو, He), (طالب, [student]), (عماني, Omani), (لطيف, kind), (جدا, very), (., .)"
+  },
+  {
+    "id": "a3680",
+    "ar": "يا عمر ! عندي اخبار رائعة !",
+    "en": "Omar ! I have great news !",
+    "alignment_string": "(يا, Omar), (عمر, Omar), (!, !), (عندي, [I, have]), (اخبار, news), (رائعة, great), (!, !)"
+  },
+  {
+    "id": "a8952",
+    "ar": "وعليكم السلام . لا ، البنك هناك .",
+    "en": "And upon you be peace . No , the bank is there .",
+    "alignment_string": "(وعليكم, [And, upon, you]), (السلام, peace), (., .), (لا, No), (،, ,), (البنك, [the, bank]), (هناك, [there]), (., .)"
+  },
+  {
+    "id": "m2112",
+    "ar": "لص . امسكوا به .",
+    "en": "Thief . Catch him .",
+    "alignment_string": "(لص, Thief), (., .), (امسكوا, Catch), (به, him), (., .)"
+  },
+  {
+    "id": "a9189",
+    "ar": "سابقى هنا حتى اكمل برنامجي الرياضي .",
+    "en": "I will stay here until I complete my exercise program .",
+    "alignment_string": "(سابقى, [I, will, stay]), (هنا, here), (حتى, until), (اكمل, [I, complete]), (برنامجي, [my, program]), (الرياضي, exercise), (., .)"
+  },
+  {
+    "id": "m8821",
+    "ar": "انني ابحث عن هدية تذكارية شيقة من لاس فيجاس .",
+    "en": "I'm looking for an interesting souvenir from Las Vegas .",
+    "alignment_string": "(انني, I'm), (ابحث, looking), (عن, for), (هدية, souvenir), (تذكارية, souvenir), (شيقة, interesting), (من, from), (لاس, Las), (فيجاس, Vegas), (., .)"
+  },
+  {
+    "id": "a10711",
+    "ar": "السلام عليكم . ممكن توصلني الى وسط المدينة من فضلك ؟",
+    "en": "Hello . Could you take me to the city center , please ?",
+    "alignment_string": "(السلام, Hello), (عليكم, Hello), (., .), (ممكن, Could), (توصلني, [take, me]), (الى, to), (وسط, center), (المدينة, [the, city]), (من, please), (فضلك, please), (؟, ?)"
+  },
+  {
+    "id": "a12171",
+    "ar": "هذا رائع يا حبيبتي .",
+    "en": "That's wonderful , my dear .",
+    "alignment_string": "(هذا, That's), (رائع, wonderful), (حبيبتي, [my, dear]), (., .)"
+  },
+  {
+    "id": "m6693",
+    "ar": "متى نصل الى نيويورك ؟",
+    "en": "What time are we arriving in New York ?",
+    "alignment_string": "(متى, [What, time]), (نصل, [we, arriving]), (الى, in), (نيويورك, [New, York]), (؟, ?)"
+  },
+  {
+    "id": "m918",
+    "ar": "طلبت نصف طازج ، ليس ناضجا بالكامل .",
+    "en": "I ordered medium , not well done .",
+    "alignment_string": "(طلبت, [I, ordered]), (نصف, medium), (طازج, medium), (،, ,), (ليس, not), (ناضجا, done), (بالكامل, well), (., .)"
+  },
+  {
+    "id": "m4684",
+    "ar": "نادي سوبتروبيكانا جيد . انه يظل مفتوحا حتى الثانية صباحا . الموظفون سيطلبون لك تاكسي حينما تستعد للمغادرة .",
+    "en": "Club Subtropicana is good . It stays open until two a . m . The staff will call a taxi for you when you are ready to leave .",
+    "alignment_string": "(نادي, Club), (سوبتروبيكانا, Subtropicana), (جيد, good), (., .), (انه, It), (يظل, stays), (مفتوحا, open), (حتى, until), (الثانية, two), (صباحا, a.m.), (., .), (الموظفون, [The, staff]), (سيطلبون, [will, call]), (لك, [for, you]), (تاكسي, taxi), (حينما, when), (تستعد, [you, ready]), (للمغادرة, [to, leave]), (., .)"
+  },
+  {
+    "id": "a2281",
+    "ar": "اهلا بك . ما هو هذا الشيء ؟",
+    "en": "Welcome . What is this thing ?",
+    "alignment_string": "(اهلا, Welcome), (بك, Welcome), (., .), (ما, What), (هو, is), (هذا, this), (الشيء, thing), (؟, ?)"
+  },
+  {
+    "id": "m3899",
+    "ar": "عليك ان تصرف شيكاتك السياحية في المصرف .",
+    "en": "You have to cash your traveler's checks at a bank .",
+    "alignment_string": "(عليك, [You, have, to]), (تصرف, cash), (شيكاتك, [your, checks]), (السياحية, traveler's), (في, at), (المصرف, [bank]), (., .)"
+  },
+  {
+    "id": "a9891",
+    "ar": "بالتاكيد . ساعد الكتب الان .",
+    "en": "Certainly . I will count the books now .",
+    "alignment_string": "(بالتاكيد, Certainly), (., .), (ساعد, [I, will, count]), (الكتب, [the, books]), (الان, now), (., .)"
+  },
+  {
+    "id": "a3399",
+    "ar": "نعم ، هو . اذهبن بهدوء من فضلكن .",
+    "en": "Yes , it is . Please go calmly .",
+    "alignment_string": "(نعم, Yes), (،, ,), (هو, [it, is]), (., .), (اذهبن, go), (بهدوء, calmly), (من, Please), (فضلكن, Please), (., .)"
+  },
+  {
+    "id": "a4373",
+    "ar": "نعم ، هذا الشارع دائما مزدحم .",
+    "en": "Yes , this street is always crowded .",
+    "alignment_string": "(نعم, Yes), (،, ,), (هذا, this), (الشارع, street), (دائما, always), (مزدحم, crowded), (., .)"
+  },
+  {
+    "id": "m10944",
+    "ar": "اود ان ارسل هذا الطرد .",
+    "en": "I'd like to send this package .",
+    "alignment_string": "(اود, [I'd, like]), (ان, to), (ارسل, send), (هذا, this), (الطرد, package), (., .)"
+  },
+  {
+    "id": "m2050",
+    "ar": "كلا ، ليس لدي . لقد اتيت لتوي من اليابان .",
+    "en": "No , I haven't . I've just come here from Japan .",
+    "alignment_string": "(كلا, No), (،, ,), (ليس, haven't), (لدي, [I, haven't]), (., .), (لقد, I've), (اتيت, come), (لتوي, just), (من, from), (اليابان, Japan), (., .)"
+  },
+  {
+    "id": "a10855",
+    "ar": "نعم ، هو قريب جدا وممتاز .",
+    "en": "Yes , it is very close and excellent .",
+    "alignment_string": "(نعم, Yes), (،, ,), (هو, [it, is]), (قريب, close), (جدا, very), (وممتاز, [and, excellent]), (., .)"
+  },
+  {
+    "id": "a12164",
+    "ar": "واين صندوق المسامير الان ؟",
+    "en": "And where is the box of nails now ?",
+    "alignment_string": "(واين, [And, where]), (صندوق, [the, box]), (المسامير, [of, nails]), (الان, now), (؟, ?)"
+  },
+  {
+    "id": "m10826",
+    "ar": "هل يوجد من يتحدث الانجليزية ؟",
+    "en": "Is there someone who speaks English there ?",
+    "alignment_string": "(هل, Is), (يوجد, there), (من, [someone, who]), (يتحدث, speaks), (الانجليزية, English), (؟, ?)"
+  },
+  {
+    "id": "a5947",
+    "ar": "الله يكون في عونك .",
+    "en": "May God help you .",
+    "alignment_string": "(الله, God), (يكون, May), (عونك, [help, you]), (., .)"
+  },
+  {
+    "id": "m5504",
+    "ar": "لقد اعطى مداخلته القصيرة شكلا خادعا .",
+    "en": "He duffed his short approach .",
+    "alignment_string": "(اعطى, [He, duffed]), (مداخلته, [his, approach]), (القصيرة, short), (شكلا, duffed), (خادعا, duffed), (., .)"
+  },
+  {
+    "id": "a11562",
+    "ar": "اهلا بك ، كيف اساعدك ؟",
+    "en": "Welcome , how can I help you ?",
+    "alignment_string": "(اهلا, Welcome), (بك, Welcome), (،, ,), (كيف, how), (اساعدك, [I, help, you]), (؟, ?)"
+  },
+  {
+    "id": "a10553",
+    "ar": "ممتاز . العدد الاجمالي اثنان وتسعون .",
+    "en": "Excellent . The total number is ninety - two .",
+    "alignment_string": "(ممتاز, Excellent), (., .), (العدد, [The, number]), (الاجمالي, total), (اثنان, two), (وتسعون, ninety), (., .)"
+  },
+  {
+    "id": "m9430",
+    "ar": "تريد طابعا اخر ؟",
+    "en": "Got another stamp ?",
+    "alignment_string": "(تريد, Got), (طابعا, stamp), (اخر, another), (؟, ?)"
+  },
+  {
+    "id": "m3118",
+    "ar": "نحتاج وقتا اكثر لكي نقرر .",
+    "en": "We need more time to decide .",
+    "alignment_string": "(نحتاج, [We, need]), (وقتا, time), (اكثر, more), (لكي, to), (نقرر, decide), (., .)"
+  },
+  {
+    "id": "m6317",
+    "ar": "هل العداد يعمل ؟",
+    "en": "Is the meter on ?",
+    "alignment_string": "(هل, Is), (العداد, [the, meter]), (يعمل, on), (؟, ?)"
+  },
+  {
+    "id": "a10761",
+    "ar": "هذا كتاب .",
+    "en": "This is a book .",
+    "alignment_string": "(هذا, This), (كتاب, book), (., .)"
+  },
+  {
+    "id": "m8033",
+    "ar": "اوه ، لقد سمعت الاسم . انها مدينة قديمة مشهورة ، اليس كذلك ؟",
+    "en": "Oh , I've heard the name . It's a famous , old city , isn't it ?",
+    "alignment_string": "(اوه, Oh), (،, ,), (لقد, I've), (سمعت, heard), (الاسم, [the, name]), (., .), (انها, It's), (مدينة, city), (قديمة, old), (مشهورة, famous), (،, ,), (اليس, isn't), (كذلك, it), (؟, ?)"
+  },
+  {
+    "id": "a69",
+    "ar": "هل يمكننا عد طوابع هذا البلد ؟",
+    "en": "Can we count the stamps of this country ?",
+    "alignment_string": "(هل, [Can, we]), (يمكننا, [Can, we]), (عد, count), (طوابع, [the, stamps]), (هذا, this), (البلد, country), (؟, ?)"
+  },
+  {
+    "id": "m9869",
+    "ar": "كم كانت تكلفة المكالمات الهاتفية الى اليابان ؟",
+    "en": "How much was the phone charge to Japan ?",
+    "alignment_string": "(كم, [How, much]), (كانت, was), (تكلفة, charge), (المكالمات, [the, phone]), (الهاتفية, [the, phone]), (الى, to), (اليابان, Japan), (؟, ?)"
+  },
+  {
+    "id": "m3583",
+    "ar": "اوو ، نعم ، من فضلك . انا اتمنى ان لا يصابوا بدوار البحر .",
+    "en": "Oh , yes , please . I just hope they won't get seasick .",
+    "alignment_string": "(اوو, Oh), (،, ,), (نعم, yes), (،, ,), (من, please), (فضلك, please), (., .), (انا, I), (اتمنى, hope), (لا, won't), (يصابوا, [they, get]), (بدوار, seasick), (البحر, seasick), (., .)"
+  },
+  {
+    "id": "a11671",
+    "ar": "اين المدير علي ؟",
+    "en": "Where is the manager , Ali ?",
+    "alignment_string": "(اين, [Where]), (المدير, [the, manager]), (علي, Ali), (؟, ?)"
+  },
+  {
+    "id": "m1775",
+    "ar": "السعر سيكون عشرة دولارات للراس .",
+    "en": "The charge will be ten dollars per head .",
+    "alignment_string": "(السعر, [The, charge]), (سيكون, [will, be]), (عشرة, ten), (دولارات, dollars), (للراس, [per, head]), (., .)"
+  },
+  {
+    "id": "m3565",
+    "ar": "هل يمكن ان تعد مكانا لي اي وقت صباح الثلاثاء ؟",
+    "en": "Can you fit me in sometime Tuesday morning ?",
+    "alignment_string": "(هل, [Can, you]), (يمكن, [Can, you]), (تعد, [fit, me, in]), (مكانا, [fit, me, in]), (لي, [fit, me, in]), (اي, sometime), (وقت, sometime), (صباح, morning), (الثلاثاء, Tuesday), (؟, ?)"
+  },
+  {
+    "id": "m4921",
+    "ar": "اود الحصول على مادة لعمل \" ماسك \" للوجه .",
+    "en": "I'd like a face - pack .",
+    "alignment_string": "(اود, [I'd, like], (ماسك, pack), (للوجه, face), (., .)"
+  },
+  {
+    "id": "a7460",
+    "ar": "نعم . يمكننا ان نلعب معا .",
+    "en": "Yes . We can play together .",
+    "alignment_string": "(نعم, Yes), (., .), (يمكننا, [We, can]), (نلعب, play), (معا, together), (., .)"
+  },
+  {
+    "id": "a2241",
+    "ar": "حسنا . يمكنك ان تاخذي فستانا اخر .",
+    "en": "Okay . You can take another dress .",
+    "alignment_string": "(حسنا, Okay), (., .), (يمكنك, [You, can]), (تاخذي, take), (فستانا, dress), (اخر, another), (., .)"
+  },
+  {
+    "id": "a2897",
+    "ar": "بالتاكيد . ساكمله صباحا . اراك غدا .",
+    "en": "Of course . I will complete it in the morning . See you tomorrow .",
+    "alignment_string": "(بالتاكيد, [Of, course]), (., .), (ساكمله, [I, will, complete, it]), (صباحا, [in, the, morning]), (., .), (اراك, [See, you]), (غدا, tomorrow), (., .)"
+  },
+  {
+    "id": "a10458",
+    "ar": "نعم ، لقد ضحكنا كثيرا .",
+    "en": "Yes , we laughed a lot .",
+    "alignment_string": "(نعم, Yes), (،, ,), (ضحكنا, [we, laughed]), (كثيرا, [lot]), (., .)"
+  },
+  {
+    "id": "m55",
+    "ar": "هل يوجد غرفة بسعر ارخص ؟",
+    "en": "Is there any cheaper room ?",
+    "alignment_string": "(هل, Is), (يوجد, there), (غرفة, room), (بسعر, cheaper), (ارخص, cheaper), (؟, ?)"
+  },
+  {
+    "id": "m10824",
+    "ar": "هل يجب على ان اقوم باعادة تاكيد للحجز .",
+    "en": "Do I have to make a reconfirmation ?",
+    "alignment_string": "(هل, Do), (يجب, [I, have, to]), (اقوم, make), (باعادة, reconfirmation), (تاكيد, reconfirmation), (للحجز, reconfirmation), (., ?)"
+  },
+  {
+    "id": "m11371",
+    "ar": "من فضلك اخبرها ان تتصل بي .",
+    "en": "Please tell her to call me .",
+    "alignment_string": "(من, Please), (فضلك, Please), (اخبرها, [tell, her]), (ان, to), (تتصل, call), (بي, me), (., .)"
+  },
+  {
+    "id": "m2405",
+    "ar": "نعم ، لدينا ثلاثة ملاعب تنس خلف هذا الجناح .",
+    "en": "Yes , we have three tennis courts at the back of this wing .",
+    "alignment_string": "(نعم, Yes), (،, ,), (لدينا, [we, have]), (ثلاثة, three), (ملاعب, courts), (تنس, tennis), (خلف, [at, the, back, of]), (هذا, this), (الجناح, wing), (., .)"
+  },
+  {
+    "id": "m11886",
+    "ar": "ايمكنني تناول دجاج في العشاء ؟",
+    "en": "Can I have chicken for dinner ?",
+    "alignment_string": "(ايمكنني, [Can, I]), (تناول, have), (دجاج, chicken), (في, for), (العشاء, dinner), (؟, ?)"
+  },
+  {
+    "id": "m9275",
+    "ar": "هل يمكنني الاحتفاظ ببطاقة المفتاح هذه ؟",
+    "en": "Can I keep this card key ?",
+    "alignment_string": "(هل, Can), (يمكنني, [Can, I]), (الاحتفاظ, keep), (ببطاقة, card), (المفتاح, key), (هذه, this), (؟, ?)"
+  },
+  {
+    "id": "m4189",
+    "ar": "ساغادر في السابعة صباحا غدا .",
+    "en": "I'm going to check out at seven tomorrow morning .",
+    "alignment_string": "(ساغادر, [I'm, going, to, check, out]), (في, at), (السابعة, seven), (صباحا, morning), (غدا, tomorrow), (., .)"
+  },
+  {
+    "id": "a13481",
+    "ar": "سعره عشرون درهما فقط .",
+    "en": "Its price is only twenty dirhams .",
+    "alignment_string": "(سعره, [Its, price]), (عشرون, twenty), (درهما, dirhams), (فقط, only), (., .)"
+  },
+  {
+    "id": "m6773",
+    "ar": "هل يمكن تقصيره باثنين سنتيمتر ؟",
+    "en": "Could you make the length shorter by two centimeters ?",
+    "alignment_string": "(هل, Could), (يمكن, [Could, you]), (تقصيره, [make, the, length, shorter]), (باثنين, [by, two]), (سنتيمتر, centimeters), (؟, ?)"
+  },
+  {
+    "id": "a4994",
+    "ar": "الان نحن اصدقاء جدد .",
+    "en": "Now we are new friends .",
+    "alignment_string": "(الان, Now), (نحن, we), (اصدقاء, friends), (جدد, new), (., .)"
+  },
+  {
+    "id": "a957",
+    "ar": "تفضل ، هذا الملف .",
+    "en": "Here you are , this is the file .",
+    "alignment_string": "(تفضل, [Here, you, are]), (،, ,), (هذا, this), (الملف, [the, file]), (., .)"
+  },
+  {
+    "id": "m7123",
+    "ar": "كم تبلغ تكلفة الرخصة ؟",
+    "en": "How much is the license ?",
+    "alignment_string": "(كم, [How, much]), (تبلغ, is), (تكلفة, is), (الرخصة, [the, license]), (؟, ?)"
+  },
+  {
+    "id": "m7312",
+    "ar": "اية طريق اسلك ؟",
+    "en": "Where should I go ?",
+    "alignment_string": "(اية, Where), (طريق, Where), (اسلك, [I, go]), (؟, ?)"
+  },
+  {
+    "id": "a10186",
+    "ar": "فكرة جيدة . هذا اختيار افضل .",
+    "en": "Good idea . This is a better choice .",
+    "alignment_string": "(فكرة, idea), (جيدة, Good), (., .), (هذا, This), (اختيار, [choice]), (افضل, better), (., .)"
+  },
+  {
+    "id": "a3489",
+    "ar": "يا بني ، حان وقت النوم الان .",
+    "en": "My son , it's time for bed now .",
+    "alignment_string": "(يا, My), (بني, son), (،, ,), (حان, it's), (وقت, time), (النوم, [for, bed]), (الان, now), (., .)"
+  },
+  {
+    "id": "m3158",
+    "ar": "هل نحتاج الى طرح هذا للتصويت ؟ ان لم نكن في حاجة الى هذا ، فامكاني ان اعتقد حينئذ اننا قد وصلنا الى نتيجة , ساقوم بارسالها الى مجلس ادارتنا صباح غد .",
+    "en": "Do we need to put this to a vote ? If not , I think we've arrived at a conclusion , which I'll send to our board of directors tomorrow morning .",
+    "alignment_string": "(هل, Do), (نحتاج, [we, need]), (الى, to), (طرح, put), (هذا, this), (للتصويت, [to, vote]), (؟, ?), (ان, If), (لم, not), (نكن, not), (في, not), (حاجة, not), (الى, not), (هذا, not), (،, ,), (اعتقد, I think), (اننا, we've), (وصلنا, arrived), (الى, at), (نتيجة, conclusion), (ساقوم, [ I'll]), (بارسالها, send), (الى, to), (مجلس, board), (ادارتنا, [our, directors]), (صباح, morning), (غد, tomorrow), (., .)"
+  },
+  {
+    "id": "m4120",
+    "ar": "لا يمكن ان ابيع هذه دون روشتة .",
+    "en": "I can't sell this without a prescription .",
+    "alignment_string": "(لا, can't), (يمكن, [I, can't]), (ابيع, sell), (هذه, this), (دون, without), (روشتة, [prescription]), (., .)"
+  },
+  {
+    "id": "m8907",
+    "ar": "ما سعر هذا ؟",
+    "en": "What's the price of this ?",
+    "alignment_string": "(ما, What's), (سعر, [the, price]), (هذا, this), (؟, ?)"
+  },
+  {
+    "id": "m598",
+    "ar": "متى تحب ان نغادر ؟",
+    "en": "When would you like to leave ?",
+    "alignment_string": "(متى, When), (تحب, [would, you, like]), (ان, to), (نغادر, leave), (؟, ?)"
+  },
+  {
+    "id": "m10901",
+    "ar": "هل هناك اي العاب يانكيز نيويورك هذا الاسبوع ؟",
+    "en": "Are there any New York Yankees' games this week ?",
+    "alignment_string": "(هل, Are), (هناك, there), (اي, any), (العاب, games), (يانكيز, Yankees'), (نيويورك, [New, York]), (هذا, this), (الاسبوع, week), (؟, ?)"
+  },
+  {
+    "id": "m3026",
+    "ar": "هل تملك عدة للخياطة ؟",
+    "en": "Do you have a sewing kit ?",
+    "alignment_string": "(هل, Do), (تملك, [you, have]), (عدة, kit), (للخياطة, sewing), (؟, ?)"
+  },
+  {
+    "id": "a10837",
+    "ar": "يا الهي ! ما اجمل السماء !",
+    "en": "Oh my God ! How beautiful the sky is !",
+    "alignment_string": "(يا, Oh), (الهي, [my, God]), (!, !), (ما, How), (اجمل, [beautiful]), (السماء, [the, sky]), (!, !)"
+  },
+  {
+    "id": "a10065",
+    "ar": "شكرا جزيلا . ما هو رقمه ؟",
+    "en": "Thank you very much . What is his number ?",
+    "alignment_string": "(شكرا, [Thank, you]), (جزيلا, [very, much]), (., .), (ما, What), (هو, is), (رقمه, [his, number]), (؟, ?)"
+  },
+  {
+    "id": "m9011",
+    "ar": "اظن ذلك . ستكون على ما يرام .",
+    "en": "I think so . You'll be all right .",
+    "alignment_string": "(اظن, [I, think]), (ذلك, so), (., .), (ستكون, [You'll]), (على, all), (ما, all), (يرام, right), (., .)"
+  },
+  {
+    "id": "a6215",
+    "ar": "الحساء الاول هو حساء عدس .",
+    "en": "The first soup is lentil soup .",
+    "alignment_string": "(الحساء, [The, soup]), (الاول, first), (هو, is), (حساء, soup), (عدس, lentil), (., .)"
+  },
+  {
+    "id": "a13474",
+    "ar": "من فضلك ، احتاج دباسة .",
+    "en": "Please , I need a stapler .",
+    "alignment_string": "(من, Please), (فضلك, Please), (،, ,), (احتاج, [I, need]), (دباسة, [stapler]), (., .)"
+  },
+  {
+    "id": "a8439",
+    "ar": "عظيم . كم الحساب ؟",
+    "en": "Great . How much is the bill ?",
+    "alignment_string": "(عظيم, Great), (., .), (كم, [How, much]), (الحساب, [the, bill]), (؟, ?)"
+  },
+  {
+    "id": "m4156",
+    "ar": "اريد ان اعمل مكالمة مسافة طويلة الى فندق هيلتون في بوسطن .",
+    "en": "I want to make a long - distance call to the Hilton Hotel in Boston .",
+    "alignment_string": "(اريد, [I, want]), (ان, to), (اعمل, make), (مكالمة, call), (مسافة, distance), (طويلة, long), (الى, to), (فندق, [the, Hotel]), (هيلتون, Hilton), (في, in), (بوسطن, Boston), (., .)"
+  },
+  {
+    "id": "m7581",
+    "ar": "الرقم هو صفر صفر صفر صفر صفر صفر صفر صفر صفر صفر واسمي هو ميهو سوزوكي .",
+    "en": "The number is zero zero zero zero zero zero zero zero zero zero and my name is miho Suzuki .",
+    "alignment_string": "(الرقم, [The, number]), (هو, is), (صفر, zero), (صفر, zero), (صفر, zero), (صفر, zero), (صفر, zero), (صفر, zero), (صفر, zero), (صفر, zero), (صفر, zero), (صفر, zero), (واسمي, [and, my, name]), (هو, is), (ميهو, miho), (سوزوكي, Suzuki), (., .)"
+  },
+  {
+    "id": "m9737",
+    "ar": "هل سيارات الاجرة تاتي الى هنا ؟",
+    "en": "Do taxis come here ?",
+    "alignment_string": "(هل, Do), (سيارات, taxis), (الاجرة, taxis), (تاتي, come), (هنا, here), (؟, ?)"
+  },
+  {
+    "id": "a4388",
+    "ar": "عمل ممتاز . انت مساعد رائع .",
+    "en": "Excellent work . You are a wonderful helper .",
+    "alignment_string": "(عمل, work), (ممتاز, Excellent), (., .), (انت, You), (مساعد, [helper]), (رائع, wonderful), (., .)"
+  },
+  {
+    "id": "m7739",
+    "ar": "هل يمكنك تزكية حفل باليه ؟",
+    "en": "Can you recommend a ballet ?",
+    "alignment_string": "(هل, Can), (يمكنك, [Can, you]), (تزكية, recommend), (حفل, [ballet]), (باليه, ballet), (؟, ?)"
+  },
+  {
+    "id": "m11196",
+    "ar": "طلبت دجاجا .",
+    "en": "I asked for chicken .",
+    "alignment_string": "(طلبت, [I, asked, for]), (دجاجا, chicken), (., .)"
+  },
+  {
+    "id": "a5042",
+    "ar": "مرحبا يا نورة ، كيف حالك ؟",
+    "en": "Hello Noura , how are you ?",
+    "alignment_string": "(مرحبا, Hello), (يا, Noura), (نورة, Noura), (،, ,), (كيف, how), (حالك, you), (؟, ?)"
+  },
+  {
+    "id": "m3413",
+    "ar": "الافضل الا اشتري اشياء ضخمة ؟",
+    "en": "I better not buy bulky things .",
+    "alignment_string": "(الافضل, [I, better]), (الا, not), (اشتري, buy), (اشياء, things), (ضخمة, bulky), (., .)"
+  },
+  {
+    "id": "a4674",
+    "ar": "صباح الخير . هل هذه الخضروات طازجة ؟",
+    "en": "Good morning . Are these vegetables fresh ?",
+    "alignment_string": "(صباح, morning), (الخير, Good), (., .), (هل, Are), (هذه, these), (الخضروات, vegetables), (طازجة, fresh), (؟, ?)"
+  },
+  {
+    "id": "m38",
+    "ar": "هل يمكن ان تغير مقعدي من فضلك ؟",
+    "en": "Could you please change my seat ?",
+    "alignment_string": "(هل, Could), (يمكن, [Could, you]), (تغير, change), (مقعدي, [my, seat]), (من, please), (فضلك, please), (؟, ?)"
+  },
+  {
+    "id": "m6241",
+    "ar": "يوجد محل اسطوانات جيد بالقرب من هنا .",
+    "en": "There is a good record shop around the corner .",
+    "alignment_string": "(يوجد, There), (محل, shop), (اسطوانات, record), (جيد, good), (بالقرب, around), (هنا, corner), (., .)"
+  },
+  {
+    "id": "a11219",
+    "ar": "تمام . ساستخدم هذه الازرار السوداء .",
+    "en": "Perfect . I will use these black buttons .",
+    "alignment_string": "(تمام, Perfect), (., .), (ساستخدم, [I, will, use]), (هذه, these), (الازرار, buttons), (السوداء, black), (., .)"
+  },
+  {
+    "id": "a11472",
+    "ar": "هذا رائع ! رايت عين الفستان على الانترنت .",
+    "en": "That's great ! I saw the exact dress online .",
+    "alignment_string": "(هذا, That's), (رائع, great), (!, !), (رايت, [I, saw]), (عين, [the, exact]), (الفستان, dress), (على, online), (الانترنت, online), (., .)"
+  },
+  {
+    "id": "a12710",
+    "ar": "حسنا . شكرا لك على المساعدة .",
+    "en": "Okay . Thank you for the help .",
+    "alignment_string": "(حسنا, Okay), (., .), (شكرا, Thank), (لك, you), (على, for), (المساعدة, [the, help]), (., .)"
+  },
+  {
+    "id": "a3782",
+    "ar": "يا سيدي ، انا عددت من واحد الى ثمانية وسبعين .",
+    "en": "Sir , I counted from one to seventy - eight .",
+    "alignment_string": "(يا, Sir), (سيدي, Sir), (،, ,), (انا, I), (عددت, counted), (من, from), (واحد, one), (الى, to), (ثمانية, eight), (وسبعين, [seventy]), (., .)"
+  },
+  {
+    "id": "m9897",
+    "ar": "هل هذا الخط يذهب الى سان دييجو ؟",
+    "en": "Is this line to San Diego ?",
+    "alignment_string": "(هل, Is), (هذا, this), (الخط, line), (الى, to), (سان, San), (دييجو, Diego), (؟, ?)"
+  },
+  {
+    "id": "m1331",
+    "ar": "استدع شخصا يتحدث اليابانية .",
+    "en": "Call someone who speaks Japanese .",
+    "alignment_string": "(استدع, Call), (شخصا, someone), (يتحدث, speaks), (اليابانية, Japanese), (., .)"
+  },
+  {
+    "id": "m2513",
+    "ar": "هل تعرف مكانا اخر قريبا يقبل الين الياباني ؟",
+    "en": "Do you know another place nearby that accepts Japanese yen ?",
+    "alignment_string": "(هل, Do), (تعرف, [you, know]), (مكانا, place), (اخر, another), (قريبا, nearby), (يقبل, [accepts]), (الين, yen), (الياباني, Japanese), (؟, ?)"
+  },
+  {
+    "id": "m9834",
+    "ar": "هل تبيع بضائع معفاة من الضرائب ؟",
+    "en": "Do you sell tax free goods ?",
+    "alignment_string": "(هل, Do), (تبيع, [you, sell]), (بضائع, goods), (معفاة, free), (الضرائب, tax), (؟, ?)"
+  },
+  {
+    "id": "m10618",
+    "ar": "عندي ميعاد مع السيد ويلسون في تمام الساعة ثلاثة بالضبط .",
+    "en": "I have an appointment with Mr . Wilson at three o'clock .",
+    "alignment_string": "(عندي, [I, have]), (ميعاد, [appointment]), (مع, with), (السيد, [Mr, .]), (ويلسون, Wilson), (في, at), (تمام, o'clock), (الساعة, o'clock), (ثلاثة, three), (., .)"
+  },
+  {
+    "id": "a8238",
+    "ar": "اسمي سام .",
+    "en": "My name is Sam .",
+    "alignment_string": "(اسمي, [My, name]), (سام, Sam), (., .)"
+  },
+  {
+    "id": "m67",
+    "ar": "حسنا . من فضلك احتفظ بهذه القسيمة وقدمها عندما تقوم بالاختيار .",
+    "en": "All right . Please keep this tag and present it when you come to pick it up .",
+    "alignment_string": "(حسنا, [All, right]), (., .), (من, Please), (فضلك, Please), (احتفظ, keep), (بهذه, this), (القسيمة, tag), (وقدمها, [and, present, it]), (عندما, when), (تقوم, [you, come]), (بالاختيار, [to, pick, it, up]), (., .)"
+  },
+  {
+    "id": "a661",
+    "ar": "كم بطة عندك ؟",
+    "en": "How many ducks do you have ?",
+    "alignment_string": "(كم, [How, many]), (بطة, ducks), (عندك, [you]), (؟, ?)"
+  },
+  {
+    "id": "m10583",
+    "ar": "هل يوجد لديكم منضدة لثلاثة اشخاص ؟",
+    "en": "Do you have a table for three ?",
+    "alignment_string": "(هل, Do), (لديكم, [you, have]), (منضدة, table), (لثلاثة, [for, three]), (؟, ?)"
+  },
+  {
+    "id": "m11472",
+    "ar": "هل يمكنني استخدام اشارة ضوئية ؟",
+    "en": "May I use a flash ?",
+    "alignment_string": "(هل, May), (يمكنني, [May, I]), (استخدام, use), (اشارة, flash), (ضوئية, flash), (؟, ?)"
+  },
+  {
+    "id": "m9318",
+    "ar": "لا استطيع ان اقرر ماذا اطلب . ماذا تزكي ؟",
+    "en": "I can't decide what to order . What do you recommend ?",
+    "alignment_string": "(لا, can't), (استطيع, [I, can't]), (اقرر, decide), (ماذا, what), (اطلب, [to, order]), (., .), (ماذا, What), (تزكي, [you, recommend]), (؟, ?)"
+  },
+  {
+    "id": "a7180",
+    "ar": "نعم ، هذه انا . خذ المصعد الى الطابق الخامس .",
+    "en": "Yes , this is me . Take the elevator to the fifth floor .",
+    "alignment_string": "(نعم, Yes), (،, ,), (هذه, this), (انا, me), (., .), (خذ, Take), (المصعد, [the, elevator]), (الى, to), (الطابق, floor), (الخامس, [the, fifth]), (., .)"
+  },
+  {
+    "id": "a337",
+    "ar": "هو استاذ ؟",
+    "en": "He is a teacher ?",
+    "alignment_string": "(هو, He), (استاذ, [teacher]), (؟, ?)"
+  },
+  {
+    "id": "m10982",
+    "ar": "اسف , لكن لدينا فقط مقاعد بجوار الممر على الجهة اليسرى في الجزء الامامي .",
+    "en": "I'm sorry , but we have only aisle seats left at the front .",
+    "alignment_string": "(اسف, [I'm, sorry]), (لكن, but), (لدينا, [we, have]), (فقط, only), (مقاعد, seats), (بجوار, aisle), (الممر, aisle), (على, at), (الجهة, left), (اليسرى, left), (في, at), (الجزء, front), (الامامي, [the, front]), (., .)"
+  },
+  {
+    "id": "a7322",
+    "ar": "شقتك جميلة جدا يا سالم .",
+    "en": "Your apartment is very beautiful , Salim .",
+    "alignment_string": "(شقتك, [Your, apartment]), (جميلة, [beautiful]), (جدا, very), (يا, ,), (سالم, Salim), (., .)"
+  },
+  {
+    "id": "m10854",
+    "ar": "هل يمكن لي ان اشرب الماء من الصنبور ؟",
+    "en": "Can I drink the water from the tap ?",
+    "alignment_string": "(هل, Can), (يمكن, [Can, I]), (اشرب, drink), (الماء, [the, water]), (من, from), (الصنبور, [the, tap]), (؟, ?)"
+  },
+  {
+    "id": "a10994",
+    "ar": "امش مباشرة . المحطة على بعد مائتي متر .",
+    "en": "Walk straight ahead . The station is two hundred meters away .",
+    "alignment_string": "(امش, Walk), (مباشرة, [straight, ahead]), (., .), (المحطة, [The, station]), (على, is), (بعد, away), (مائتي, [two, hundred]), (متر, meters), (., .)"
+  },
+  {
+    "id": "m1984",
+    "ar": "عليك ان تنتظر حوالي ساعة .",
+    "en": "You'll have to wait about an hour .",
+    "alignment_string": "(عليك, [You'll, have, to]), (تنتظر, wait), (حوالي, about), (ساعة, [hour]), (., .)"
+  },
+  {
+    "id": "m2453",
+    "ar": "هل لى ان اجرب المقاس الاكبر التالي ؟",
+    "en": "Could I try the next larger size ?",
+    "alignment_string": "(هل, Could), (لى, [Could, I]), (اجرب, try), (المقاس, size), (الاكبر, larger), (التالي, [the, next]), (؟, ?)"
+  },
+  {
+    "id": "m11731",
+    "ar": "هل من المتوقع ان يصل القطار في موعده ؟",
+    "en": "Is the train expected to get in on schedule ?",
+    "alignment_string": "(هل, Is), (من, expected), (المتوقع, expected), (ان, to), (يصل, [get, in]), (القطار, [the, train]), (في, on), (موعده, schedule), (؟, ?)"
+  },
+  {
+    "id": "a6629",
+    "ar": "اهلا بك يا سيد ديفيد .",
+    "en": "Welcome , Mr . David .",
+    "alignment_string": "(اهلا, Welcome), (بك, Welcome), (يا, ,), (سيد, [Mr, .]), (ديفيد, David), (., .)"
+  },
+  {
+    "id": "m6682",
+    "ar": "هل يمكن ان ارى ارخص من هذه ؟",
+    "en": "May I see some less expensive ones ?",
+    "alignment_string": "(هل, May), (يمكن, [May, I]), (ارى, see), (ارخص, [less, expensive]), (من, ones), (هذه, ones), (؟, ?)"
+  },
+  {
+    "id": "a2224",
+    "ar": "جدتي ، من هؤلاء ؟",
+    "en": "Grandma , who are these ?",
+    "alignment_string": "(جدتي, Grandma), (،, ,), (من, who), (هؤلاء, [these]), (؟, ?)"
+  },
+  {
+    "id": "a6285",
+    "ar": "يا ريم ، رسمتك جميلة جدا .",
+    "en": "Oh Reem , your painting is very beautiful .",
+    "alignment_string": "(يا, Oh), (ريم, Reem), (،, ,), (رسمتك, [your, painting]), (جميلة, [beautiful]), (جدا, very), (., .)"
+  },
+  {
+    "id": "a8016",
+    "ar": "اريد السفر في اليوم الثلاثين من شهر ديسمبر .",
+    "en": "I want to travel on the thirtieth day of the month of December .",
+    "alignment_string": "(اريد, [I, want]), (السفر, [travel]), (في, on), (اليوم, [the, day]), (الثلاثين, thirtieth), (من, of), (شهر, [the, month, of]), (ديسمبر, December), (., .)"
+  },
+  {
+    "id": "a9133",
+    "ar": "اريد ان اطلب شايا ساخنا من فضلك .",
+    "en": "I want to order a hot tea , please .",
+    "alignment_string": "(اريد, [I, want]), (اطلب, [to, order]), (شايا, tea), (ساخنا, hot), (من, please), (فضلك, please), (., .)"
+  },
+  {
+    "id": "a10691",
+    "ar": "هذا بسبب وزن الرسالة .",
+    "en": "This is because of the letter's weight .",
+    "alignment_string": "(هذا, This), (بسبب, [because, of]), (وزن, weight), (الرسالة, [the, letter's]), (., .)"
+  },
+  {
+    "id": "m6141",
+    "ar": "حلقي ملتهب .",
+    "en": "My throat's sore .",
+    "alignment_string": "(حلقي, [My, throat's]), (ملتهب, sore), (., .)"
+  },
+  {
+    "id": "a12186",
+    "ar": "نعم . شكرا .",
+    "en": "Yes . Thank you .",
+    "alignment_string": "(نعم, Yes), (., .), (شكرا, [Thank, you]), (., .)"
+  },
+  {
+    "id": "a5692",
+    "ar": "عفوا . بالتوفيق في دراستك .",
+    "en": "You're welcome . Good luck with your studies .",
+    "alignment_string": "(عفوا, [You're, welcome]), (., .), (بالتوفيق, [Good, luck]), (في, with), (دراستك, [your, studies]), (., .)"
+  },
+  {
+    "id": "m2103",
+    "ar": "بالتاكيد ، ها هي عجينة الخردل .",
+    "en": "Certainly , here's the mustard .",
+    "alignment_string": "(بالتاكيد, Certainly), (،, ,), (ها, here's), (هي, here's), (عجينة, [the, mustard]), (الخردل, mustard), (., .)"
+  },
+  {
+    "id": "a2071",
+    "ar": "شكرا ! كم من الناس هنا !",
+    "en": "Thank you ! How many people are here !",
+    "alignment_string": "(شكرا, [Thank, you]), (!, !), (كم, [How, many]), (من, people), (الناس, people), (هنا, [here]), (!, !)"
+  },
+  {
+    "id": "m5434",
+    "ar": "هذا الجلد رقيق للغاية وينخدش بسهولة , فانتبه جيدا .",
+    "en": "This leather is very delicate and scratches easily , so you must be careful .",
+    "alignment_string": "(هذا, This), (الجلد, leather), (رقيق, delicate), (للغاية, very), (وينخدش, [and, scratches]), (بسهولة, easily), (فانتبه, [so, you, must, careful]), (جيدا, careful), (., .)"
+  },
+  {
+    "id": "m2370",
+    "ar": "انا سعيد جدا لانني كنت اتناول وجبات على الطريقة الغربية منذ ان غادرت طوكيو .",
+    "en": "I'm very happy because I've been having Western - style meals since I left Tokyo .",
+    "alignment_string": "(انا, I'm), (سعيد, happy), (جدا, very), (لانني, because), (كنت, I've), (اتناول, [having]), (وجبات, meals), (على, style), (الطريقة, style), (الغربية, Western), (منذ, since), (غادرت, [I, left]), (طوكيو, Tokyo), (., .)"
+  },
+  {
+    "id": "m3891",
+    "ar": "صباح الخير . كم العدد ؟",
+    "en": "Good morning . How many ?",
+    "alignment_string": "(صباح, morning), (الخير, Good), (., .), (كم, How), (العدد, many), (؟, ?)"
+  },
+  {
+    "id": "m2029",
+    "ar": "سر في خط مستقيم . فندق ميلتون على اليسار .",
+    "en": "Go straight . The Milton Hotel is on the left .",
+    "alignment_string": "(سر, Go), (في, straight), (خط, straight), (مستقيم, straight), (., .), (فندق, Hotel), (ميلتون, [The, Milton]), (على, on), (اليسار, [the, left]), (., .)"
+  },
+  {
+    "id": "a8284",
+    "ar": "انا قلقة على نباتاتنا الصغيرة .",
+    "en": "I am worried about our small plants .",
+    "alignment_string": "(انا, I), (قلقة, worried), (على, about), (نباتاتنا, [our, plants]), (الصغيرة, small), (., .)"
+  },
+  {
+    "id": "a10630",
+    "ar": "هذا هو الخليفة الخامس هنا .",
+    "en": "This is the fifth caliph here .",
+    "alignment_string": "(هذا, This), (هو, is), (الخليفة, [the, caliph]), (الخامس, fifth), (هنا, here), (., .)"
+  },
+  {
+    "id": "m4957",
+    "ar": "هذا زميلي .",
+    "en": "This is my colleague .",
+    "alignment_string": "(هذا, This), (زميلي, [my, colleague]), (., .)"
+  },
+  {
+    "id": "a8774",
+    "ar": "تكلفة التصليح مئة وخمسون دولارا .",
+    "en": "The cost of the repair is one hundred and fifty dollars .",
+    "alignment_string": "(تكلفة, [The, cost, of]), (التصليح, [the, repair]), (مئة, [one, hundred]), (وخمسون, [and, fifty]), (دولارا, dollars), (., .)"
+  },
+  {
+    "id": "m282",
+    "ar": "اريد التثبت من هذه الحقيبة .",
+    "en": "I'd like to check in this suitcase .",
+    "alignment_string": "(اريد, [I'd, like]), (التثبت, [check, in]), (هذه, this), (الحقيبة, suitcase), (., .)"
+  },
+  {
+    "id": "a2354",
+    "ar": "ما رايك في فيلم رعب جديد ؟",
+    "en": "What do you think of a new horror movie ?",
+    "alignment_string": "(ما, What), (رايك, [you, think]), (في, of), (فيلم, [movie]), (رعب, horror), (جديد, new), (؟, ?)"
+  },
+  {
+    "id": "m4915",
+    "ar": "من فضلك بدل الدولارات الى جنيهات .",
+    "en": "Please convert dollars into pounds .",
+    "alignment_string": "(من, Please), (فضلك, Please), (بدل, convert), (الدولارات, dollars), (الى, into), (جنيهات, pounds), (., .)"
+  },
+  {
+    "id": "a12540",
+    "ar": "انا اسف . ماذا يعني ؟",
+    "en": "I am sorry . What does that mean ?",
+    "alignment_string": "(انا, I), (اسف, sorry), (., .), (ماذا, What), (يعني, [that, mean]), (؟, ?)"
+  },
+  {
+    "id": "m2715",
+    "ar": "يوجد هناك صالة قمار في هذه المدينة .",
+    "en": "There is a casino in this city .",
+    "alignment_string": "(يوجد, [There]), (هناك, There), (صالة, casino), (قمار, casino), (في, in), (هذه, this), (المدينة, city), (., .)"
+  },
+  {
+    "id": "m6115",
+    "ar": "سوف يغادر شخص غدا .",
+    "en": "One person will check out tomorrow .",
+    "alignment_string": "(سوف, will), (يغادر, [check, out]), (شخص, [One, person]), (غدا, tomorrow), (., .)"
+  },
+  {
+    "id": "a9057",
+    "ar": "نعم . ثم خذ الشارع الثاني على اليسار .",
+    "en": "Yes . Then take the second street on the left .",
+    "alignment_string": "(نعم, Yes), (., .), (ثم, Then), (خذ, take), (الشارع, street), (الثاني, [the, second]), (على, on), (اليسار, [the, left]), (., .)"
+  },
+  {
+    "id": "m3917",
+    "ar": "متى القطار التالي الى اكسفورد ؟",
+    "en": "When is the next train to Oxford ?",
+    "alignment_string": "(متى, [When]), (القطار, [the, train]), (التالي, next), (الى, to), (اكسفورد, Oxford), (؟, ?)"
+  },
+  {
+    "id": "a4755",
+    "ar": "البسي الفستان .",
+    "en": "Wear the dress .",
+    "alignment_string": "(البسي, Wear), (الفستان, [the, dress]), (., .)"
+  },
+  {
+    "id": "a5813",
+    "ar": "شكرا جزيلا لك يا ابا حسان .",
+    "en": "Thank you very much , Abu Hassan .",
+    "alignment_string": "(شكرا, Thank), (جزيلا, [very, much]), (لك, you), (يا, ,), (ابا, Abu), (حسان, Hassan), (., .)"
+  },
+  {
+    "id": "a11865",
+    "ar": "اين التفاح ؟",
+    "en": "Where are the apples ?",
+    "alignment_string": "(اين, Where), (التفاح, [the, apples]), (؟, ?)"
+  },
+  {
+    "id": "a12749",
+    "ar": "هل يمكنني ان اذهب الان ؟",
+    "en": "Can I go now ?",
+    "alignment_string": "(هل, Can), (يمكنني, [Can, I]), (اذهب, go), (الان, now), (؟, ?)"
+  },
+  {
+    "id": "m4711",
+    "ar": "اريد بعض الشامبو .",
+    "en": "I'd like some shampoo .",
+    "alignment_string": "(اريد, [I'd, like]), (بعض, some), (الشامبو, shampoo), (., .)"
+  },
+  {
+    "id": "m8769",
+    "ar": "انا ظمان .",
+    "en": "I'm thirsty .",
+    "alignment_string": "(انا, I'm), (ظمان, thirsty), (., .)"
+  },
+  {
+    "id": "a7928",
+    "ar": "حسنا . هل تريد شيئا اخر ؟",
+    "en": "Okay . Do you want anything else ?",
+    "alignment_string": "(حسنا, Okay), (., .), (هل, Do), (تريد, [you, want]), (شيئا, anything), (اخر, else), (؟, ?)"
+  },
+  {
+    "id": "m415",
+    "ar": "شركة الخطوط الجوية اليابانية ، طائرة رقم واحد اثنان ثلاثة .",
+    "en": "Japan Airlines , flight number one two three .",
+    "alignment_string": "(شركة, Airlines), (الخطوط, Airlines), (الجوية, Airlines), (اليابانية, Japan), (،, ,), (طائرة, flight), (رقم, number), (واحد, one), (اثنان, two), (ثلاثة, three), (., .)"
+  },
+  {
+    "id": "m5612",
+    "ar": "انا افرق شعري من هنا .",
+    "en": "I part my hair here .",
+    "alignment_string": "(انا, I), (افرق, part), (شعري, [my, hair]), (من, here), (هنا, here), (., .)"
+  },
+  {
+    "id": "m1519",
+    "ar": "اخشى ان يكون هناك خطا في الفاتورة .",
+    "en": "I'm afraid there is a mistake in the bill .",
+    "alignment_string": "(اخشى, [I'm, afraid]), (يكون, is), (هناك, there), (خطا, [mistake]), (في, in), (الفاتورة, [the, bill]), (., .)"
+  },
+  {
+    "id": "m9411",
+    "ar": "بهذا المقاس من فضلك .",
+    "en": "In this size , please .",
+    "alignment_string": "(بهذا, [In, this]), (المقاس, size), (من, please), (فضلك, please), (., .)"
+  },
+  {
+    "id": "m7155",
+    "ar": "شكرا على النصيحة . ساجرب ذلك في المرة القادمة ؟",
+    "en": "Thanks for the tip . I'll try it next time .",
+    "alignment_string": "(شكرا, Thanks), (على, for), (النصيحة, [the, tip]), (., .), (ساجرب, [I'll, try]), (ذلك, it), (في, time), (المرة, time), (القادمة, next), (؟, .)"
+  },
+  {
+    "id": "a5665",
+    "ar": "اهلا بك . بالطبع ، تفضل .",
+    "en": "Welcome . Of course , go ahead .",
+    "alignment_string": "(اهلا, Welcome), (بك, Welcome), (., .), (بالطبع, [Of, course]), (،, ,), (تفضل, [go, ahead]), (., .)"
+  },
+  {
+    "id": "a909",
+    "ar": "انا بخير والحمد لله .",
+    "en": "I am fine , praise be to God .",
+    "alignment_string": "(انا, I), (بخير, fine), (والحمد, [praise, to]), (لله, God), (., .)"
+  },
+  {
+    "id": "a1810",
+    "ar": "هذا رائع ، اريد القليل منها .",
+    "en": "This is wonderful , I want a little of it .",
+    "alignment_string": "(هذا, This), (رائع, [wonderful]), (،, ,), (اريد, [I, want]), (القليل, little), (منها, [of, it]), (., .)"
+  },
+  {
+    "id": "a11971",
+    "ar": "عندي رقم جديد .",
+    "en": "I have a new number .",
+    "alignment_string": "(عندي, [I, have]), (رقم, [number]), (جديد, new), (., .)"
+  },
+  {
+    "id": "m4550",
+    "ar": "اود ان ادفع فاتورتي .",
+    "en": "I would like to pay my bill .",
+    "alignment_string": "(اود, [I, would, like]), (ادفع, pay), (فاتورتي, [my, bill]), (., .)"
+  },
+  {
+    "id": "m3799",
+    "ar": "اريد ان اتصل باليابان .",
+    "en": "I want to call Japan .",
+    "alignment_string": "(اريد, [I, want]), (اتصل, call), (باليابان, Japan), (., .)"
+  },
+  {
+    "id": "m11828",
+    "ar": "اود ارسال هذه البطاقة البريدية الى اليابان بالبريد السريع .",
+    "en": "I'd like to send this postcard to Japan by express .",
+    "alignment_string": "(اود, [I'd, like]), (ارسال, [send]), (هذه, this), (البطاقة, postcard), (البريدية, postcard), (الى, to), (اليابان, Japan), (بالبريد, by), (السريع, express), (., .)"
+  },
+  {
+    "id": "a12867",
+    "ar": "عفوا ، ما معنى كلمة \" البرج \" ؟",
+    "en": "Excuse me , what does the word \" al - burj \" mean ?",
+    "alignment_string": "(عفوا, [Excuse, me]), (،, ,), (ما, what), (معنى, mean), (كلمة, [the, word]), (البرج, [al, -, burj]), (؟, ?)"
+  },
+  {
+    "id": "m7778",
+    "ar": "يمكنك ركوب المصعد رقم واحد او المصعد رقم اثنان .",
+    "en": "You can take either the number one or the number two elevator .",
+    "alignment_string": "(يمكنك, [You, can]), (ركوب, take), (المصعد, elevator), (رقم, [the, number]), (واحد, [either, one]), (او, or), (المصعد, elevator), (رقم, [the, number]), (اثنان, two), (., .)"
+  },
+  {
+    "id": "a7043",
+    "ar": "المستوى الرابع هو المستوى المتوسط .",
+    "en": "The fourth level is the intermediate level .",
+    "alignment_string": "(المستوى, [The, level]), (الرابع, fourth), (هو, is), (المستوى, [the, level]), (المتوسط, intermediate), (., .)"
+  },
+  {
+    "id": "a5329",
+    "ar": "مساء الخير . اريد مفتاح غرفتي من فضلك .",
+    "en": "Good evening . I want my room key , please .",
+    "alignment_string": "(مساء, evening), (الخير, Good), (., .), (اريد, [I, want]), (مفتاح, key), (غرفتي, [my, room]), (من, please), (فضلك, please), (., .)"
+  },
+  {
+    "id": "m3361",
+    "ar": "هلا تفضلت بشرح هذا على نحو اكثر تفصيلا ؟",
+    "en": "Could you please explain that in more detail ?",
+    "alignment_string": "(هلا, Could), (تفضلت, [you, please]), (بشرح, explain), (هذا, that), (على, in), (نحو, detail), (اكثر, more), (تفصيلا, detail), (؟, ?)"
+  },
+  {
+    "id": "a2053",
+    "ar": "ارسمي بيتا يا ليلى .",
+    "en": "Draw a house , Layla .",
+    "alignment_string": "(ارسمي, Draw), (بيتا, house), (ليلى, Layla), (., .)"
+  },
+  {
+    "id": "m9326",
+    "ar": "لدي زجاجة نبيذ ارز ياباني .",
+    "en": "I have a bottle of Japanese rice wine .",
+    "alignment_string": "(لدي, [I, have]), (زجاجة, bottle), (نبيذ, wine), (ارز, rice), (ياباني, Japanese), (., .)"
+  },
+  {
+    "id": "m8838",
+    "ar": "لقد تزوجنا ليومين فقط .",
+    "en": "We've been married for only two days .",
+    "alignment_string": "(تزوجنا, [We've, married]), (ليومين, [for, two, days]), (فقط, only), (., .)"
+  },
+  {
+    "id": "a992",
+    "ar": "هل تريد ان تلعب معنا يوم السبت ؟",
+    "en": "Do you want to play with us on Saturday ?",
+    "alignment_string": "(هل, Do), (تريد, [you, want]), (تلعب, play), (معنا, [with, us]), (يوم, on), (السبت, Saturday), (؟, ?)"
+  },
+  {
+    "id": "a9665",
+    "ar": "اهلا يا خالد ، انا بخير ، شكرا لك .",
+    "en": "Hello Khalid , I'm fine , thank you .",
+    "alignment_string": "(اهلا, Hello), (يا, Khalid), (خالد, Khalid), (،, ,), (انا, I'm), (بخير, fine), (،, ,), (شكرا, thank), (لك, you), (., .)"
+  },
+  {
+    "id": "a9531",
+    "ar": "نعم ، بكل سرور . متى واين نلتقي ؟",
+    "en": "Yes , with pleasure . When and where do we meet ?",
+    "alignment_string": "(نعم, Yes), (،, ,), (بكل, with), (سرور, pleasure), (., .), (متى, When), (واين, [and, where]), (نلتقي, [we, meet]), (؟, ?)"
+  },
+  {
+    "id": "m7708",
+    "ar": "ساقيم في فندق ، ولكني لم احجز بعد .",
+    "en": "I'll stay at a hotel , but I don't have a reservation yet .",
+    "alignment_string": "(ساقيم, [I'll, stay]), (في, at), (فندق, hotel), (،, ,), (ولكني, [but, I]), (لم, don't), (احجز, [reservation]), (بعد, yet), (., .)"
+  },
+  {
+    "id": "m6808",
+    "ar": "هل يوجد اي قطار سريع الى بوسطن ؟",
+    "en": "Are there any express to Boston ?",
+    "alignment_string": "(هل, Are), (يوجد, [there]), (اي, any), (قطار, express), (سريع, express), (الى, to), (بوسطن, Boston), (؟, ?)"
+  },
+  {
+    "id": "a6359",
+    "ar": "عندما اضغط الفرامل ، اسمع صوتا غريبا .",
+    "en": "When I press the brakes , I hear a strange sound .",
+    "alignment_string": "(عندما, When), (اضغط, [I, press]), (الفرامل, [the, brakes]), (،, ,), (اسمع, [I, hear]), (صوتا, [sound]), (غريبا, strange), (., .)"
+  },
+  {
+    "id": "a2126",
+    "ar": "الطعام جيد ، يا ابي .",
+    "en": "The food is good , dad .",
+    "alignment_string": "(الطعام, [The, food]), (جيد, [good]), (،, ,), (يا, dad), (ابي, dad), (., .)"
+  },
+  {
+    "id": "a65",
+    "ar": "انظري يا ابنتي ، الجو صار ممطرا .",
+    "en": "Look , my daughter , the weather has become rainy .",
+    "alignment_string": "(انظري, Look), (ابنتي, [my, daughter]), (،, ,), (الجو, [the, weather]), (صار, [become]), (ممطرا, rainy), (., .)"
+  },
+  {
+    "id": "m4929",
+    "ar": "لا اعتقد انه يناسبني .",
+    "en": "I don't think it fits me .",
+    "alignment_string": "(لا, don't), (اعتقد, [I, think]), (انه, it), (يناسبني, [fits, me]), (., .)"
+  },
+  {
+    "id": "a9864",
+    "ar": "كل شيء على ما يرام . هذه هي الفاتورة .",
+    "en": "Everything is in order . Here is the bill .",
+    "alignment_string": "(كل, Everything), (شيء, Everything), (على, is), (ما, in), (يرام, order), (., .), (هذه, Here), (هي, is), (الفاتورة, [the, bill]), (., .)"
+  },
+  {
+    "id": "a1289",
+    "ar": "اهلا بك خالد ، انا جون .",
+    "en": "Welcome Khalid , I am John .",
+    "alignment_string": "(اهلا, Welcome), (بك, Welcome), (خالد, Khalid), (،, ,), (انا, I), (جون, [John]), (., .)"
+  },
+  {
+    "id": "a5660",
+    "ar": "شكرا لك . لكن هذا كيس كرواسان .",
+    "en": "Thank you . But this is a bag of croissants .",
+    "alignment_string": "(شكرا, Thank), (لك, you), (., .), (لكن, But), (هذا, this), (كيس, bag), (كرواسان, croissants), (., .)"
+  },
+  {
+    "id": "a6776",
+    "ar": "الانتظار طويل جدا . انا متعبة .",
+    "en": "The wait is very long . I am tired .",
+    "alignment_string": "(الانتظار, [The, wait]), (طويل, [long]), (جدا, very), (., .), (انا, I), (متعبة, [tired]), (., .)"
+  },
+  {
+    "id": "a12187",
+    "ar": "ثم اقرا كتابا في غرفتي .",
+    "en": "Then I read a book in my room .",
+    "alignment_string": "(ثم, Then), (اقرا, [I, read]), (كتابا, [book]), (في, in), (غرفتي, [my, room]), (., .)"
+  },
+  {
+    "id": "a4626",
+    "ar": "نحن نريد ان نطبخ دجاجا مع الارز . هذا سهل .",
+    "en": "We want to cook chicken with rice . That's easy .",
+    "alignment_string": "(نحن, We), (نريد, want), (نطبخ, cook), (دجاجا, chicken), (مع, with), (الارز, rice), (., .), (هذا, That's), (سهل, easy), (., .)"
+  },
+  {
+    "id": "m2212",
+    "ar": "رقم الهاتف هو واحد اثنان ثلاثة خمسة ستة .",
+    "en": "The phone number is one two three four five six .",
+    "alignment_string": "(رقم, number), (الهاتف, [The, phone]), (هو, is), (واحد, one), (اثنان, two), (ثلاثة, three), (خمسة, [four, five]), (ستة, six), (., .)"
+  },
+  {
+    "id": "a1384",
+    "ar": "كم شخص عند الطبيب ؟",
+    "en": "How many people are with the doctor ?",
+    "alignment_string": "(كم, [How, many]), (شخص, people), (عند, with), (الطبيب, [the, doctor]), (؟, ?)"
+  },
+  {
+    "id": "a3653",
+    "ar": "عمل جيد . ماذا بعد ذلك ؟",
+    "en": "Good work . What's after that ?",
+    "alignment_string": "(عمل, work), (جيد, Good), (., .), (ماذا, What's), (بعد, after), (ذلك, that), (؟, ?)"
+  },
+  {
+    "id": "m6862",
+    "ar": "هل يمكن ان تمرر لي الملح ؟",
+    "en": "Can you pass me the salt ?",
+    "alignment_string": "(هل, Can), (يمكن, [Can, you]), (تمرر, pass), (لي, me), (الملح, [the, salt]), (؟, ?)"
+  },
+  {
+    "id": "a9545",
+    "ar": "صنعنا تسع عشرة كعكة ! هذا رائع !",
+    "en": "We made nineteen cookies ! This is great !",
+    "alignment_string": "(صنعنا, [We, made]), (تسع, nineteen), (عشرة, nineteen), (كعكة, cookies), (!, !), (هذا, This), (رائع, [great]), (!, !)"
+  },
+  {
+    "id": "a10273",
+    "ar": "بالطبع . تفضل معي .",
+    "en": "Of course . Come with me .",
+    "alignment_string": "(بالطبع, [Of, course]), (., .), (تفضل, Come), (معي, [with, me]), (., .)"
+  },
+  {
+    "id": "a8754",
+    "ar": "وعليكم السلام . حسنا ، فنجانان اثنان .",
+    "en": "And upon you be peace . Okay , two cups .",
+    "alignment_string": "(وعليكم, [And, upon, you]), (السلام, peace), (., .), (حسنا, Okay), (،, ,), (فنجانان, cups), (اثنان, two), (., .)"
+  },
+  {
+    "id": "m8328",
+    "ar": "معي صندوق الفاكهة هذا . انه هدية .",
+    "en": "I have this box of fruit . It's a gift .",
+    "alignment_string": "(معي, [I, have]), (صندوق, box), (الفاكهة, fruit), (هذا, this), (., .), (انه, It's), (هدية, gift), (., .)"
+  },
+  {
+    "id": "m9800",
+    "ar": "اسف ، نحن لا نبيع تذاكر للمسرح .",
+    "en": "Sorry , we don't sell tickets for the theater .",
+    "alignment_string": "(اسف, Sorry), (،, ,), (نحن, we), (لا, don't), (نبيع, sell), (تذاكر, tickets), (للمسرح, [for, the, theater]), (., .)"
+  },
+  {
+    "id": "m3500",
+    "ar": "نعم , بعض حجراتنا تطل على حديقة , لكنها مكلفة كثيرا .",
+    "en": "Yes , some of our rooms have a park view , but they cost more .",
+    "alignment_string": "(نعم, Yes), (بعض, some), (حجراتنا, [of, our, rooms]), (تطل, [have, view]), (على, [have, view]), (حديقة, park), (لكنها, [but, they]), (مكلفة, cost), (كثيرا, more), (., .)"
+  },
+  {
+    "id": "m1872",
+    "ar": "انني اتصل من كشك عمومي في ماسي .",
+    "en": "I'm calling from a public booth in Macy's .",
+    "alignment_string": "(انني, I'm), (اتصل, calling), (من, from), (كشك, booth), (عمومي, public), (في, in), (ماسي, Macy's), (., .)"
+  },
+  {
+    "id": "m5683",
+    "ar": "انت لم تحضري لي سلطتي ، معذرة .",
+    "en": "You haven't brought my salad , I'm afraid .",
+    "alignment_string": "(انت, You), (لم, haven't), (تحضري, brought), (لي, my), (سلطتي, salad), (،, ,), (معذرة, [I'm, afraid]), (., .)"
+  },
+  {
+    "id": "m5675",
+    "ar": "هل يمكنني الحصول على خريطة للمترو ؟",
+    "en": "May I have a subway map ?",
+    "alignment_string": "(هل, May), (يمكنني, [May, I]), (الحصول, have), (خريطة, map), (للمترو, subway), (؟, ?)"
+  },
+  {
+    "id": "m9474",
+    "ar": "جميل . هل تريدين ايشاربا يتناسب مع هذا ؟",
+    "en": "Fine . Would you like a scarf to go with that ?",
+    "alignment_string": "(جميل, Fine), (., .), (هل, Would), (تريدين, [Would, you, like]), (ايشاربا, [scarf]), (يتناسب, [to, go]), (مع, with), (هذا, that), (؟, ?)"
+  },
+  {
+    "id": "a350",
+    "ar": "ستجدها بجانب المدخل الرئيسي .",
+    "en": "You will find it next to the main entrance .",
+    "alignment_string": "(ستجدها, [You, will, find, it]), (بجانب, [next, to]), (المدخل, entrance), (الرئيسي, [the, main]), (., .)"
+  },
+  {
+    "id": "m1586",
+    "ar": "من فضلك ضعها على الميزان هناك . خمسة وسبعين سنتا .",
+    "en": "Please put it on the scale there . Seventy - five cents .",
+    "alignment_string": "(من, Please), (فضلك, Please), (ضعها, [put, it]), (على, on), (الميزان, [the, scale]), (هناك, there), (., .), (خمسة, five), (وسبعين, [Seventy]), (سنتا, cents), (., .)"
+  },
+  {
+    "id": "a7251",
+    "ar": "غرفتك في الطابق السادس .",
+    "en": "Your room is on the sixth floor .",
+    "alignment_string": "(غرفتك, [Your, room]), (في, [on]), (الطابق, floor), (السادس, [the, sixth]), (., .)"
+  },
+  {
+    "id": "a7854",
+    "ar": "اهلا بك . انا طالب جديد .",
+    "en": "Hello . I am a new student .",
+    "alignment_string": "(اهلا, Hello), (بك, Hello), (., .), (انا, I), (طالب, student), (جديد, new), (., .)"
+  },
+  {
+    "id": "m8044",
+    "ar": "متى تقام مباراة كرة القدم ؟",
+    "en": "When's the soccer game on ?",
+    "alignment_string": "(متى, When's), (تقام, on), (مباراة, game), (كرة, soccer), (القدم, soccer), (؟, ?)"
+  },
+  {
+    "id": "m1090",
+    "ar": "انا اريد اللون الذي سوف يجعلني ابدو اصغر ؟",
+    "en": "I want a color that will make me look younger .",
+    "alignment_string": "(انا, I), (اريد, want), (اللون, color), (الذي, that), (سوف, will), (يجعلني, [make, me]), (ابدو, look), (اصغر, younger), (؟, .)"
+  },
+  {
+    "id": "m124",
+    "ar": "هل يمكنني ان ادفع عن طريق الماستر كارد ؟",
+    "en": "Can I pay with Master Card ?",
+    "alignment_string": "(هل, Can), (يمكنني, [Can, I]),(ادفع, pay), (عن, with), (طريق, with), (الماستر, Master), (كارد, Card), (؟, ?)"
+  },
+  {
+    "id": "a12287",
+    "ar": "تشرفت بمعرفتك .",
+    "en": "I am honored to know you .",
+    "alignment_string": "(تشرفت, [I, am, honored]), (بمعرفتك, [know, you]), (., .)"
+  },
+  {
+    "id": "m11415",
+    "ar": "اريد الاتصال هاتفيا باليابان .",
+    "en": "I'd like to make a call to Japan .",
+    "alignment_string": "(اريد, [I'd, like]), (الاتصال, [make, call]), (هاتفيا, call), (باليابان, [to, Japan]), (., .)"
+  },
+  {
+    "id": "m788",
+    "ar": "اين اضع متعلقاتي ؟",
+    "en": "Where shall I put my belongings ?",
+    "alignment_string": "(اين, Where), (اضع, [shall, I, put]), (متعلقاتي, [my, belongings]), (؟, ?)"
+  },
+  {
+    "id": "m436",
+    "ar": "ولان هذه الحقيبة مصنوعة من مادة الخمر فكما تلاحظ هي قوية جدة وعلى احدث موضة .",
+    "en": "As this bag is made of vinyl , it's very strong and latest - fashioned design as you may notice .",
+    "alignment_string": "(ولان, As), (هذه, this), (الحقيبة, bag), (مصنوعة, [made]), (من, of), (مادة, vinyl), (الخمر, vinyl), (فكما, as), (تلاحظ, [you, may, notice]), (هي, it's), (قوية, strong), (جدة, very), (وعلى, and), (احدث, [latest, -, fashioned]), (موضة, design), (., .)"
+  },
+  {
+    "id": "a7918",
+    "ar": "انت تدرسين كثيرا . هل تريدين شرب القهوة ؟",
+    "en": "You are studying a lot . Do you want to drink coffee ?",
+    "alignment_string": "(انت, You), (تدرسين, studying), (كثيرا, [a, lot]), (., .), (هل, Do), (تريدين, [you, want]), (شرب, drink), (القهوة, coffee), (؟, ?)"
+  },
+  {
+    "id": "a282",
+    "ar": "هو درس اربع كلمات .",
+    "en": "He taught four words .",
+    "alignment_string": "(هو, He), (درس, taught), (اربع, four), (كلمات, words), (., .)"
+  },
+  {
+    "id": "m752",
+    "ar": "هل هذه الحقيبة مناسبة لكل حالات الطقس ؟",
+    "en": "Is this bag ideal for all weather ?",
+    "alignment_string": "(هل, Is), (هذه, this), (الحقيبة, bag), (مناسبة, ideal), (لكل, [for, all]), (حالات, weather), (الطقس, weather), (؟, ?)"
+  },
+  {
+    "id": "a3584",
+    "ar": "الرطوبة عالية جدا اليوم .",
+    "en": "The humidity is very high today .",
+    "alignment_string": "(الرطوبة, [The, humidity]), (عالية, [high]), (جدا, very), (اليوم, today), (., .)"
+  },
+  {
+    "id": "a5446",
+    "ar": "هذا صعب جدا يا استاذ .",
+    "en": "This is very difficult , teacher .",
+    "alignment_string": "(هذا, This), (صعب, [difficult]), (جدا, very), (يا, ,), (استاذ, teacher), (., .)"
+  },
+  {
+    "id": "a1688",
+    "ar": "هل هو لصف الاستاذ خالد ؟ هو استاذنا ايضا .",
+    "en": "Is it for Professor Khalid's class ? He is our professor too .",
+    "alignment_string": "(هل, Is), (هو, it), (لصف, [for, class]), (الاستاذ, Professor), (خالد, Khalid's), (؟, ?), (هو, He), (استاذنا, [our, professor]), (ايضا, too), (., .)"
+  },
+  {
+    "id": "a369",
+    "ar": "لديك خمسة عشر مكعبا احمر .",
+    "en": "You have fifteen red blocks .",
+    "alignment_string": "(لديك, [You, have]), (خمسة, fifteen), (عشر, fifteen), (مكعبا, blocks), (احمر, red), (., .)"
+  },
+  {
+    "id": "a4833",
+    "ar": "قال : فيه عشر سيارات .",
+    "en": "It said : It has ten cars .",
+    "alignment_string": "(قال, said), (فيه, [It, has]), (:, :), (عشر, ten), (سيارات, cars), (., .)"
+  },
+  {
+    "id": "a10111",
+    "ar": "شكرا لكم والى اللقاء .",
+    "en": "Thank you and goodbye .",
+    "alignment_string": "(شكرا, Thank), (لكم, you), (والى, and), (اللقاء, goodbye), (., .)"
+  },
+  {
+    "id": "m474",
+    "ar": "انا حجزت من خلال مكتب طوكيو . سوف اتاخر قليلا في تسجيل اسمي هذه الليلة .",
+    "en": "I made a reservation through the Tokyo office . I'll be a little late checking in tonight .",
+    "alignment_string": "(انا, I), (حجزت, [made, reservation]), (من, through), (خلال, through), (مكتب, office), (طوكيو, [the, Tokyo]), (., .), (سوف, I'll), (اتاخر, [late]), (قليلا, [little]), (في, in), (تسجيل, checking), (اسمي, checking), (هذه, tonight), (الليلة, tonight), (., .)"
+  },
+  {
+    "id": "m11087",
+    "ar": "اين يجب على ان انظف الكاميرا ؟",
+    "en": "Where I should wash the camera ?",
+    "alignment_string": "(اين, Where), (يجب, should), (على, I), (انظف, wash), (الكاميرا, [the, camera]), (؟, ?)"
+  },
+  {
+    "id": "a378",
+    "ar": "لا مشكلة . هذا شيء بسيط .",
+    "en": "No problem . This is a small thing .",
+    "alignment_string": "(لا, No), (مشكلة, problem), (., .), (هذا, This), (شيء, thing), (بسيط, small), (., .)"
+  },
+  {
+    "id": "a11844",
+    "ar": "واحد .",
+    "en": "One .",
+    "alignment_string": "(واحد, One), (., .)"
+  },
+  {
+    "id": "a3786",
+    "ar": "هل عندك اقلام في حقيبتك ؟",
+    "en": "Do you have any pencils in your bag ?",
+    "alignment_string": "(هل, Do), (عندك, [you, have]), (اقلام, [any, pencils]), (في, in), (حقيبتك, [your, bag]), (؟, ?)"
+  },
+  {
+    "id": "m8543",
+    "ar": "هل ستذهب الى المدرسة ؟",
+    "en": "Will you attend school ?",
+    "alignment_string": "(هل, Will), (ستذهب, [Will, you, attend]), (المدرسة, school), (؟, ?)"
+  },
+  {
+    "id": "a8635",
+    "ar": "دعني ارى . هل هو ممتع ؟",
+    "en": "Let me see . Is it interesting ?",
+    "alignment_string": "(دعني, [Let, me]), (ارى, see), (., .), (هل, Is), (هو, it), (ممتع, interesting), (؟, ?)"
+  },
+  {
+    "id": "m7541",
+    "ar": "من فضلك اقترح لنا فندقا .",
+    "en": "Please recommend a hotel .",
+    "alignment_string": "(من, Please), (فضلك, Please), (اقترح, recommend), (لنا, recommend), (فندقا, [hotel]), (., .)"
+  },
+  {
+    "id": "m64",
+    "ar": "ثلاث مرات .",
+    "en": "Three times .",
+    "alignment_string": "(ثلاث, Three), (مرات, times), (., .)"
+  },
+  {
+    "id": "m4128",
+    "ar": "امي ماتت .",
+    "en": "My mother died .",
+    "alignment_string": "(امي, [My, mother]), (ماتت, died), (., .)"
+  },
+  {
+    "id": "m3324",
+    "ar": "في حالة حدوث شيء ما ، من فضلك كن على اتصال بي .",
+    "en": "If something happens , please get in touch with me .",
+    "alignment_string": "(في, If), (حالة, If), (حدوث, happens), (شيء, something), (ما, something), (،, ,), (من, please), (فضلك, please), (كن, get), (اتصال, [in, touch]), (بي, [with, me]), (., .)"
+  },
+  {
+    "id": "m11250",
+    "ar": "اراه دائما كل صباح في القطار .",
+    "en": "I always see him every morning on the train .",
+    "alignment_string": "(اراه, [I, see, him]), (دائما, always), (كل, every), (صباح, morning), (في, on), (القطار, [the, train]), (., .)"
+  },
+  {
+    "id": "a4490",
+    "ar": "مساء الخير يا جدتي .",
+    "en": "Good evening , Grandma .",
+    "alignment_string": "(مساء, evening), (الخير, Good), (يا, ,), (جدتي, Grandma), (., .)"
+  },
+  {
+    "id": "m11653",
+    "ar": "هل تتناول الخمر بالكوب ؟",
+    "en": "Do you have wine by the glass ?",
+    "alignment_string": "(هل, Do), (تتناول, [you, have]), (الخمر, wine), (بالكوب, [by, the, glass]), (؟, ?)"
+  },
+  {
+    "id": "a48",
+    "ar": "مرحبا سارة ، كيف حالك اليوم ؟",
+    "en": "Hello Sara , how are you today ?",
+    "alignment_string": "(مرحبا, Hello), (سارة, Sara), (،, ,), (كيف, how), (حالك, [you]), (اليوم, today), (؟, ?)"
+  },
+  {
+    "id": "a238",
+    "ar": "السلام عليكم . كيف حالك يا عم ؟",
+    "en": "Peace be upon you . How are you , uncle ?",
+    "alignment_string": "(السلام, Peace), (عليكم, [upon, you]), (., .), (كيف, How), (حالك, [you]), (عم, uncle), (؟, ?)"
+  },
+  {
+    "id": "m11037",
+    "ar": "اي الاماكن اتوجه اليها للحصول عليها ؟",
+    "en": "Where can I come to get it ?",
+    "alignment_string": "(اي, Where), (الاماكن, Where), (اتوجه, [I, come]), (للحصول, [to, get]), (عليها, it), (؟, ?)"
+  },
+  {
+    "id": "a4574",
+    "ar": "فكرة رائعة ! نعم ، ساذهب معك .",
+    "en": "Great idea ! Yes , I will go with you .",
+    "alignment_string": "(فكرة, idea), (رائعة, Great), (!, !), (نعم, Yes), (،, ,), (ساذهب, [I, will, go]), (معك, [with, you]), (., .)"
+  },
+  {
+    "id": "a9949",
+    "ar": "بالطبع . انا اسف جدا .",
+    "en": "Of course . I am very sorry .",
+    "alignment_string": "(بالطبع, [Of, course]), (., .), (انا, I), (اسف, [sorry]), (جدا, very), (., .)"
+  },
+  {
+    "id": "m11561",
+    "ar": "معنى هذا انك فقدت ايضا تاشيرتك . يتعين عليك ان تطلب اعادة اصدارها من مصلحة الجوازات والهجرة .",
+    "en": "This means that you have also lost your visa . You have to apply for a reissue to the immigration .",
+    "alignment_string": "(معنى, means), (هذا, This), (انك, that), (فقدت, [you, lost]), (ايضا, also), (تاشيرتك, [your, visa]), (., .), (يتعين, have), (عليك, You), (تطلب, apply), (اعادة, [reissue]), (اصدارها, reissue), (من, to), (مصلحة, [the, immigration]), (الجوازات, immigration), (والهجرة, immigration), (., .)"
+  },
+  {
+    "id": "m6482",
+    "ar": "هل يمكن ان اتحدث الى ماري ؟",
+    "en": "May I talk to Mary ?",
+    "alignment_string": "(هل, May), (يمكن, [May, I]), (اتحدث, talk), (الى, to), (ماري, Mary), (؟, ?)"
+  },
+  {
+    "id": "m8082",
+    "ar": "لدينا احجام كبيرة , ومتوسطة ، وصغيرة .",
+    "en": "We have large , medium , or small sizes .",
+    "alignment_string": "(لدينا, [We, have]), (احجام, sizes), (كبيرة, large), (ومتوسطة, medium), (،, ,), (وصغيرة, [or, small]), (., .)"
+  },
+  {
+    "id": "a8426",
+    "ar": "حسنا ، ما هو الحل الافضل اذن ؟",
+    "en": "Okay , what is the best solution then ?",
+    "alignment_string": "(حسنا, Okay), (،, ,), (ما, what), (هو, is), (الحل, [the, solution]), (الافضل, best), (اذن, then), (؟, ?)"
+  },
+  {
+    "id": "m4454",
+    "ar": "هناك خطا ما في لمبة الفلاش .",
+    "en": "Something is wrong with the flash bulb .",
+    "alignment_string": "(هناك, Something), (خطا, wrong), (ما, Something), (في, with), (لمبة, bulb), (الفلاش, [the, flash]), (., .)"
+  },
+  {
+    "id": "m7894",
+    "ar": "هل يمكن ان ارسل هذا باسلوب التوصيل النقل العام ؟",
+    "en": "Can I send this general delivery ?",
+    "alignment_string": "(هل, Can), (يمكن, [Can, I]), (ارسل, send), (هذا, this), (باسلوب, by), (التوصيل, delivery), (النقل, general), (العام, general), (؟, ?)"
+  },
+  {
+    "id": "a11019",
+    "ar": "نعم ، بالتاكيد . هذه فكرة ممتازة .",
+    "en": "Yes , of course . This is an excellent idea .",
+    "alignment_string": "(نعم, Yes), (،, ,), (بالتاكيد, [of, course]), (., .), (هذه, This), (فكرة, [idea]), (ممتازة, excellent), (., .)"
+  },
+  {
+    "id": "m7799",
+    "ar": "الضوء معطل في غرفتي .",
+    "en": "The light doesn't work in my room .",
+    "alignment_string": "(الضوء, [The, light]), (معطل, [doesn't, work]), (في, in), (غرفتي, [my, room]), (., .)"
+  },
+  {
+    "id": "a2081",
+    "ar": "السلام عليكم . اريد كيس خبز .",
+    "en": "Hello . I want a bag of bread .",
+    "alignment_string": "(السلام, Hello), (عليكم, Hello), (., .), (اريد, [I, want]), (كيس, [bag]), (خبز, bread), (., .)"
+  },
+  {
+    "id": "m6954",
+    "ar": "اعتق ان هذه فكرة جيدة . لو لم توجد اعتراضات , اود اختار .",
+    "en": "I think that's a good idea . If there aren't any objections to this , I'd like to take a vote .",
+    "alignment_string": "(اعتق, [I, think]), (ان, that's), (هذه, this), (فكرة, [idea]), (جيدة, good), (., .), (لو, If), (لم, aren't), (توجد, there), (اعتراضات, [objections]), (اود, [I'd, like]), (اختار, [take, vote]), (., .)"
+  },
+  {
+    "id": "m7850",
+    "ar": "سوف اخذ اثنين .",
+    "en": "I'll have two .",
+    "alignment_string": "(سوف, I'll), (اخذ, have), (اثنين, two), (., .)"
+  },
+  {
+    "id": "m7221",
+    "ar": "نريد مكانا نظير حوالي ثلاثين دولارا للشخص .",
+    "en": "We'd like to find a place for around thirty dollars per person .",
+    "alignment_string": "(نريد, [We'd, like]), (مكانا, [place]), (نظير, for), (حوالي, around), (ثلاثين, thirty), (دولارا, dollars), (للشخص, [per, person]), (., .)"
+  },
+  {
+    "id": "a2655",
+    "ar": "نعم ، نحن نحب الاثارة والمغامرة .",
+    "en": "Yes , we like excitement and adventure .",
+    "alignment_string": "(نعم, Yes), (،, ,), (نحن, we), (نحب, like), (الاثارة, excitement), (والمغامرة, [and, adventure]), (., .)"
+  },
+  {
+    "id": "a5767",
+    "ar": "حان وقت الصعود الى الطائرة لرحلتي .",
+    "en": "It is time to board the plane for my flight .",
+    "alignment_string": "(حان, [It, is]), (وقت, time), (الصعود, [board]), (الى, to), (الطائرة, [the, plane]), (لرحلتي, [for, my, flight]), (., .)"
+  },
+  {
+    "id": "a951",
+    "ar": "نعم ، بالضبط . يجب ان اكون مستعدا .",
+    "en": "Yes , exactly . I have to be prepared .",
+    "alignment_string": "(نعم, Yes), (،, ,), (بالضبط, exactly), (., .), (يجب, [I, have, to]), (اكون, be), (مستعدا, prepared), (., .)"
+  },
+  {
+    "id": "a3039",
+    "ar": "انكسر الكوب .",
+    "en": "The cup broke .",
+    "alignment_string": "(انكسر, broke), (الكوب, [The, cup]), (., .)"
+  },
+  {
+    "id": "a4030",
+    "ar": "هيا ، لنبدا الان بالعد .",
+    "en": "Come on , let's start counting now .",
+    "alignment_string": "(هيا, [Come, on]), (،, ,), (لنبدا, let's), (الان, now), (بالعد, [start, counting]), (., .)"
+  },
+  {
+    "id": "a6748",
+    "ar": "نعم ، والسماء صافية وزرقاء .",
+    "en": "Yes , and the sky is clear and blue .",
+    "alignment_string": "(نعم, Yes), (،, ,), (والسماء, [and, the, sky]), (صافية, [clear]), (وزرقاء, [and, blue]), (., .)"
+  },
+  {
+    "id": "a5225",
+    "ar": "كم حافلة تاخذ الى عملك ؟",
+    "en": "How many buses do you take to your work ?",
+    "alignment_string": "(كم, [How, many]), (حافلة, buses), (تاخذ, [you, take]), (الى, to), (عملك, [your, work]), (؟, ?)"
+  },
+  {
+    "id": "m90",
+    "ar": "ها هو مفتاحك ، يا سيدي . غرفة ستة وخمسون اثنى عشر .",
+    "en": "Here's your key , sir . Room fifty - six twelve .",
+    "alignment_string": "(ها, Here's), (هو, Here's), (مفتاحك, [your, key]), (،, ,), (يا, sir), (سيدي, sir), (., .), (غرفة, Room), (ستة, six), (وخمسون, [fifty]), (اثنى, twelve), (عشر, twelve), (., .)"
+  },
+  {
+    "id": "m11443",
+    "ar": "هل تسكن هنا ؟",
+    "en": "You live here ?",
+    "alignment_string": "(هل, You), (تسكن, [You, live]), (هنا, here), (؟, ?)"
+  },
+  {
+    "id": "a6091",
+    "ar": "تفضل يا ابي ، هذا هو المفتاح .",
+    "en": "Here you go , Dad , this is the key .",
+    "alignment_string": "(تفضل, [Here, you, go]), (ابي, Dad), (،, ,), (هذا, this), (هو, is), (المفتاح, [the, key]), (., .)"
+  },
+  {
+    "id": "a4714",
+    "ar": "انا الابنة الثانية في اسرتي .",
+    "en": "I am the second daughter in my family .",
+    "alignment_string": "(انا, I), (الابنة, [the, daughter]), (الثانية, second), (في, in), (اسرتي, [my, family]), (., .)"
+  },
+  {
+    "id": "m1444",
+    "ar": "التاشيرة صالحة لستة اشهر .",
+    "en": "The visa is good for six months .",
+    "alignment_string": "(التاشيرة, [The, visa]), (صالحة, [good]), (لستة, [for, six]), (اشهر, months), (., .)"
+  },
+  {
+    "id": "m10269",
+    "ar": "معذرة . سارحل .",
+    "en": "Excuse me . I'm getting off .",
+    "alignment_string": "(معذرة, [Excuse, me]), (., .), (سارحل, [I'm, getting, off]), (., .)"
+  },
+  {
+    "id": "m7556",
+    "ar": "ايمكنني الحصول على جدول زمني ، من فضلك ؟",
+    "en": "May I have a time schedule , please ?",
+    "alignment_string": "(ايمكنني, [May, I]), (الحصول, have), (جدول, schedule), (زمني, time), (،, ,), (من, please), (فضلك, please), (؟, ?)"
+  },
+  {
+    "id": "a1102",
+    "ar": "اعتقد ان الشتاء قادم مبكرا هذا العام .",
+    "en": "I think winter is coming early this year .",
+    "alignment_string": "(اعتقد, [I, think]), (الشتاء, winter), (قادم, coming), (مبكرا, early), (هذا, this), (العام, year), (., .)"
+  },
+  {
+    "id": "a8311",
+    "ar": "انا افكر في صف الفنون .",
+    "en": "I am thinking about the arts class .",
+    "alignment_string": "(انا, I), (افكر, [thinking]), (في, about), (صف, class), (الفنون, [the, arts]), (., .)"
+  },
+  {
+    "id": "a3258",
+    "ar": "نعم ، انا ارى الصيدلية .",
+    "en": "Yes , I see the pharmacy .",
+    "alignment_string": "(نعم, Yes), (،, ,), (انا, I), (ارى, see), (الصيدلية, [the, pharmacy]), (., .)"
+  },
+  {
+    "id": "a12511",
+    "ar": "اربعة ، خمسة ، ستة .",
+    "en": "Four , five , six .",
+    "alignment_string": "(اربعة, Four), (،, ,), (خمسة, five), (،, ,), (ستة, six), (., .)"
+  },
+  {
+    "id": "a1388",
+    "ar": "هذا مختلف جدا . الطقس بارد هنا في لندن .",
+    "en": "This is very different . The weather is cold here in London .",
+    "alignment_string": "(هذا, This), (مختلف, [different]), (جدا, very), (., .), (الطقس, [The, weather]), (بارد, [cold]), (هنا, here), (في, in), (لندن, London), (., .)"
+  },
+  {
+    "id": "a12216",
+    "ar": "كم قلم هنا ؟",
+    "en": "How many pens are here ?",
+    "alignment_string": "(كم, [How, many]), (قلم, pens), (هنا, [here]), (؟, ?)"
+  },
+  {
+    "id": "a1005",
+    "ar": "صباح الخير . اريد بطاقة هوية جديدة .",
+    "en": "Good morning . I want a new ID card .",
+    "alignment_string": "(صباح, morning), (الخير, Good), (., .), (اريد, [I, want]), (بطاقة, card), (هوية, [ID]), (جديدة, new), (., .)"
+  },
+  {
+    "id": "a8811",
+    "ar": "انا اعمل واجبي المدرسي اولا .",
+    "en": "I do my school homework first .",
+    "alignment_string": "(انا, I), (اعمل, do), (واجبي, [my, homework]), (المدرسي, school), (اولا, first), (., .)"
+  },
+  {
+    "id": "a7442",
+    "ar": "سبعة وتسعون ، ثمانية وتسعون . هذا كل شيء .",
+    "en": "Ninety - seven , ninety - eight . That is everything .",
+    "alignment_string": "(سبعة, seven), (وتسعون, [Ninety]), (،, ,), (ثمانية, eight), (وتسعون, [ninety]), (., .), (هذا, That), (كل, is), (شيء, everything), (., .)"
+  },
+  {
+    "id": "m11239",
+    "ar": "اريد كماشة .",
+    "en": "I'd like some pliers .",
+    "alignment_string": "(اريد, [I'd, like]), (كماشة, pliers), (., .)"
+  },
+  {
+    "id": "m6738",
+    "ar": "هل يمكن ان اخذ نبيذا اخر ؟",
+    "en": "Can I have another wine ?",
+    "alignment_string": "(هل, Can), (يمكن, [Can, I]), (اخذ, have), (نبيذا, wine), (اخر, another), (؟, ?)"
+  },
+  {
+    "id": "m5532",
+    "ar": "انا حقا اسف .",
+    "en": "I'm really , sorry .",
+    "alignment_string": "(انا, I'm), (حقا, really), (اسف, sorry), (., .)"
+  },
+  {
+    "id": "a2360",
+    "ar": "يا نورة ، انا ساشاهد فيلما جديدا الان .",
+    "en": "Hey Nora , I'm going to watch a new movie now .",
+    "alignment_string": "(يا, Hey), (نورة, Nora), (،, ,), (انا, I'm), (ساشاهد, [going, to, watch]), (فيلما, [movie]), (جديدا, new), (الان, now), (., .)"
+  },
+  {
+    "id": "a1584",
+    "ar": "جميل جدا ! وهل ذهبتم لاماكن اخرى ؟",
+    "en": "Very nice ! And did you go to other places ?",
+    "alignment_string": "(جميل, nice), (جدا, Very), (!, !), (وهل, And), (ذهبتم, [did, you, go]), (لاماكن, [to, places]), (اخرى, other), (؟, ?)"
+  },
+  {
+    "id": "m1283",
+    "ar": "ثلاث ليالي من اول يوليو . ما هو سعر غرفك ؟",
+    "en": "Three nights from July first . How much are your rooms ?",
+    "alignment_string": "(ثلاث, Three), (ليالي, nights), (من, from), (اول, first), (يوليو, July), (., .), (ما, How), (هو, much), (سعر, are), (غرفك, [your, rooms]), (؟, ?)"
+  },
+  {
+    "id": "m5576",
+    "ar": "عمل .",
+    "en": "Business .",
+    "alignment_string": "(عمل, Business), (., .)"
+  },
+  {
+    "id": "a4161",
+    "ar": "هن كاتبات عظيمات .",
+    "en": "They are great female writers .",
+    "alignment_string": "(هن, They), (كاتبات, [female, writers]), (عظيمات, great), (., .)"
+  },
+  {
+    "id": "a5857",
+    "ar": "الخبز الاسمر في ذلك الممر .",
+    "en": "The brown bread is in that aisle .",
+    "alignment_string": "(الخبز, [The, bread]), (الاسمر, brown), (في, in), (ذلك, that), (الممر, aisle), (., .)"
+  },
+  {
+    "id": "m10995",
+    "ar": "هل من الممكن ان تقوم بعمل كشف نظر و تجهز لي نظارة ؟",
+    "en": "Can you examine my eyes and make a pair of glasses ?",
+    "alignment_string": "(هل, Can), (من, [Can, you]), (الممكن, [Can, you]), (بعمل, examine), (كشف, examine), (نظر, [my, eyes]), (و, and), (تجهز, make), (لي, me), (نظارة, [pair, of, glasses]), (؟, ?)"
+  },
+  {
+    "id": "a1782",
+    "ar": "هذا قريب جدا . انا اسكن بعيدا .",
+    "en": "That is very close . I live far away .",
+    "alignment_string": "(هذا, That), (قريب, close), (جدا, very), (., .), (انا, I), (اسكن, live), (بعيدا, [far, away]), (., .)"
+  },
+  {
+    "id": "a2818",
+    "ar": "اسافر الى محطة العمل في وسط المدينة .",
+    "en": "I travel to the work station in the city center .",
+    "alignment_string": "(اسافر, [I, travel]), (الى, to), (محطة, station), (العمل, [the, work]), (في, in), (وسط, center), (المدينة, [the, city]), (., .)"
+  },
+  {
+    "id": "m9945",
+    "ar": "حسنا اذا ، اريد عصا مضرب اصغر كتلك التي مع جوليا روبرتس .",
+    "en": "Well then , I'd like to have a smaller face like Julia Roberts .",
+    "alignment_string": "(حسنا, Well), (اذا, then), (،, ,), (اريد, [I'd, like, to]), (عصا, face), (مضرب, face), (اصغر, [smaller]), (كتلك, like), (جوليا, Julia), (روبرتس, Roberts), (., .)"
+  },
+  {
+    "id": "a9875",
+    "ar": "اياك اخبر بهذا السر عن اللوحة .",
+    "en": "It is you that I am telling this secret about the painting .",
+    "alignment_string": "(اياك, [It, you, that]), (اخبر, [I, telling]), (بهذا, this), (السر, secret), (عن, about), (اللوحة, [the, painting]), (., .)"
+  },
+  {
+    "id": "m10414",
+    "ar": "اين يمكنني ان اجد ليموزين الى فندق سميت .",
+    "en": "Where can I find the limousine to the Summit Hotel ?",
+    "alignment_string": "(اين, Where), (يمكنني, [can, I]), (اجد, find), (ليموزين, [the, limousine]), (الى, to), (فندق, Hotel), (سميت, [the, Summit]), (., ?)"
+  },
+  {
+    "id": "a2389",
+    "ar": "الرحلة متاخرة بسبب مشكلة فنية .",
+    "en": "The flight is delayed because of a technical problem .",
+    "alignment_string": "(الرحلة, [The, flight]), (متاخرة, [delayed]), (بسبب, [because, of]), (مشكلة, [problem]), (فنية, technical), (., .)"
+  },
+  {
+    "id": "a7584",
+    "ar": "فكرة ممتازة ! سوف نسافر الى المغرب الصيف القادم .",
+    "en": "Excellent idea ! We will travel to Morocco next summer .",
+    "alignment_string": "(فكرة, idea), (ممتازة, Excellent), (!, !), (سوف, will), (نسافر, [We, travel]), (الى, to), (المغرب, Morocco), (الصيف, summer), (القادم, next), (., .)"
+  },
+  {
+    "id": "m475",
+    "ar": "هيا نتسوق بسرعة .",
+    "en": "Let's do the shopping in a hurry .",
+    "alignment_string": "(هيا, Let's), (نتسوق, [the, shopping]), (بسرعة, [in, hurry]), (., .)"
+  },
+  {
+    "id": "m10837",
+    "ar": "هل لك ان تريني الخاتم الثاني من اليسار ؟",
+    "en": "Can you show me second ring from the left ?",
+    "alignment_string": "(هل, Can), (لك, [Can, you]), (تريني, [show, me]), (الخاتم, ring), (الثاني, second), (من, from), (اليسار, [the, left]), (؟, ?)"
+  },
+  {
+    "id": "a5558",
+    "ar": "اخترت تركيا لان الطيران ارخص .",
+    "en": "I chose Turkey because the flight is cheaper .",
+    "alignment_string": "(اخترت, [I, chose]), (تركيا, Turkey), (لان, because), (الطيران, [the, flight]), (ارخص, [cheaper]), (., .)"
+  },
+  {
+    "id": "a9346",
+    "ar": "لا ، شكرا .",
+    "en": "No , thank you .",
+    "alignment_string": "(لا, No), (،, ,), (شكرا, [thank, you]), (., .)"
+  },
+  {
+    "id": "a3957",
+    "ar": "اهلا يا امي .",
+    "en": "Hello , my mom .",
+    "alignment_string": "(اهلا, Hello), (امي, [my, mom]), (., .)"
+  },
+  {
+    "id": "m9440",
+    "ar": "هل يمكنك رسم خريطة تمكنني من الوصول الى هناك ؟",
+    "en": "Can you draw a map which can get me there ?",
+    "alignment_string": "(هل, Can), (يمكنك, [Can, you]), (رسم, draw), (خريطة, [map]), (تمكنني, [which, can]), (الوصول, get), (هناك, there), (؟, ?)"
+  },
+  {
+    "id": "a8313",
+    "ar": "ثلاثة وعشرون ، اربعة وعشرون .",
+    "en": "Twenty - three , twenty - four .",
+    "alignment_string": "(ثلاثة, three), (وعشرون, [Twenty]), (،, ,), (اربعة, four), (وعشرون, [twenty]), (., .)"
+  },
+  {
+    "id": "m4439",
+    "ar": "سلطة ، من فضلك .",
+    "en": "Salad , please .",
+    "alignment_string": "(سلطة, Salad), (،, ,), (من, please), (فضلك, please), (., .)"
+  },
+  {
+    "id": "m5048",
+    "ar": "الا ترغب في فنجان شاي ؟",
+    "en": "Won't you have a cup of tea ?",
+    "alignment_string": "(الا, Won't), (ترغب, [you]), (في, of), (فنجان, [cup]), (شاي, tea), (؟, ?)"
+  },
+  {
+    "id": "m3712",
+    "ar": "في كتيب منفصل يسمى \" معلومات خلفية مشتركة ، \" وهو في المجموعة المتوفرة ، ستجد شرحا اكثر تفصيلا .",
+    "en": "In a separate booklet called \" Corporate Background Information \" , which is in the packet provided , you'll find a more thorough explanation .",
+    "alignment_string": "(في, In), (كتيب, [booklet]), (منفصل, separate), (يسمى, called), (معلومات, Information), (خلفية, Background), (مشتركة, Corporate), (،, ,), (وهو, [which, is]), (في, in), (المجموعة, [the, packet]), (المتوفرة, provided), (،, ,), (ستجد, [you'll, find]), (شرحا, explanation), (اكثر, [more]), (تفصيلا, thorough), (., .)"
+  },
+  {
+    "id": "m368",
+    "ar": "هل بامكانك ان تزكي لي كتابا مصورا لطفل يبلع من العمر 6 سنوات ؟",
+    "en": "Could you recommend a picture book for a six - year - old kid ?",
+    "alignment_string": "(هل, Could), (بامكانك, [Could, you]), (تزكي, recommend), (كتابا, book), (مصورا, [picture]), (لطفل, [for, kid]), (العمر, old), (6, [six]), (سنوات, [year]), (؟, ?)"
+  },
+  {
+    "id": "m7747",
+    "ar": "اين تقع على الخريطة ؟",
+    "en": "Where is it on this map ?",
+    "alignment_string": "(اين, Where), (تقع, [it]), (على, on), (الخريطة, [this, map]), (؟, ?)"
+  },
+  {
+    "id": "m1101",
+    "ar": "اي نوع من الحلو لديكم ؟",
+    "en": "What kind of desserts do you have ?",
+    "alignment_string": "(اي, What), (نوع, kind), (من, of), (الحلو, desserts), (لديكم, [you]), (؟, ?)"
+  },
+  {
+    "id": "a12725",
+    "ar": "اين مكتب المدير ؟",
+    "en": "Where is the manager's office ?",
+    "alignment_string": "(اين, [Where]), (مكتب, office), (المدير, [the, manager's]), (؟, ?)"
+  },
+  {
+    "id": "m10408",
+    "ar": "ساتناول قليل من القهوة منزوعة الكافيين .",
+    "en": "I'll have some coffee decaffeinated .",
+    "alignment_string": "(ساتناول, [I'll]), (قليل, some), (من, some), (القهوة, coffee), (منزوعة, decaffeinated), (الكافيين, decaffeinated), (., .)"
+  },
+  {
+    "id": "m6239",
+    "ar": "ساخذك الى هناك .",
+    "en": "I'll take you there .",
+    "alignment_string": "(ساخذك, [I'll, take, you]), (الى, there), (هناك, there), (., .)"
+  },
+  {
+    "id": "m9643",
+    "ar": "اريد واحدة حديثة .",
+    "en": "I'd like a modern one .",
+    "alignment_string": "(اريد, [I'd, like]), (واحدة, [one]), (حديثة, modern), (., .)"
+  },
+  {
+    "id": "a9355",
+    "ar": "هل تريدين ان تدرسي معنا في مجموعة ؟",
+    "en": "Do you want to study with us in a group ?",
+    "alignment_string": "(هل, Do), (تريدين, [you, want]), (تدرسي, study), (معنا, [with, us]), (في, in), (مجموعة, [group]), (؟, ?)"
+  },
+  {
+    "id": "m4285",
+    "ar": "لون اغمق ، من فضلك .",
+    "en": "A deeper color , please .",
+    "alignment_string": "(لون, [color]), (اغمق, deeper), (،, ,), (من, please), (فضلك, please), (., .)"
+  },
+  {
+    "id": "m351",
+    "ar": "اريد ابريق قهوة .",
+    "en": "I'd like a pot of coffee .",
+    "alignment_string": "(اريد, [I'd, like]), (ابريق, [pot, of]), (قهوة, coffee), (., .)"
+  },
+  {
+    "id": "a10705",
+    "ar": "لماذا ؟ ماذا حدث يا سميرة ؟",
+    "en": "Why ? What happened , Samira ?",
+    "alignment_string": "(لماذا, Why), (؟, ?), (ماذا, What), (حدث, happened), (سميرة, Samira), (؟, ?)"
+  },
+  {
+    "id": "m9286",
+    "ar": "ما الاجر الذي لا يشمله هذا ؟",
+    "en": "What fee isn't included in it ?",
+    "alignment_string": "(ما, What), (الاجر, fee), (الذي, isn't), (لا, isn't), (يشمله, [included, in]), (هذا, it), (؟, ?)"
+  },
+  {
+    "id": "a5226",
+    "ar": "عفوا . اتمنى لك يوما جيدا .",
+    "en": "You're welcome . I wish you a good day .",
+    "alignment_string": "(عفوا, [You're, welcome]), (., .), (اتمنى, [I, wish]), (لك, you), (يوما, [day]), (جيدا, good), (., .)"
+  },
+  {
+    "id": "m10689",
+    "ar": "هل لديك مانع ان المس ذلك ؟",
+    "en": "Do you mind if I touch it ?",
+    "alignment_string": "(هل, Do), (لديك, [you]), (مانع, mind), (ان, if), (المس, [I, touch]), (ذلك, it), (؟, ?)"
+  },
+  {
+    "id": "a9180",
+    "ar": "وهو في الطابق الاول .",
+    "en": "And it is on the first floor .",
+    "alignment_string": "(وهو, [And, it]), (في, [on]), (الطابق, floor), (الاول, [the, first]), (., .)"
+  },
+  {
+    "id": "a10423",
+    "ar": "شكرا لك . ولكن اين ملف الارقام ؟",
+    "en": "Thank you . But where is the file of numbers ?",
+    "alignment_string": "(شكرا, Thank), (لك, you), (., .), (ولكن, But), (اين, [where]), (ملف, [the, file]), (الارقام, [of, numbers]), (؟, ?)"
+  },
+  {
+    "id": "a2027",
+    "ar": "اهلا بك . نعم ، في الصباح ، كان الجو باردا .",
+    "en": "Welcome . Yes , in the morning , the weather was cool .",
+    "alignment_string": "(اهلا, Welcome), (بك, Welcome), (., .), (نعم, Yes), (،, ,), (في, in), (الصباح, [the, morning]), (،, ,), (كان, was), (الجو, [the, weather]), (باردا, cool), (., .)"
+  },
+  {
+    "id": "m3544",
+    "ar": "من الافضل ان نعثر على العداد الاصلي لشركة يوتيتد ايرلاينز الان .",
+    "en": "We had better find the United Airlines counter right now .",
+    "alignment_string": "(من, We), (الافضل, better), (نعثر, find), (على, the), (العداد, counter), (الاصلي, counter), (لشركة, Airlines), (يوتيتد, United), (ايرلاينز, Airlines), (الان, [right, now]), (., .)"
+  },
+  {
+    "id": "a863",
+    "ar": "انا سعيدة .",
+    "en": "I am happy .",
+    "alignment_string": "(انا, I), (سعيدة, [happy]), (., .)"
+  },
+  {
+    "id": "a3198",
+    "ar": "انا من مدينة دمشق . وانت ؟",
+    "en": "I am from the city of Damascus . And you ?",
+    "alignment_string": "(انا, I), (من, [from]), (مدينة, [the, city, of]), (دمشق, Damascus), (., .), (وانت, [And, you]), (؟, ?)"
+  },
+  {
+    "id": "m6498",
+    "ar": "سوف اطلب افطارا كبيرا من خدمة الغرف .",
+    "en": "I'm going to have a big breakfast from room service .",
+    "alignment_string": "(سوف, [I'm, going, to]), (اطلب, have), (افطارا, [breakfast]), (كبيرا, big), (من, from), (خدمة, service), (الغرف, room), (., .)"
+  },
+  {
+    "id": "a8175",
+    "ar": "حسنا ، انا اسف . قلت جبن قشقوان .",
+    "en": "Okay , I'm sorry . I said kashkaval cheese .",
+    "alignment_string": "(حسنا, Okay), (،, ,), (انا, I'm), (اسف, sorry), (., .), (قلت, [I, said]), (جبن, cheese), (قشقوان, kashkaval), (., .)"
+  },
+  {
+    "id": "m3644",
+    "ar": "من فضلك ضم بعض الفكة الصغيرة .",
+    "en": "Please include some small change .",
+    "alignment_string": "(من, Please), (فضلك, Please), (ضم, include), (بعض, some), (الفكة, change), (الصغيرة, small), (., .)"
+  },
+  {
+    "id": "m4693",
+    "ar": "هل لي ببعض لاصقات البريد الجوي ؟",
+    "en": "Can I have some airmail stickers ?",
+    "alignment_string": "(هل, Can), (لي, [Can, I]), (ببعض, some), (لاصقات, stickers), (البريد, airmail), (الجوي, airmail), (؟, ?)"
+  },
+  {
+    "id": "a4149",
+    "ar": "انا اتفق معك تماما .",
+    "en": "I completely agree with you .",
+    "alignment_string": "(انا, I), (اتفق, agree), (معك, [with, you]), (تماما, completely), (., .)"
+  },
+  {
+    "id": "m8556",
+    "ar": "النافذة متسخة .",
+    "en": "The window is dirty .",
+    "alignment_string": "(النافذة, [The, window]), (متسخة, [dirty]), (., .)"
+  },
+  {
+    "id": "a7785",
+    "ar": "عفوا يا سيدي الشرطي . كيف اصل الى مسجد الحسن الثاني ؟",
+    "en": "Excuse me , officer . How do I get to the Hassan II Mosque ?",
+    "alignment_string": "(عفوا, [Excuse, me]), (سيدي, officer), (الشرطي, officer), (., .), (كيف, How), (اصل, [I, get]), (الى, to), (مسجد, Mosque), (الحسن, [the, Hassan]), (الثاني, II), (؟, ?)"
+  },
+  {
+    "id": "a256",
+    "ar": "لو سمحت ، اين اجد قسم كتب السفر ؟",
+    "en": "Excuse me , where can I find the travel books section ?",
+    "alignment_string": "(لو, Excuse), (سمحت, me), (،, ,), (اين, where), (اجد, [I, find]), (قسم, section), (كتب, books), (السفر, [the, travel]), (؟, ?)"
+  },
+  {
+    "id": "a13635",
+    "ar": "ساغلق المحل للاستراحة .",
+    "en": "I will close the shop for a break .",
+    "alignment_string": "(ساغلق, [I, will, close]), (المحل, [the, shop]), (للاستراحة, [for, break]), (., .)"
+  },
+  {
+    "id": "a8090",
+    "ar": "انا ادعوك لشرب الشاي في بيتي .",
+    "en": "I invite you to have tea at my house .",
+    "alignment_string": "(انا, I), (ادعوك, [invite, you]), (لشرب, [to, have]), (الشاي, tea), (في, at), (بيتي, [my, house]), (., .)"
+  },
+  {
+    "id": "m10039",
+    "ar": "اخشى انني لن استطيع الحصول على الموافقة على بطاقة الائتمان هذه .",
+    "en": "I'm afraid I can't get approval on this credit card .",
+    "alignment_string": "(اخشى, [I'm, afraid]), (انني, I), (لن, can't), (استطيع, can't), (الحصول, get), (على, on), (الموافقة, approval), (على, on), (بطاقة, card), (الائتمان, credit), (هذه, this), (., .)"
+  },
+  {
+    "id": "a3241",
+    "ar": "شخصان في الداخل .",
+    "en": "Two people are inside .",
+    "alignment_string": "(شخصان, [Two, people]), (في, are), (الداخل, inside), (., .)"
+  },
+  {
+    "id": "a2432",
+    "ar": "اشرب الماء .",
+    "en": "Drink the water .",
+    "alignment_string": "(اشرب, Drink), (الماء, [the, water]), (., .)"
+  },
+  {
+    "id": "a5319",
+    "ar": "نعم . تاريخ اليوم هو الرابع عشر من مايو .",
+    "en": "Yes . Today's date is the fourteenth of May .",
+    "alignment_string": "(نعم, Yes), (., .), (تاريخ, date), (اليوم, Today's), (هو, is), (الرابع, [the, fourteenth]), (عشر, fourteenth), (من, of), (مايو, May), (., .)"
+  },
+  {
+    "id": "m3730",
+    "ar": "كم تطلب للشحن ؟",
+    "en": "How much do you charge for shipping ?",
+    "alignment_string": "(كم, [How, much]), (تطلب, [you, charge]), (للشحن, [for, shipping]), (؟, ?)"
+  },
+  {
+    "id": "a10419",
+    "ar": "نسيم البحر لطيف جدا اليوم .",
+    "en": "The sea breeze is very pleasant today .",
+    "alignment_string": "(نسيم, breeze), (البحر, [The, sea]), (لطيف, [pleasant]), (جدا, very), (اليوم, today), (., .)"
+  },
+  {
+    "id": "a13229",
+    "ar": "اين الفندق ؟",
+    "en": "Where is the hotel ?",
+    "alignment_string": "(اين, [Where]), (الفندق, [the, hotel]), (؟, ?)"
+  },
+  {
+    "id": "m9806",
+    "ar": "ما رايك في هذه الطائرة الورقية المصنوعة في اسكتلندا ؟",
+    "en": "How about this kite made in Scotland ?",
+    "alignment_string": "(ما, How), (رايك, about), (في, this), (هذه, this), (الطائرة, kite), (الورقية, kite), (المصنوعة, made), (في, in), (اسكتلندا, Scotland), (؟, ?)"
+  },
+  {
+    "id": "m8103",
+    "ar": "من هو المحصل ؟",
+    "en": "Who's the conductor ?",
+    "alignment_string": "(من, Who's), (هو, Who's), (المحصل, [the, conductor]), (؟, ?)"
+  },
+  {
+    "id": "a6264",
+    "ar": "يا ابي ، انظر ! هذه رسمتي الجديدة .",
+    "en": "Oh father , look ! This is my new drawing .",
+    "alignment_string": "(يا, Oh), (ابي, father), (،, ,), (انظر, look), (!, !), (هذه, This), (رسمتي, [my, drawing]), (الجديدة, new), (., .)"
+  },
+  {
+    "id": "m3129",
+    "ar": "اخصم تكلفتها من بطاقة ائتماني من فضلك ، ونوعها \" ماستر كارد \" .",
+    "en": "Charge it to my card , please . Master Card .",
+    "alignment_string": "(اخصم, Charge), (تكلفتها, it), (من, to), (بطاقة, card), (ائتماني, my), (من, please), (فضلك, please), (،, .), (ونوعها, -), (ماستر, Master), (كارد, Card), (., .)"
+  },
+  {
+    "id": "a7234",
+    "ar": "السلام عليكم يا سامي .",
+    "en": "Hello Sami .",
+    "alignment_string": "(السلام, Hello), (عليكم, Hello), (يا, Sami), (سامي, Sami), (., .)"
+  },
+  {
+    "id": "a2403",
+    "ar": "انتظر لحظة . هل هذه محفظتك ؟",
+    "en": "Wait a moment . Is this your wallet ?",
+    "alignment_string": "(انتظر, Wait), (لحظة, [moment]), (., .), (هل, Is), (هذه, [this]), (محفظتك, [your, wallet]), (؟, ?)"
+  },
+  {
+    "id": "m2892",
+    "ar": "تغطية كاملة ، فضلا .",
+    "en": "Full coverage , please .",
+    "alignment_string": "(تغطية, coverage), (كاملة, Full), (،, ,), (فضلا, please), (., .)"
+  },
+  {
+    "id": "m8060",
+    "ar": "خذي الى مستشفي ، من فضلك .",
+    "en": "Take me to a hospital , please .",
+    "alignment_string": "(خذي, [Take, me]), (الى, to), (مستشفي, [hospital]), (،, ,), (فضلك, please), (., .)"
+  },
+  {
+    "id": "m11082",
+    "ar": "هل انت متاكد ؟ انه لامر طيب .",
+    "en": "Are you sure ? It's good deal .",
+    "alignment_string": "(هل, Are), (انت, [you]), (متاكد, sure), (؟, ?), (انه, It's), (لامر, deal), (طيب, good), (., .)"
+  },
+  {
+    "id": "a5239",
+    "ar": "شكرا لك . هو قط هادئ .",
+    "en": "Thank you . He is a calm cat .",
+    "alignment_string": "(شكرا, Thank), (لك, you), (., .), (هو, He), (قط, [cat]), (هادئ, calm), (., .)"
+  },
+  {
+    "id": "m6869",
+    "ar": "اود الانتقال الى غرفة اخرى .",
+    "en": "I'd like to change to another room .",
+    "alignment_string": "(اود, [I'd, like]), (الانتقال, [change]), (الى, to), (غرفة, room), (اخرى, another), (., .)"
+  },
+  {
+    "id": "m6004",
+    "ar": "كيف استطيع الوصول الى مكتب شركة دلتا للطيران للوصل بين الرحلات ؟",
+    "en": "How can I get to the Delta Airlines connecting flight counter ?",
+    "alignment_string": "(كيف, How), (استطيع, [can, I]), (الوصول, get), (الى, to), (مكتب, counter), (شركة, Airlines), (دلتا, [the, Delta]), (للطيران, flight), (للوصل, connecting), (بين, connecting), (الرحلات, flight), (؟, ?)"
+  },
+  {
+    "id": "m7154",
+    "ar": "بالتاكيد لقد قلت : هل تعرف السيد هوايت ؟",
+    "en": "Surely . I said , Do you know Mr . White ?",
+    "alignment_string": "(بالتاكيد, Surely), (قلت, [I, said]), (:, ,), (هل, Do), (تعرف, [you, know]), (السيد, [Mr, .]), (هوايت, White), (؟, ?)"
+  },
+  {
+    "id": "a12308",
+    "ar": "عفوا ، ولكن انا طلبت شاورما اللحم .",
+    "en": "Excuse me , but I ordered meat shawarma .",
+    "alignment_string": "(عفوا, [Excuse, me]), (،, ,), (ولكن, but), (انا, I), (طلبت, ordered), (شاورما, shawarma), (اللحم, meat), (., .)"
+  },
+  {
+    "id": "m4462",
+    "ar": "هل استطيع تكملة رحلتي ؟",
+    "en": "Can I continue my journey ?",
+    "alignment_string": "(هل, Can), (استطيع, [Can, I]), (تكملة, continue), (رحلتي, [my, journey]), (؟, ?)"
+  },
+  {
+    "id": "a7049",
+    "ar": "الضمير هو كلمة نستخدمها بدلا من الاسم .",
+    "en": "A pronoun is a word we use instead of a noun .",
+    "alignment_string": "(الضمير, [pronoun]), (هو, is), (كلمة, [word]), (نستخدمها, [we, use]), (بدلا, instead), (من, of), (الاسم, [noun]), (., .)"
+  },
+  {
+    "id": "a3350",
+    "ar": "شكرا يا عمر .",
+    "en": "Thank you , Omar .",
+    "alignment_string": "(شكرا, [Thank, you]), (يا, ,), (عمر, Omar), (., .)"
+  },
+  {
+    "id": "m4863",
+    "ar": "فيلم ملون اربع وعشرون لقطة ، من فضلك .",
+    "en": "Twenty - four exposure color film , please .",
+    "alignment_string": "(فيلم, film), (ملون, color), (اربع, four), (وعشرون, [Twenty]), (لقطة, exposure), (،, ,), (من, please), (فضلك, please), (., .)"
+  },
+  {
+    "id": "a4557",
+    "ar": "حسنا ، ماذا تحبين ان تقرئي ؟",
+    "en": "Okay , what do you like to read ?",
+    "alignment_string": "(حسنا, Okay), (،, ,), (ماذا, what), (تحبين, [you, like]), (تقرئي, read), (؟, ?)"
+  },
+  {
+    "id": "m1666",
+    "ar": "لا توجد مقاعد محجوزة . يمكنك ان تاخذ المقعد الذي تحب .",
+    "en": "No seats are reserved . You can take any seat you like .",
+    "alignment_string": "(لا, No), (توجد, are), (مقاعد, seats), (محجوزة, reserved), (., .), (يمكنك, [You, can]), (تاخذ, take), (المقعد, [seat]), (تحب, [you, like]), (., .)"
+  },
+  {
+    "id": "m7227",
+    "ar": "اريد الذهاب الى حفل موسيقيا كلاسيكية .",
+    "en": "I'd like to go to a classical music concert .",
+    "alignment_string": "(اريد, [I'd, like]), (الذهاب, [to, go]), (الى, to), (حفل, [concert]), (موسيقيا, music), (كلاسيكية, classical), (., .)"
+  },
+  {
+    "id": "m7327",
+    "ar": "في اي طابق نجد المطاعم ؟",
+    "en": "Would you tell me which floor the restaurants are on ?",
+    "alignment_string": "(في, on), (اي, which), (طابق, floor), (نجد, are), (المطاعم, [the, restaurants]), (؟, ?)"
+  },
+  {
+    "id": "m7787",
+    "ar": "اعطني بعض المكسرات , من فضلك .",
+    "en": "Nuts , please .",
+    "alignment_string": "(المكسرات, Nuts), (من, please), (فضلك, please), (., .)"
+  },
+  {
+    "id": "a8834",
+    "ar": "واحد ، اثنان ، ثلاثة ، اربعة ، خمسة ، ستة ، سبعة ، ثمانية ، تسعة ، عشرة ، عشرون ، ثلاثون ، اربعون ، خمسون ، ستون ، سبعون ، ثمانون ، تسعون ، مئة .",
+    "en": "One , two , three , four , five , six , seven , eight , nine , ten , twenty , thirty , forty , fifty , sixty , seventy , eighty , ninety , one hundred .",
+    "alignment_string": "(واحد, One), (،, ,), (اثنان, two), (،, ,), (ثلاثة, three), (،, ,), (اربعة, four), (،, ,), (خمسة, five), (،, ,), (ستة, six), (،, ,), (سبعة, seven), (،, ,), (ثمانية, eight), (،, ,), (تسعة, nine), (،, ,), (عشرة, ten), (،, ,), (عشرون, twenty), (،, ,), (ثلاثون, thirty), (،, ,), (اربعون, forty), (،, ,), (خمسون, fifty), (،, ,), (ستون, sixty), (،, ,), (سبعون, seventy), (،, ,), (ثمانون, eighty), (،, ,), (تسعون, ninety), (،, ,), (مئة, [one, hundred]), (., .)"
+  },
+  {
+    "id": "a469",
+    "ar": "شكرا . ساتصل عند وصول الكتاب .",
+    "en": "Thank you . I will call when the book arrives .",
+    "alignment_string": "(شكرا, Thank), (., .), (ساتصل, [I, will, call]), (عند, when), (وصول, arrives), (الكتاب, [the, book]), (., .)"
+  },
+  {
+    "id": "a4113",
+    "ar": "لونها ايضا مدهش جدا .",
+    "en": "Its color is also very amazing .",
+    "alignment_string": "(لونها, [Its, color]), (ايضا, [also]), (مدهش, amazing), (جدا, very), (., .)"
+  },
+  {
+    "id": "m4493",
+    "ar": "لدى حساسية ضد حبوب اللقاح .",
+    "en": "I am allergic to pollen .",
+    "alignment_string": "(لدى, [I, am]), (حساسية, [allergic]), (ضد, to), (حبوب, pollen), (اللقاح, pollen), (., .)"
+  },
+  {
+    "id": "a4738",
+    "ar": "صباح النور يا سارة . انا مرتاحة جدا .",
+    "en": "Good morning , Sara . I am very comfortable .",
+    "alignment_string": "(صباح, morning), (النور, Good), (يا, ,), (سارة, Sara), (., .), (انا, I), (مرتاحة, [comfortable]), (جدا, very), (., .)"
+  },
+  {
+    "id": "a2923",
+    "ar": "مرحبا ، عندي موعد مع الطبيب .",
+    "en": "Hello , I have an appointment with the doctor .",
+    "alignment_string": "(مرحبا, Hello), (،, ,), (عندي, [I, have]), (موعد, [appointment]), (مع, with), (الطبيب, [the, doctor]), (., .)"
+  },
+  {
+    "id": "m6660",
+    "ar": "اريد بعضا من سمك موسى .",
+    "en": "I'd like some sole .",
+    "alignment_string": "(اريد, [I'd, like]), (بعضا, some), (من, some), (سمك, sole), (موسى, sole), (., .)"
+  },
+  {
+    "id": "a5",
+    "ar": "من فضلك ، اعيدي الكلمة الاخيرة .",
+    "en": "Please , repeat the last word .",
+    "alignment_string": "(من, Please), (فضلك, Please), (،, ,), (اعيدي, repeat), (الكلمة, [the, word]), (الاخيرة, last), (., .)"
+  },
+  {
+    "id": "a8539",
+    "ar": "انا بحثت عنه في المطبخ .",
+    "en": "I looked for it in the kitchen .",
+    "alignment_string": "(انا, I), (بحثت, looked), (عنه, [for, it]), (في, in), (المطبخ, [the, kitchen]), (., .)"
+  },
+  {
+    "id": "m4820",
+    "ar": "هل هناك اي شيء للاطفال ؟",
+    "en": "Is there anything for children ?",
+    "alignment_string": "(هل, Is), (هناك, [there]), (اي, anything), (شيء, anything), (للاطفال, [for, children]), (؟, ?)"
+  },
+  {
+    "id": "a10215",
+    "ar": "افتح الكتاب .",
+    "en": "Open the book .",
+    "alignment_string": "(افتح, Open), (الكتاب, [the, book]), (., .)"
+  },
+  {
+    "id": "a3324",
+    "ar": "لدينا ثلاثة وسبعون بكرة .",
+    "en": "We have seventy - three spools .",
+    "alignment_string": "(لدينا, [We, have]), (ثلاثة, three), (وسبعون, [seventy]), (بكرة, spools), (., .)"
+  },
+  {
+    "id": "m3558",
+    "ar": "منزلك كبير . كم عدد الغرف ؟",
+    "en": "Your house is big . How many rooms ?",
+    "alignment_string": "(منزلك, [Your, house]), (كبير, [big]), (., .), (كم, How), (عدد, many), (الغرف, rooms), (؟, ?)"
+  },
+  {
+    "id": "m11657",
+    "ar": "هذا رائع . اين الخبز ؟",
+    "en": "That would be fine . Where's the bread ?",
+    "alignment_string": "(هذا, That), (رائع, [fine]), (., .), (اين, Where's), (الخبز, [the, bread]), (؟, ?)"
+  },
+  {
+    "id": "a13409",
+    "ar": "واحد ، اثنان ، ثلاثة ، اربعة .",
+    "en": "One , two , three , four .",
+    "alignment_string": "(واحد, One), (،, ,), (اثنان, two), (،, ,), (ثلاثة, three), (،, ,), (اربعة, four), (., .)"
+  },
+  {
+    "id": "m9845",
+    "ar": "حافلة ؟ اعتقد انك تقصد سيارة ليموزين لتقلك الى الفندق . الى اي فندق انت ذاهب ؟",
+    "en": "Bus ? I think you mean limousine to take you to the hotel . Which hotel are you going ?",
+    "alignment_string": "(حافلة, Bus), (؟, ?), (اعتقد, [I, think]), (انك, you), (تقصد, mean), (سيارة, limousine), (ليموزين, limousine), (لتقلك, [to, take, you]), (الى, to), (الفندق, [the, hotel]), (., .), (الى, Which), (اي, Which), (فندق, hotel), (انت, [you]), (ذاهب, going), (؟, ?)"
+  },
+  {
+    "id": "m9069",
+    "ar": "لا تلمسني .",
+    "en": "Don't touch me .",
+    "alignment_string": "(لا, Don't), (تلمسني, [touch, me]), (., .)"
+  },
+  {
+    "id": "a12479",
+    "ar": "هل عندك كرة ؟",
+    "en": "Do you have a ball ?",
+    "alignment_string": "(هل, Do), (عندك, [you, have]), (كرة, [ball]), (؟, ?)"
+  },
+  {
+    "id": "m6635",
+    "ar": "سوف اخذ قهوة باللبن .",
+    "en": "I'll have some coffee with milk .",
+    "alignment_string": "(سوف, I'll), (اخذ, have), (قهوة, [some, coffee]), (باللبن, [with, milk]), (., .)"
+  },
+  {
+    "id": "a11895",
+    "ar": "اسمي فاطمة . تشرفت بمعرفتك .",
+    "en": "My name is Fatima . Nice to meet you .",
+    "alignment_string": "(اسمي, [My, name]), (فاطمة, [Fatima]), (., .), (تشرفت, Nice), (بمعرفتك, [to, meet, you]), (., .)"
+  },
+  {
+    "id": "m2908",
+    "ar": "اريد سيارة .",
+    "en": "I'd like a car .",
+    "alignment_string": "(اريد, [I'd, like]), (سيارة, [car]), (., .)"
+  },
+  {
+    "id": "a604",
+    "ar": "ومتى سوف تفتح الحديقة الجديدة ؟",
+    "en": "And when will the new park open ?",
+    "alignment_string": "(ومتى, [And, when]), (سوف, will), (تفتح, open), (الحديقة, [the, park]), (الجديدة, new), (؟, ?)"
+  },
+  {
+    "id": "a4436",
+    "ar": "مرحبا يا امي .",
+    "en": "Hello , my mother .",
+    "alignment_string": "(مرحبا, Hello), (امي, [my, mother]), (., .)"
+  },
+  {
+    "id": "a12943",
+    "ar": "ثم اكتب قائمة مهام اليوم .",
+    "en": "Then I write the to - do list for the day .",
+    "alignment_string": "(ثم, Then), (اكتب, [I, write]), (قائمة, list), (مهام, [the, to, do]), (اليوم, [for, the, day]), (., .)"
+  },
+  {
+    "id": "a11629",
+    "ar": "اريد بعض الخبز من فضلك .",
+    "en": "I want some bread please .",
+    "alignment_string": "(اريد, [I, want]), (بعض, some), (الخبز, bread), (من, please), (فضلك, please), (., .)"
+  }
+]

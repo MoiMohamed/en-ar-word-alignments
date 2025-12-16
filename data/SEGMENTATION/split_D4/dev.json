@@ -1,0 +1,2402 @@
+[
+  {
+    "ar": "لا اعرف . هل هي في ال طابق ال ثاني ؟",
+    "ar_agg": "لا اعرف . هل هي في ال+_طابق ال+_ثاني ؟",
+    "en": "I don't know . Is it on the second floor ?",
+    "id": "a9761"
+  },
+  {
+    "ar": "صليت في ال مسجد .",
+    "ar_agg": "صليت في ال+_مسجد .",
+    "en": "I prayed in the mosque .",
+    "id": "a6666"
+  },
+  {
+    "ar": "في اي طابق توجد ملابس ال سيدات ؟",
+    "ar_agg": "في اي طابق توجد ملابس ال+_سيدات ؟",
+    "en": "Which floor is ladies' wear on ?",
+    "id": "m3187"
+  },
+  {
+    "ar": "تفضل ، هذه تذكرة واحدة .",
+    "ar_agg": "تفضل ، هذه تذكرة واحدة .",
+    "en": "Here you go , this is one ticket .",
+    "id": "a13669"
+  },
+  {
+    "ar": "اهلا بك ! ماذا تحب ان تشرب ؟",
+    "ar_agg": "اهلا بك ! ماذا تحب ان تشرب ؟",
+    "en": "Welcome ! What would you like to drink ?",
+    "id": "a13391"
+  },
+  {
+    "ar": "ل قد اصبت بوخزه من ال شوك الذي يغطي ظهر قنفذ ال بحر .",
+    "ar_agg": "ل+_قد اصبت بوخزه من ال+_شوك الذي يغطي ظهر قنفذ ال+_بحر .",
+    "en": "I've been pricked by sea urchin spines .",
+    "id": "m10942"
+  },
+  {
+    "ar": "و لماذا تفضلن انتن ؟",
+    "ar_agg": "و+_لماذا تفضلن انتن ؟",
+    "en": "And why do you ( fem . pl . ) prefer historical novels ?",
+    "id": "a2484"
+  },
+  {
+    "ar": "انا ال سيد تاناكا في ال غرفة رقم اثنا عشر صفر تسعة . اريد طاقما من مناشف ال حمام ال جديدة .",
+    "ar_agg": "انا ال+_سيد تاناكا في ال+_غرفة رقم اثنا عشر صفر تسعة . اريد طاقما من مناشف ال+_حمام ال+_جديدة .",
+    "en": "This is Mr . Tanaka in room twelve o nine . I would like to have a set of fresh bath towels .",
+    "id": "m4943"
+  },
+  {
+    "ar": "متى يفتح مكتب ال بريد ؟",
+    "ar_agg": "متى يفتح مكتب ال+_بريد ؟",
+    "en": "What time does the post office open ?",
+    "id": "m434"
+  },
+  {
+    "ar": "حسنا . كم عدد ال اشجار اذن ؟",
+    "ar_agg": "حسنا . كم عدد ال+_اشجار اذن ؟",
+    "en": "Okay . How many trees are there then ?",
+    "id": "a7140"
+  },
+  {
+    "ar": "ما اسم ال قطة ؟",
+    "ar_agg": "ما اسم ال+_قطة ؟",
+    "en": "What is the cat's name ?",
+    "id": "a8750"
+  },
+  {
+    "ar": "شكرا جزيلا يا استاذة . سوف استمع ل ها .",
+    "ar_agg": "شكرا جزيلا يا استاذة . سوف استمع ل_+ها .",
+    "en": "Thank you very much , teacher . I will listen to them .",
+    "id": "a4996"
+  },
+  {
+    "ar": "هذا ال عرض يشمل دقائق كثيرة و بيانات .",
+    "ar_agg": "هذا ال+_عرض يشمل دقائق كثيرة و+_بيانات .",
+    "en": "This offer includes many minutes and data .",
+    "id": "a13156"
+  },
+  {
+    "ar": "مرحبا . اريد خبز .",
+    "ar_agg": "مرحبا . اريد خبز .",
+    "en": "Hello . I want bread .",
+    "id": "a12273"
+  },
+  {
+    "ar": "تؤلم ني معدت ي احيانا .",
+    "ar_agg": "تؤلم_+ني معدت_+ي احيانا .",
+    "en": "Sometimes my stomach hurts .",
+    "id": "m9319"
+  },
+  {
+    "ar": "لا يسع ني اداء ذلك .",
+    "ar_agg": "لا يسع_+ني اداء ذلك .",
+    "en": "I can't do it .",
+    "id": "m11571"
+  },
+  {
+    "ar": "حسنا . لا اعرف ماذا اقول .",
+    "ar_agg": "حسنا . لا اعرف ماذا اقول .",
+    "en": "Well , I don't know how to say .",
+    "id": "m2834"
+  },
+  {
+    "ar": "لماذا ؟ ماذا فعلت امس ؟",
+    "ar_agg": "لماذا ؟ ماذا فعلت امس ؟",
+    "en": "Why ? What did you do yesterday ?",
+    "id": "a555"
+  },
+  {
+    "ar": "ابغي غرفة مفردة .",
+    "ar_agg": "ابغي غرفة مفردة .",
+    "en": "I want a single room .",
+    "id": "m5776"
+  },
+  {
+    "ar": "هل لدي كم اية اماكن شاغرة ال ليلة ؟",
+    "ar_agg": "هل لدي_+كم اية اماكن شاغرة ال+_ليلة ؟",
+    "en": "Do you have any vacancies tonight ?",
+    "id": "m5314"
+  },
+  {
+    "ar": "حسنا ، ساحضره حالا .",
+    "ar_agg": "حسنا ، ساحضره حالا .",
+    "en": "Okay , I will bring it to you right away .",
+    "id": "a418"
+  },
+  {
+    "ar": "لا ، من فضل ك اجلس و انتظر . س اعود بعد قليل .",
+    "ar_agg": "لا ، من فضل_+ك اجلس و+_انتظر . س+_اعود بعد قليل .",
+    "en": "No , please have a seat and wait . I'll be right back .",
+    "id": "m4610"
+  },
+  {
+    "ar": "اسم ي رامي .",
+    "ar_agg": "اسم_+ي رامي .",
+    "en": "My name is Rami .",
+    "id": "a10741"
+  },
+  {
+    "ar": "يا سالم ، طعم هذه ال كعكة لذيذ .",
+    "ar_agg": "يا سالم ، طعم هذه ال+_كعكة لذيذ .",
+    "en": "Hey Salem , the taste of this cake is delicious .",
+    "id": "a3896"
+  },
+  {
+    "ar": "اريد قداحة .",
+    "ar_agg": "اريد قداحة .",
+    "en": "I'd like a lighter .",
+    "id": "m27"
+  },
+  {
+    "ar": "هل سالم يسكن هنا ؟",
+    "ar_agg": "هل سالم يسكن هنا ؟",
+    "en": "Does Salem live here ?",
+    "id": "a6750"
+  },
+  {
+    "ar": "مرحبا . هل هذه عائلة براون ؟",
+    "ar_agg": "مرحبا . هل هذه عائلة براون ؟",
+    "en": "Hello . Is this the Brown's ?",
+    "id": "m9633"
+  },
+  {
+    "ar": "من فضل ك اخبر ني كيف استخدم ها .",
+    "ar_agg": "من فضل_+ك اخبر_+ني كيف استخدم_+ها .",
+    "en": "Please tell me how to use it .",
+    "id": "m1069"
+  },
+  {
+    "ar": "عفوا . هلا متى س تكون صور ي جاهزة ؟",
+    "ar_agg": "عفوا . هلا متى س+_تكون صور_+ي جاهزة ؟",
+    "en": "Excuse me . Could you tell me when my photos will be ready ?",
+    "id": "m3294"
+  },
+  {
+    "ar": "صحيح . هم في ال مطعم يستخدمون ال كثير من ال زيت .",
+    "ar_agg": "صحيح . هم في ال+_مطعم يستخدمون ال+_كثير من ال+_زيت .",
+    "en": "True . They use a lot of oil at the restaurant .",
+    "id": "a585"
+  },
+  {
+    "ar": "ما الذي تحب ان تفعل ه ؟",
+    "ar_agg": "ما الذي تحب ان تفعل_+ه ؟",
+    "en": "What would you like to do ?",
+    "id": "m6816"
+  },
+  {
+    "ar": "هل هذا قطار مباشر الى شيكاغو ؟",
+    "ar_agg": "هل هذا قطار مباشر الى شيكاغو ؟",
+    "en": "Is this a direct train to Chicago ?",
+    "id": "m10474"
+  },
+  {
+    "ar": "ب ال تاكيد ، سوف تكون حفلة رائعة جدا .",
+    "ar_agg": "ب+_ال+_تاكيد ، سوف تكون حفلة رائعة جدا .",
+    "en": "For sure , it will be a very wonderful party .",
+    "id": "a1923"
+  },
+  {
+    "ar": "في ال وقت ال حالي . هل تستطيع ان تعطي ني ب عض ال نقود حتى استطيع شراء ب عض ال اشياء ال ضرورية .",
+    "ar_agg": "في ال+_وقت ال+_حالي . هل تستطيع ان تعطي_+ني ب+_عض ال+_نقود حتى استطيع شراء ب+_عض ال+_اشياء ال+_ضرورية .",
+    "en": "For the time being , can you give me some money so that I can buy some necessary things .",
+    "id": "m4372"
+  },
+  {
+    "ar": "بوابت ي هي C22 . هل هي بعيدة من هنا ؟",
+    "ar_agg": "بوابت_+ي هي C22 . هل هي بعيدة من هنا ؟",
+    "en": "My gate is C22 . Is it far from here ?",
+    "id": "a5551"
+  },
+  {
+    "ar": "هذا صندوق ل ل مجوهرات .",
+    "ar_agg": "هذا صندوق ل+_ل+_مجوهرات .",
+    "en": "This is a box for jewelry .",
+    "id": "a8550"
+  },
+  {
+    "ar": "نور ب خير . امس ، رسمت صورة جميلة في ال حديقة .",
+    "ar_agg": "نور ب+_خير . امس ، رسمت صورة جميلة في ال+_حديقة .",
+    "en": "Noor is fine . Yesterday , she drew a beautiful picture in the garden .",
+    "id": "a2634"
+  },
+  {
+    "ar": "عظيم ! س انتظر هنا ب هدوء .",
+    "ar_agg": "عظيم ! س+_انتظر هنا ب+_هدوء .",
+    "en": "Great ! I will wait here quietly .",
+    "id": "a1142"
+  },
+  {
+    "ar": "هل يمكن ك تسجيل اسم ي ب قائمة ال انتظار ؟",
+    "ar_agg": "هل يمكن_+ك تسجيل اسم_+ي ب+_قائمة ال+_انتظار ؟",
+    "en": "Could you put my name on a waiting list ?",
+    "id": "m11401"
+  },
+  {
+    "ar": "ل , ا اريد فقط ال زيارة ب دون ميعاد .",
+    "ar_agg": "ل , ا اريد فقط ال+_زيارة ب+_دون ميعاد .",
+    "en": "No , I just want to drop in .",
+    "id": "m1177"
+  },
+  {
+    "ar": "سعر ه مئة و ثلاثون درهما .",
+    "ar_agg": "سعر_+ه مئة و+_ثلاثون درهما .",
+    "en": "Its price is one hundred and thirty dirhams .",
+    "id": "a1601"
+  },
+  {
+    "ar": "ال رقم ال اخير .",
+    "ar_agg": "ال+_رقم ال+_اخير .",
+    "en": "The last number .",
+    "id": "a12960"
+  },
+  {
+    "ar": "من فضل ك استلق هناك .",
+    "ar_agg": "من فضل_+ك استلق هناك .",
+    "en": "Please lie down over there .",
+    "id": "m3865"
+  },
+  {
+    "ar": "س يكون جاهزا غدا مساء .",
+    "ar_agg": "س+_يكون جاهزا غدا مساء .",
+    "en": "It will be ready tomorrow evening .",
+    "id": "a11786"
+  },
+  {
+    "ar": "معذرة ، لكن هل ل ك ان تشرح هذه ال ازرار ؟",
+    "ar_agg": "معذرة ، لكن هل ل_+ك ان تشرح هذه ال+_ازرار ؟",
+    "en": "Excuse me , but would you explain these buttons ?",
+    "id": "m1868"
+  },
+  {
+    "ar": "يا احمد ، هل رايت كتاب ي ؟",
+    "ar_agg": "يا احمد ، هل رايت كتاب_+ي ؟",
+    "en": "Ahmad , have you seen my book ?",
+    "id": "a12438"
+  },
+  {
+    "ar": "لماذا لا ننتظر ال حافلة تحت التندة ؟",
+    "ar_agg": "لماذا لا ننتظر ال+_حافلة تحت التندة ؟",
+    "en": "Why don't we wait for the bus under the awning ?",
+    "id": "m9871"
+  },
+  {
+    "ar": "هدايا جميلة !",
+    "ar_agg": "هدايا جميلة !",
+    "en": "Nice gifts !",
+    "id": "a3902"
+  },
+  {
+    "ar": "ال وقت متاخر ال ان . يجب ان نعود .",
+    "ar_agg": "ال+_وقت متاخر ال+_ان . يجب ان نعود .",
+    "en": "It is late now . We should go back .",
+    "id": "a2002"
+  },
+  {
+    "ar": "شكرا . ال حساب هو ثمانين دولارا و خمسون سنتا مع . من فضل ك ادفع ل موظف ال خزينة .",
+    "ar_agg": "شكرا . ال+_حساب هو ثمانين دولارا و+_خمسون سنتا مع . من فضل_+ك ادفع ل+_موظف ال+_خزينة .",
+    "en": "Thank you . That'll be eighty dollars and fifty cents with tax . Please pay the cashier .",
+    "id": "m7913"
+  },
+  {
+    "ar": "اهلا . اريد تمرا .",
+    "ar_agg": "اهلا . اريد تمرا .",
+    "en": "Hello . I want dates .",
+    "id": "a10775"
+  },
+  {
+    "ar": "احسنت . تصبحين على خير .",
+    "ar_agg": "احسنت . تصبحين على خير .",
+    "en": "Well done . Good night .",
+    "id": "a12886"
+  },
+  {
+    "ar": "ما هي ال مؤهلات ال مطلوبة ل ل حصول على هذه ال وظيفة ؟",
+    "ar_agg": "ما هي ال+_مؤهلات ال+_مطلوبة ل+_ل+_حصول على هذه ال+_وظيفة ؟",
+    "en": "What qualifications does one need for that position ?",
+    "id": "m10920"
+  },
+  {
+    "ar": "حسنا . بعد حوال ي عمارتين اخريين ، فيما اظن .",
+    "ar_agg": "حسنا . بعد حوال_+ي عمارتين اخريين ، فيما اظن .",
+    "en": "Oh , about two more blocks , I think .",
+    "id": "m11424"
+  },
+  {
+    "ar": "اود ال حصول على دبوس ل ل زينة .",
+    "ar_agg": "اود ال+_حصول على دبوس ل+_ل+_زينة .",
+    "en": "I'd like a brooch .",
+    "id": "m11025"
+  },
+  {
+    "ar": "س اغادر يوم ال جمعة ال تاسع و ال عشرين وساعود يوم ال احد .",
+    "ar_agg": "س+_اغادر يوم ال+_جمعة ال+_تاسع و+_ال+_عشرين وساعود يوم ال+_احد .",
+    "en": "I'll be leaving on Friday the twenty - ninth and returning on Sunday .",
+    "id": "m2811"
+  },
+  {
+    "ar": "اين مكتب ال استقبال ؟",
+    "ar_agg": "اين مكتب ال+_استقبال ؟",
+    "en": "Where's the reception desk ?",
+    "id": "m10589"
+  },
+  {
+    "ar": "اعلان ال نتائج س يكون بعد ساعة .",
+    "ar_agg": "اعلان ال+_نتائج س+_يكون بعد ساعة .",
+    "en": "The announcement of the results will be after an hour .",
+    "id": "a2600"
+  },
+  {
+    "ar": "ان ها تغادر من محطة حافلات رقم اثنان .",
+    "ar_agg": "ان_+ها تغادر من محطة حافلات رقم اثنان .",
+    "en": "It leaves from number two bus stop .",
+    "id": "m9437"
+  },
+  {
+    "ar": "تفضل . هذه هي ال سلطة .",
+    "ar_agg": "تفضل . هذه هي ال+_سلطة .",
+    "en": "Here you go . This is the salad .",
+    "id": "a229"
+  },
+  {
+    "ar": "ماذا عن ال غد ؟",
+    "ar_agg": "ماذا عن ال+_غد ؟",
+    "en": "How about tomorrow ?",
+    "id": "m804"
+  },
+  {
+    "ar": "انا ارى ان ال كتاب ال كلاسيكي هو اهم مرجع .",
+    "ar_agg": "انا ارى ان ال+_كتاب ال+_كلاسيكي هو اهم مرجع .",
+    "en": "I see the classic book as the most important reference .",
+    "id": "a2565"
+  },
+  {
+    "ar": "لا استطيع شراء واحدة غالية مثل هذه .",
+    "ar_agg": "لا استطيع شراء واحدة غالية مثل هذه .",
+    "en": "I can't afford to buy such an expensive one .",
+    "id": "m4330"
+  },
+  {
+    "ar": "عند ي مئة بقرة في هذا ال حقل .",
+    "ar_agg": "عند_+ي مئة بقرة في هذا ال+_حقل .",
+    "en": "I have one hundred cows in this field .",
+    "id": "a1209"
+  },
+  {
+    "ar": "اين ال اشخاص ال اخرين ؟",
+    "ar_agg": "اين ال+_اشخاص ال+_اخرين ؟",
+    "en": "Where are the other people ?",
+    "id": "m9710"
+  },
+  {
+    "ar": "هل يمكن ان تعتني ب ها من ال ساعة ال تاسعة صباحا حتى ال ثالثة ؟",
+    "ar_agg": "هل يمكن ان تعتني ب_+ها من ال+_ساعة ال+_تاسعة صباحا حتى ال+_ثالثة ؟",
+    "en": "Can you take care of her from nine a . m . to about three ?",
+    "id": "m5440"
+  },
+  {
+    "ar": "اريد فندقا امنا يقدم افطارا جيدا ، من فضل ك ؟",
+    "ar_agg": "اريد فندقا امنا يقدم افطارا جيدا ، من فضل_+ك ؟",
+    "en": "A safe hotel serving a great breakfast , please .",
+    "id": "m11548"
+  },
+  {
+    "ar": "هذه فكرة جيدة .",
+    "ar_agg": "هذه فكرة جيدة .",
+    "en": "That's a good idea .",
+    "id": "m11347"
+  },
+  {
+    "ar": "شكرا ل ك ! في اي يوم ؟",
+    "ar_agg": "شكرا ل_+ك ! في اي يوم ؟",
+    "en": "Thank you ! On which day ?",
+    "id": "a11020"
+  },
+  {
+    "ar": "ال قطة هادئة و لا تحتاج مكانا كبيرا .",
+    "ar_agg": "ال+_قطة هادئة و+_لا تحتاج مكانا كبيرا .",
+    "en": "The cat is quiet and doesn't need a big space .",
+    "id": "a10789"
+  },
+  {
+    "ar": "اعتقد ان سيارت ي تستحق حوال ي خمسة الاف دولارا .",
+    "ar_agg": "اعتقد ان سيارت_+ي تستحق حوال_+ي خمسة الاف دولارا .",
+    "en": "I believe my car is worth in the about five thousand dollars .",
+    "id": "m3385"
+  },
+  {
+    "ar": "هل هذا ال ضمان صالح في ال يابان ؟",
+    "ar_agg": "هل هذا ال+_ضمان صالح في ال+_يابان ؟",
+    "en": "Is this guarantee valid in Japan ?",
+    "id": "m8326"
+  },
+  {
+    "ar": "اريد ان استقل ال حافلة ال سريعة الى ال مطار .",
+    "ar_agg": "اريد ان استقل ال+_حافلة ال+_سريعة الى ال+_مطار .",
+    "en": "I want to take the shuttle bus to the airport .",
+    "id": "m9405"
+  },
+  {
+    "ar": "س اعود يوم خمسة و عشرين مارس .",
+    "ar_agg": "س+_اعود يوم خمسة و+_عشرين مارس .",
+    "en": "I'm returning on March twenty fifth .",
+    "id": "m1247"
+  },
+  {
+    "ar": "مفاصل ي تؤلم ني .",
+    "ar_agg": "مفاصل_+ي تؤلم_+ني .",
+    "en": "My joints ache .",
+    "id": "m1764"
+  },
+  {
+    "ar": "اهلا بك يا رامي .",
+    "ar_agg": "اهلا بك يا رامي .",
+    "en": "Hello to you , Rami .",
+    "id": "a3316"
+  },
+  {
+    "ar": "كيف اكل مخالب الكابوريا هذه ؟",
+    "ar_agg": "كيف اكل مخالب الكابوريا هذه ؟",
+    "en": "How do I eat these big crab claws ?",
+    "id": "m11373"
+  },
+  {
+    "ar": "لدي نا الوان اخرى .",
+    "ar_agg": "لدي_+نا الوان اخرى .",
+    "en": "We've got other colors .",
+    "id": "m10761"
+  },
+  {
+    "ar": "ال حمد لله . اتمنى ل ك يوما سعيدا .",
+    "ar_agg": "ال+_حمد لله . اتمنى ل_+ك يوما سعيدا .",
+    "en": "Thank God . I wish you a happy day .",
+    "id": "a838"
+  },
+  {
+    "ar": "تمام . ما راي ك في ال مقاس ؟",
+    "ar_agg": "تمام . ما راي_+ك في ال+_مقاس ؟",
+    "en": "Alright . What is your opinion of the fit ?",
+    "id": "a9606"
+  },
+  {
+    "ar": "سمعت ان ها كانت مشغولة امس .",
+    "ar_agg": "سمعت ان_+ها كانت مشغولة امس .",
+    "en": "I heard she was busy yesterday .",
+    "id": "a6743"
+  },
+  {
+    "ar": "بيضتين ، مسلوقتين .",
+    "ar_agg": "بيضتين ، مسلوقتين .",
+    "en": "Two eggs , poached .",
+    "id": "m11375"
+  },
+  {
+    "ar": "هلا طلبت من ه ان يتصل بي على حساب ي هلا يعود ؟",
+    "ar_agg": "هلا طلبت من_+ه ان يتصل بي على حساب_+ي هلا يعود ؟",
+    "en": "Will you ask him to call me collect when he gets back ?",
+    "id": "m5681"
+  },
+  {
+    "ar": "غرف متجاورة , من فضل ك .",
+    "ar_agg": "غرف متجاورة , من فضل_+ك .",
+    "en": "Rooms that are side - by - side , please .",
+    "id": "m10964"
+  },
+  {
+    "ar": "صباح ال خير . ماذا تفعل كل صباح ؟",
+    "ar_agg": "صباح ال+_خير . ماذا تفعل كل صباح ؟",
+    "en": "Good morning . What do you do every morning ?",
+    "id": "a4261"
+  },
+  {
+    "ar": "و علي كم ال سلام . اختيار جيد . هل تريد شيئا اخر ؟",
+    "ar_agg": "و+_علي_+كم ال+_سلام . اختيار جيد . هل تريد شيئا اخر ؟",
+    "en": "Hello . Good choice . Do you want anything else ?",
+    "id": "a8437"
+  },
+  {
+    "ar": "انا احب جويا . انا مشتاق ل رؤيت هم .",
+    "ar_agg": "انا احب جويا . انا مشتاق ل+_رؤيت_+هم .",
+    "en": "I love Goya . I'm eager to see them .",
+    "id": "m1555"
+  },
+  {
+    "ar": "اهلا . اذهب مباشرة في هذا ال شارع .",
+    "ar_agg": "اهلا . اذهب مباشرة في هذا ال+_شارع .",
+    "en": "Hello . Go straight on this street .",
+    "id": "a11130"
+  },
+  {
+    "ar": "ماذا افعل ال ان من فضل ك ؟",
+    "ar_agg": "ماذا افعل ال+_ان من فضل_+ك ؟",
+    "en": "What do I do now , please ?",
+    "id": "a12372"
+  },
+  {
+    "ar": "يا اله ي ! ماذا حدث ؟",
+    "ar_agg": "يا اله_+ي ! ماذا حدث ؟",
+    "en": "Oh my God ! What happened ?",
+    "id": "a3592"
+  },
+  {
+    "ar": "مرحبا . انا اسم ي هدي .",
+    "ar_agg": "مرحبا . انا اسم_+ي هدي .",
+    "en": "Hello . My name is Huda .",
+    "id": "a8613"
+  },
+  {
+    "ar": "اهلا بك . استمتع ب وقت ك .",
+    "ar_agg": "اهلا بك . استمتع ب+_وقت_+ك .",
+    "en": "You're welcome . Enjoy your time .",
+    "id": "a3935"
+  },
+  {
+    "ar": "اهلا بك ، انا ب خير . عند ي اخبار جيدة .",
+    "ar_agg": "اهلا بك ، انا ب+_خير . عند_+ي اخبار جيدة .",
+    "en": "Hello , I'm fine . I have good news .",
+    "id": "a4937"
+  },
+  {
+    "ar": "الى اين نذهب اولا يا علي ؟",
+    "ar_agg": "الى اين نذهب اولا يا علي ؟",
+    "en": "Where are we going first , Ali ?",
+    "id": "a11445"
+  },
+  {
+    "ar": "هل ل ي ان ادفع ب ال مارك ال الماني ايضا ؟",
+    "ar_agg": "هل ل_+ي ان ادفع ب+_ال+_مارك ال+_الماني ايضا ؟",
+    "en": "May I pay in German marks , too ?",
+    "id": "m4532"
+  },
+  {
+    "ar": "حسنا . اين اضع ال اقلام بعد ذلك ؟",
+    "ar_agg": "حسنا . اين اضع ال+_اقلام بعد ذلك ؟",
+    "en": "Okay . Where do I put the pencils after that ?",
+    "id": "a8179"
+  },
+  {
+    "ar": "شكرا جزيلا . هذا سهل جدا .",
+    "ar_agg": "شكرا جزيلا . هذا سهل جدا .",
+    "en": "Thank you very much . This is very easy .",
+    "id": "a68"
+  },
+  {
+    "ar": "من فضل ك ازل هذه ال بقعة .",
+    "ar_agg": "من فضل_+ك ازل هذه ال+_بقعة .",
+    "en": "Could you please remove this stain ?",
+    "id": "m7380"
+  },
+  {
+    "ar": "اين ابلغ عن ها ؟",
+    "ar_agg": "اين ابلغ عن_+ها ؟",
+    "en": "Where shall I report it ?",
+    "id": "m9678"
+  },
+  {
+    "ar": "ممتاز . نحن نحتاج مئة بطاقة ل ل حفل .",
+    "ar_agg": "ممتاز . نحن نحتاج مئة بطاقة ل+_ل+_حفل .",
+    "en": "Excellent . We need one hundred cards for the party .",
+    "id": "a3623"
+  },
+  {
+    "ar": "خاص ب ال نساء ، من فضل ك . كم ثمن نصف يوم ؟",
+    "ar_agg": "خاص ب+_ال+_نساء ، من فضل_+ك . كم ثمن نصف يوم ؟",
+    "en": "A women , please . How much is half a day ?",
+    "id": "m11110"
+  },
+  {
+    "ar": "عفوا . هل اعجب ك طعم ال دجاج ؟",
+    "ar_agg": "عفوا . هل اعجب_+ك طعم ال+_دجاج ؟",
+    "en": "You're welcome . Did you like the taste of the chicken ?",
+    "id": "a10968"
+  },
+  {
+    "ar": "مرحبا يا زياد !",
+    "ar_agg": "مرحبا يا زياد !",
+    "en": "Hello Ziad !",
+    "id": "a73"
+  },
+  {
+    "ar": "سوف تزوران جزرا استوائية جميلة جدا .",
+    "ar_agg": "سوف تزوران جزرا استوائية جميلة جدا .",
+    "en": "You will visit very beautiful tropical islands .",
+    "id": "a4707"
+  },
+  {
+    "ar": "خمسة فئة عشرين و اربعة فئة خمسين .",
+    "ar_agg": "خمسة فئة عشرين و+_اربعة فئة خمسين .",
+    "en": "Five twenties and four fifties .",
+    "id": "m1851"
+  },
+  {
+    "ar": "افضل حجرة هادئة .",
+    "ar_agg": "افضل حجرة هادئة .",
+    "en": "I'd prefer a quiet room .",
+    "id": "m720"
+  },
+  {
+    "ar": "اهلا ليلى . هل هي رواية جيدة ل ل نادي ؟",
+    "ar_agg": "اهلا ليلى . هل هي رواية جيدة ل+_ل+_نادي ؟",
+    "en": "Hello Laila . Is it a good novel for the club ?",
+    "id": "a42"
+  },
+  {
+    "ar": "من فضل ك اتجه ل ل يسار .",
+    "ar_agg": "من فضل_+ك اتجه ل+_ل+_يسار .",
+    "en": "Please turn to the left .",
+    "id": "m1841"
+  },
+  {
+    "ar": "نعم ، هذه ال حافلة تذهب الى هناك .",
+    "ar_agg": "نعم ، هذه ال+_حافلة تذهب الى هناك .",
+    "en": "Yes , this bus goes there .",
+    "id": "a13733"
+  },
+  {
+    "ar": "ب ال تاكيد . هيا نلعب مرة اخرى .",
+    "ar_agg": "ب+_ال+_تاكيد . هيا نلعب مرة اخرى .",
+    "en": "Definitely . Let's play again .",
+    "id": "a5626"
+  },
+  {
+    "ar": "هذه يد .",
+    "ar_agg": "هذه يد .",
+    "en": "This is a hand .",
+    "id": "a8626"
+  },
+  {
+    "ar": "كن هناك ب حلول ال تاسعة ، من فضل ك .",
+    "ar_agg": "كن هناك ب+_حلول ال+_تاسعة ، من فضل_+ك .",
+    "en": "Arrive there by nine , please .",
+    "id": "m11338"
+  },
+  {
+    "ar": "حسنا ، سعر ال رسالة عشرة جنيهات .",
+    "ar_agg": "حسنا ، سعر ال+_رسالة عشرة جنيهات .",
+    "en": "Okay , the price of the letter is ten pounds .",
+    "id": "a5871"
+  },
+  {
+    "ar": "ل هذا ال سبب هما لاعبان ممتازان .",
+    "ar_agg": "ل+_هذا ال+_سبب هما لاعبان ممتازان .",
+    "en": "That is why they are two excellent players .",
+    "id": "a6156"
+  },
+  {
+    "ar": "فكرة ممتازة . انا موافق . ارا ك غدا .",
+    "ar_agg": "فكرة ممتازة . انا موافق . ارا_+ك غدا .",
+    "en": "Excellent idea . I agree . See you tomorrow .",
+    "id": "a2209"
+  },
+  {
+    "ar": "هل هذه ال تذكرة سارية فقط ل ل يوم ال محدد ؟",
+    "ar_agg": "هل هذه ال+_تذكرة سارية فقط ل+_ل+_يوم ال+_محدد ؟",
+    "en": "Is this ticket valid only for the designated day ?",
+    "id": "m346"
+  },
+  {
+    "ar": "صباح ال خير يا ليلى .",
+    "ar_agg": "صباح ال+_خير يا ليلى .",
+    "en": "Good morning , Layla .",
+    "id": "a8114"
+  },
+  {
+    "ar": "ال تفاحة كبيرة .",
+    "ar_agg": "ال+_تفاحة كبيرة .",
+    "en": "The apple is big .",
+    "id": "a11378"
+  },
+  {
+    "ar": "ال جو بارد . هل تستطيع عمل شئ ؟",
+    "ar_agg": "ال+_جو بارد . هل تستطيع عمل شئ ؟",
+    "en": "It's cold . Can you do something ?",
+    "id": "m11224"
+  },
+  {
+    "ar": "انا سعيد ل ان اخا كريم س يذهب معكم .",
+    "ar_agg": "انا سعيد ل+_ان اخا كريم س+_يذهب معكم .",
+    "en": "I am happy that Karim's brother will go with you .",
+    "id": "a358"
+  },
+  {
+    "ar": "ال لوفر ابو ظبي في جزيرة ال سعديات .",
+    "ar_agg": "ال+_لوفر ابو ظبي في جزيرة ال+_سعديات .",
+    "en": "The Louvre Abu Dhabi is on Saadiyat Island .",
+    "id": "a7042"
+  },
+  {
+    "ar": "تمام . و في اي قسم هي ؟",
+    "ar_agg": "تمام . و+_في اي قسم هي ؟",
+    "en": "Okay . And in which section are they ?",
+    "id": "a9917"
+  },
+  {
+    "ar": "شكرا ل ك . ساكتب في دفتر ي .",
+    "ar_agg": "شكرا ل_+ك . ساكتب في دفتر_+ي .",
+    "en": "Thank you . I will write your number in my notebook .",
+    "id": "a9266"
+  },
+  {
+    "ar": "هل يمكن ني اطلب بيتزا تسلم في غرفت ي ؟",
+    "ar_agg": "هل يمكن_+ني اطلب بيتزا تسلم في غرفت_+ي ؟",
+    "en": "Could I have a pizza delivered to my room ?",
+    "id": "m2179"
+  },
+  {
+    "ar": "خطئ ي .",
+    "ar_agg": "خطئ_+ي .",
+    "en": "My error .",
+    "id": "m11505"
+  },
+  {
+    "ar": "هل ثمة تخفيضات ل ل اعضاء المشاركين ؟",
+    "ar_agg": "هل ثمة تخفيضات ل+_ل+_اعضاء المشاركين ؟",
+    "en": "Do you have any reduction rate for the members ?",
+    "id": "m2508"
+  },
+  {
+    "ar": "هل تريد سيجارة ؟",
+    "ar_agg": "هل تريد سيجارة ؟",
+    "en": "Would you like a cigarette ?",
+    "id": "m1191"
+  },
+  {
+    "ar": "قمت ب ال حجز عن طريق جي تي بي في ال يابان منذ اسبوعين .",
+    "ar_agg": "قمت ب+_ال+_حجز عن طريق جي تي بي في ال+_يابان منذ اسبوعين .",
+    "en": "I made a reservation through JTB in Japan two weeks ago .",
+    "id": "m10629"
+  },
+  {
+    "ar": "ال يوم ال ثالث من يوليو . حسنا ، شكرا جزيلا ل ك .",
+    "ar_agg": "ال+_يوم ال+_ثالث من يوليو . حسنا ، شكرا جزيلا ل_+ك .",
+    "en": "The third of July . Okay , thank you very much .",
+    "id": "a9812"
+  },
+  {
+    "ar": "نحن اربعة .",
+    "ar_agg": "نحن اربعة .",
+    "en": "We are four .",
+    "id": "a12241"
+  },
+  {
+    "ar": "اريد ب عض ال اربطة ال مطاطية .",
+    "ar_agg": "اريد ب+_عض ال+_اربطة ال+_مطاطية .",
+    "en": "I'd like some rubber bands .",
+    "id": "m5856"
+  },
+  {
+    "ar": "هل يمكننا ال حصول على مرشد يتحدث ال يابانية ؟",
+    "ar_agg": "هل يمكننا ال+_حصول على مرشد يتحدث ال+_يابانية ؟",
+    "en": "Could we have a Japanese speaking guide ?",
+    "id": "m10288"
+  },
+  {
+    "ar": "انا افضل ال حمص . هو اشهر طبق هنا .",
+    "ar_agg": "انا افضل ال+_حمص . هو اشهر طبق هنا .",
+    "en": "I prefer the hummus . It is the most famous dish here .",
+    "id": "a8309"
+  },
+  {
+    "ar": "واحد ، اثنان ، ثلاثة . . . عشرون . . . اربعون . . . ستون ، واحد و ستون ، اثنان و ستون ، ثلاثة و ستون ، اربعة و ستون ، خمسة و ستون .",
+    "ar_agg": "واحد ، اثنان ، ثلاثة . . . عشرون . . . اربعون . . . ستون ، واحد و+_ستون ، اثنان و+_ستون ، ثلاثة و+_ستون ، اربعة و+_ستون ، خمسة و+_ستون .",
+    "en": "One , two , three . . . twenty . . . forty . . . sixty , sixty - one , sixty - two , sixty - three , sixty - four , sixty - five .",
+    "id": "a2625"
+  },
+  {
+    "ar": "نخلق هذا ال ملمس ب ال اسفنج .",
+    "ar_agg": "نخلق هذا ال+_ملمس ب+_ال+_اسفنج .",
+    "en": "We create this texture with the sponge .",
+    "id": "a9574"
+  },
+  {
+    "ar": "هذا جبن .",
+    "ar_agg": "هذا جبن .",
+    "en": "This is cheese .",
+    "id": "a10644"
+  },
+  {
+    "ar": "انا افضل افلام الاكشن .",
+    "ar_agg": "انا افضل افلام الاكشن .",
+    "en": "I prefer action movies .",
+    "id": "a3946"
+  },
+  {
+    "ar": "عفوا . على ال رحب و ال سعة .",
+    "ar_agg": "عفوا . على ال+_رحب و+_ال+_سعة .",
+    "en": "You're welcome . My pleasure .",
+    "id": "a8381"
+  },
+  {
+    "ar": "و في ال بطولة ، سجلت مئة و احدى عشرة نقطة .",
+    "ar_agg": "و+_في ال+_بطولة ، سجلت مئة و+_احدى عشرة نقطة .",
+    "en": "And in the championship , you scored one hundred and eleven points .",
+    "id": "a6191"
+  },
+  {
+    "ar": "صباح ال خير . قهوت ك ال معتادة ؟",
+    "ar_agg": "صباح ال+_خير . قهوت_+ك ال+_معتادة ؟",
+    "en": "Good morning . Your usual coffee ?",
+    "id": "a12126"
+  },
+  {
+    "ar": "مجرد زخرفة ، من فضل ك .",
+    "ar_agg": "مجرد زخرفة ، من فضل_+ك .",
+    "en": "Just a trim , please .",
+    "id": "m3916"
+  },
+  {
+    "ar": "هل ل ي ب جدول مواعيد ؟",
+    "ar_agg": "هل ل_+ي ب+_جدول مواعيد ؟",
+    "en": "May I have a time table ?",
+    "id": "m10041"
+  },
+  {
+    "ar": "اهلا بك . ماذا تطلب ال يوم ؟",
+    "ar_agg": "اهلا بك . ماذا تطلب ال+_يوم ؟",
+    "en": "Welcome . What are you ordering today ?",
+    "id": "a4627"
+  },
+  {
+    "ar": "مساء ال خير يا خالد . عملنا كان ممتازا في ال مشروع .",
+    "ar_agg": "مساء ال+_خير يا خالد . عملنا كان ممتازا في ال+_مشروع .",
+    "en": "Good evening , Khalid . Our work on the project was excellent .",
+    "id": "a8649"
+  },
+  {
+    "ar": "حسنا , حجرت ك يا انسة هي رقم تسعة صفر ثمانية . هذا مفتاح ك .",
+    "ar_agg": "حسنا , حجرت_+ك يا انسة هي رقم تسعة صفر ثمانية . هذا مفتاح_+ك .",
+    "en": "Well , your room is nine o eight , Miss . Here's your key .",
+    "id": "m5537"
+  },
+  {
+    "ar": "صديق ي مصاب .",
+    "ar_agg": "صديق_+ي مصاب .",
+    "en": "My friend is injured .",
+    "id": "m4071"
+  },
+  {
+    "ar": "اشعر ب مرض ي في معدت ي .",
+    "ar_agg": "اشعر ب+_مرض_+ي في معدت_+ي .",
+    "en": "I feel sick at my stomach .",
+    "id": "m8665"
+  },
+  {
+    "ar": "هل هناك مكان ما يمكن ني ان اجري من ه مكالمة هاتفية ؟",
+    "ar_agg": "هل هناك مكان ما يمكن_+ني ان اجري من_+ه مكالمة هاتفية ؟",
+    "en": "Is there any place I can make a telephone call ?",
+    "id": "m1280"
+  },
+  {
+    "ar": "اسالم غائب ؟",
+    "ar_agg": "اسالم غائب ؟",
+    "en": "Is Salem absent ?",
+    "id": "a3427"
+  },
+  {
+    "ar": "عفوا يا بني .",
+    "ar_agg": "عفوا يا بني .",
+    "en": "You're welcome , my son .",
+    "id": "a10280"
+  },
+  {
+    "ar": "اسف ، س يكون منزل نا شديد ال ازدحام هذه ال ليلة .",
+    "ar_agg": "اسف ، س+_يكون منزل_+نا شديد ال+_ازدحام هذه ال+_ليلة .",
+    "en": "I'm sorry , but we have a full house tonight .",
+    "id": "m7735"
+  },
+  {
+    "ar": "ايهما ال خاص ب منهج ال مبتدئين ؟",
+    "ar_agg": "ايهما ال+_خاص ب+_منهج ال+_مبتدئين ؟",
+    "en": "Which is the beginners' course ?",
+    "id": "m280"
+  },
+  {
+    "ar": "هل يمكن ان احجز ملعبا ل ل تنس هنا ؟",
+    "ar_agg": "هل يمكن ان احجز ملعبا ل+_ل+_تنس هنا ؟",
+    "en": "Can I reserve a tennis court here ?",
+    "id": "m3380"
+  },
+  {
+    "ar": "هل يمكن ك اصلاح ه من فضل ك ؟",
+    "ar_agg": "هل يمكن_+ك اصلاح_+ه من فضل_+ك ؟",
+    "en": "Can you fix it , please ?",
+    "id": "a13173"
+  },
+  {
+    "ar": "كيف تحب ان يطهى ال لحم ؟",
+    "ar_agg": "كيف تحب ان يطهى ال+_لحم ؟",
+    "en": "How would you like your meat done ?",
+    "id": "m9049"
+  },
+  {
+    "ar": "هلا وجبة خفيفة ؟",
+    "ar_agg": "هلا وجبة خفيفة ؟",
+    "en": "Would you join me for a snack ?",
+    "id": "m2852"
+  },
+  {
+    "ar": "لحظة ، دع ني ارى ما ب داخل ها .",
+    "ar_agg": "لحظة ، دع_+ني ارى ما ب+_داخل_+ها .",
+    "en": "One moment , let me see what's inside it .",
+    "id": "a3379"
+  },
+  {
+    "ar": "ال ان ، ل قد وعدت ب انك س تشتري زوج واحد فقط ، موافق ؟",
+    "ar_agg": "ال+_ان ، ل+_قد وعدت ب+_انك س+_تشتري زوج واحد فقط ، موافق ؟",
+    "en": "Now , you promise you're only buying one pair , Okay ?",
+    "id": "m10642"
+  },
+  {
+    "ar": "ما هي ال عطلات ال موجودة في ال يابان ؟",
+    "ar_agg": "ما هي ال+_عطلات ال+_موجودة في ال+_يابان ؟",
+    "en": "What holidays do you have in Japan ?",
+    "id": "m6130"
+  },
+  {
+    "ar": "هذا مثير ل ل اهتمام . و ماذا تفعل بعد ال عمل ؟",
+    "ar_agg": "هذا مثير ل+_ل+_اهتمام . و+_ماذا تفعل بعد ال+_عمل ؟",
+    "en": "That's interesting . And what do you do after work ?",
+    "id": "a8587"
+  },
+  {
+    "ar": "ما ال كمية التي تريد ها ؟",
+    "ar_agg": "ما ال+_كمية التي تريد_+ها ؟",
+    "en": "How much do you want ?",
+    "id": "m7169"
+  },
+  {
+    "ar": "طعام طيب ؟",
+    "ar_agg": "طعام طيب ؟",
+    "en": "Good food ?",
+    "id": "m5824"
+  },
+  {
+    "ar": "كانت مشكلة صغيرة في محرك ال سيارة .",
+    "ar_agg": "كانت مشكلة صغيرة في محرك ال+_سيارة .",
+    "en": "It was a small problem in the car's engine .",
+    "id": "a7546"
+  },
+  {
+    "ar": "هل تقبلون شيكات سياحية ؟",
+    "ar_agg": "هل تقبلون شيكات سياحية ؟",
+    "en": "Do you accept traveler's checks ?",
+    "id": "m2896"
+  },
+  {
+    "ar": "ارني التي تتناسب ارني هذا .",
+    "ar_agg": "ارني التي تتناسب ارني هذا .",
+    "en": "Show me some sweaters that go with this .",
+    "id": "m1878"
+  },
+  {
+    "ar": "اي نوع من ال توابل تفضل ؟ لدي نا جزيرة ال الف ، ال جبن ال ازرق ، و ال فرنسي .",
+    "ar_agg": "اي نوع من ال+_توابل تفضل ؟ لدي_+نا جزيرة ال+_الف ، ال+_جبن ال+_ازرق ، و+_ال+_فرنسي .",
+    "en": "What kind of dressing would you like ? We have Thousand island , blue cheese , and French .",
+    "id": "m1476"
+  },
+  {
+    "ar": "اين ال حمام ؟",
+    "ar_agg": "اين ال+_حمام ؟",
+    "en": "Where is the lavatory ?",
+    "id": "m2397"
+  },
+  {
+    "ar": "ل قد تمكنت ن تحقيق ذلك .",
+    "ar_agg": "ل+_قد تمكنت ن تحقيق ذلك .",
+    "en": "You did it .",
+    "id": "m7642"
+  },
+  {
+    "ar": "مبروك ، ل قد سمعت ان ك حصلت على وظيفة لدي شركة ايه بي سي .",
+    "ar_agg": "مبروك ، ل+_قد سمعت ان_+ك حصلت على وظيفة لدي_+ شركة ايه بي سي .",
+    "en": "Congratulations , I heard you got a job with ABC company .",
+    "id": "m9296"
+  },
+  {
+    "ar": "حسنا ، ل قد عددت سبعين حبة .",
+    "ar_agg": "حسنا ، ل+_قد عددت سبعين حبة .",
+    "en": "Okay , I have counted seventy pieces .",
+    "id": "a1766"
+  },
+  {
+    "ar": "اهلا بك يا جون .",
+    "ar_agg": "اهلا بك يا جون .",
+    "en": "Welcome , John .",
+    "id": "a388"
+  },
+  {
+    "ar": "حسنا ، تسعون ، واحد و تسعون ، اثنان و تسعون .",
+    "ar_agg": "حسنا ، تسعون ، واحد و+_تسعون ، اثنان و+_تسعون .",
+    "en": "Okay , ninety , ninety - one , ninety - two .",
+    "id": "a1241"
+  },
+  {
+    "ar": "اصعد ب ال سلم ال كهربائي الى ال طابق ال ثاني .",
+    "ar_agg": "اصعد ب+_ال+_سلم ال+_كهربائي الى ال+_طابق ال+_ثاني .",
+    "en": "Go up the escalator to the second floor .",
+    "id": "a640"
+  },
+  {
+    "ar": "صدر ي يؤلم ني .",
+    "ar_agg": "صدر_+ي يؤلم_+ني .",
+    "en": "My chest hurts .",
+    "id": "m9038"
+  },
+  {
+    "ar": "هل انت متاكد ان هذه ال حسبة صحيحة ؟ من فضل ك راجع ها ثانية .",
+    "ar_agg": "هل انت متاكد ان هذه ال+_حسبة صحيحة ؟ من فضل_+ك راجع_+ها ثانية .",
+    "en": "Are you sure this calculation is correct ? Please check it again .",
+    "id": "m5560"
+  },
+  {
+    "ar": "ل قد سرق جواز سفر ي .",
+    "ar_agg": "ل+_قد سرق جواز سفر_+ي .",
+    "en": "My passport was stolen .",
+    "id": "m10605"
+  },
+  {
+    "ar": "هل ل ك ان تطلب ها ل ي , من فضل ك ؟",
+    "ar_agg": "هل ل_+ك ان تطلب_+ها ل_+ي , من فضل_+ك ؟",
+    "en": "Could you order it for me , please ?",
+    "id": "m4553"
+  },
+  {
+    "ar": "يتعين على ان اكون ب ال مطار في ال ساعة ال عاشرة و ال نصف .",
+    "ar_agg": "يتعين على ان اكون ب+_ال+_مطار في ال+_ساعة ال+_عاشرة و+_ال+_نصف .",
+    "en": "I have to be at the airport by ten thirty .",
+    "id": "m5739"
+  },
+  {
+    "ar": "هل س يكون مقبولا ان اضيف عصي ال جولف ؟",
+    "ar_agg": "هل س+_يكون مقبولا ان اضيف عصي ال+_جولف ؟",
+    "en": "Is it okay to add drivers ?",
+    "id": "m6870"
+  },
+  {
+    "ar": "صباح ال خير . اريد تسجيل ال خروج من فضل ك .",
+    "ar_agg": "صباح ال+_خير . اريد تسجيل ال+_خروج من فضل_+ك .",
+    "en": "Good morning . I would like to check out , please .",
+    "id": "a7201"
+  },
+  {
+    "ar": "مرحبا . عند ي عدة قطع ل ل تعديل .",
+    "ar_agg": "مرحبا . عند_+ي عدة قطع ل+_ل+_تعديل .",
+    "en": "Hello . I have several pieces for alteration .",
+    "id": "a1697"
+  },
+  {
+    "ar": "ثلاثون ، اربعون ، خمسون ، ستون ، سبعون . . .",
+    "ar_agg": "ثلاثون ، اربعون ، خمسون ، ستون ، سبعون . . .",
+    "en": "Thirty , forty , fifty , sixty , seventy . . .",
+    "id": "a10355"
+  },
+  {
+    "ar": "اعطني عامل ال تليفون من فضل ك .",
+    "ar_agg": "اعطني عامل ال+_تليفون من فضل_+ك .",
+    "en": "The operator , please .",
+    "id": "m7918"
+  },
+  {
+    "ar": "تعالى ، من فضل ك .",
+    "ar_agg": "تعالى ، من فضل_+ك .",
+    "en": "Come in , please .",
+    "id": "m2605"
+  },
+  {
+    "ar": "كم بالون هناك ؟",
+    "ar_agg": "كم بالون هناك ؟",
+    "en": "How many balloons are there ?",
+    "id": "a1271"
+  },
+  {
+    "ar": "صباح ال خير يا هدي .",
+    "ar_agg": "صباح ال+_خير يا هدي .",
+    "en": "Good morning , Huda .",
+    "id": "a4932"
+  },
+  {
+    "ar": "ال خط يقول ، ال رقم صفر .",
+    "ar_agg": "ال+_خط يقول ، ال+_رقم صفر .",
+    "en": "The note says , 'The number is zero . '",
+    "id": "a9760"
+  },
+  {
+    "ar": "هل ل ي ان اطلب من ك ان تاخذ ني حتى موقف الاتوبيس ؟",
+    "ar_agg": "هل ل_+ي ان اطلب من_+ك ان تاخذ_+ني حتى موقف الاتوبيس ؟",
+    "en": "May I ask you to take me to the bus stop ?",
+    "id": "m11273"
+  },
+  {
+    "ar": "ان ها ممتازة . س اخذ ها .",
+    "ar_agg": "ان_+ها ممتازة . س+_اخذ_+ها .",
+    "en": "It is excellent . I will take it .",
+    "id": "a1779"
+  },
+  {
+    "ar": "اسم ك مرة ثانية ؟",
+    "ar_agg": "اسم_+ك مرة ثانية ؟",
+    "en": "Your name again ?",
+    "id": "m44"
+  },
+  {
+    "ar": "اعطني خمسين ، من فضل ك .",
+    "ar_agg": "اعطني خمسين ، من فضل_+ك .",
+    "en": "Gimme fifty , please .",
+    "id": "m10339"
+  },
+  {
+    "ar": "نعم . ماذا يفعلان في ال صباح ال باكر ؟",
+    "ar_agg": "نعم . ماذا يفعلان في ال+_صباح ال+_باكر ؟",
+    "en": "Yes . What do they two do so early in the morning ?",
+    "id": "a7300"
+  },
+  {
+    "ar": "لا , لم اذهب الى نيويورك .",
+    "ar_agg": "لا , لم اذهب الى نيويورك .",
+    "en": "No , I didn't go to New York .",
+    "id": "m2846"
+  },
+  {
+    "ar": "من فضل ك ارسل هذه ك امتعة لا يرافق ها صاحب ها .",
+    "ar_agg": "من فضل_+ك ارسل هذه ك+_امتعة لا يرافق_+ها صاحب_+ها .",
+    "en": "Please send this as unaccompanied baggage .",
+    "id": "m9558"
+  },
+  {
+    "ar": "ب ال تاكيد . سابدا .",
+    "ar_agg": "ب+_ال+_تاكيد . سابدا .",
+    "en": "Of course . I will start preparing the salad now .",
+    "id": "a1349"
+  },
+  {
+    "ar": "هذه محفظت ي .",
+    "ar_agg": "هذه محفظت_+ي .",
+    "en": "That's my wallet .",
+    "id": "m10927"
+  },
+  {
+    "ar": "ارا ك غدا يا فادي . مساء ال خير .",
+    "ar_agg": "ارا_+ك غدا يا فادي . مساء ال+_خير .",
+    "en": "See you tomorrow , Fadi . Good evening .",
+    "id": "a7895"
+  },
+  {
+    "ar": "حسنا يا منى .",
+    "ar_agg": "حسنا يا منى .",
+    "en": "Okay , Mona .",
+    "id": "a8939"
+  },
+  {
+    "ar": "ال جلسة ال تالية هي ال جلسة ال ثالثة .",
+    "ar_agg": "ال+_جلسة ال+_تالية هي ال+_جلسة ال+_ثالثة .",
+    "en": "The next session is the third session .",
+    "id": "a1151"
+  },
+  {
+    "ar": "ل ان نا نعتقد ان ه اكثر رسمية و يوضح كل شيء .",
+    "ar_agg": "ل+_ان_+نا نعتقد ان_+ه اكثر رسمية و+_يوضح كل شيء .",
+    "en": "Because we think it is more formal and explains everything .",
+    "id": "a7258"
+  },
+  {
+    "ar": "اهلا بك . متى يناسبك ؟",
+    "ar_agg": "اهلا بك . متى يناسبك ؟",
+    "en": "Welcome . When is the appointment suitable for you ?",
+    "id": "a8688"
+  },
+  {
+    "ar": "من فضل كم ، ل نبدا ال اجتماع .",
+    "ar_agg": "من فضل_+كم ، ل+_نبدا ال+_اجتماع .",
+    "en": "Please , let's start the meeting .",
+    "id": "a7617"
+  },
+  {
+    "ar": "مرحبا ، اريد ان استعير هذا ال كتاب .",
+    "ar_agg": "مرحبا ، اريد ان استعير هذا ال+_كتاب .",
+    "en": "Hello , I want to borrow this book .",
+    "id": "a1800"
+  },
+  {
+    "ar": "كلا ، لم نتلق رسائل ، بيد ان هناك خطابا ل ك .",
+    "ar_agg": "كلا ، لم نتلق رسائل ، بيد ان هناك خطابا ل_+ك .",
+    "en": "No , we didn't receive messages , but there is a letter for you .",
+    "id": "m5966"
+  },
+  {
+    "ar": "انا اسم ي سارة .",
+    "ar_agg": "انا اسم_+ي سارة .",
+    "en": "My name is Sarah .",
+    "id": "a12961"
+  },
+  {
+    "ar": "حسنا . و كم تحتاج ل ل قميص ال ثاني ؟",
+    "ar_agg": "حسنا . و+_كم تحتاج ل+_ل+_قميص ال+_ثاني ؟",
+    "en": "Okay . And how many do you need for the second shirt ?",
+    "id": "a8251"
+  },
+  {
+    "ar": "اريد ان اطلب مثل ها . هل عند ك رقم ال مخبز ؟",
+    "ar_agg": "اريد ان اطلب مثل_+ها . هل عند_+ك رقم ال+_مخبز ؟",
+    "en": "I want to order one like it . Do you have the bakery's number ?",
+    "id": "a4260"
+  },
+  {
+    "ar": "و هل هي قريبة من هنا ؟",
+    "ar_agg": "و+_هل هي قريبة من هنا ؟",
+    "en": "And is it near here ?",
+    "id": "a10751"
+  },
+  {
+    "ar": "ب ال تاكيد . ال سعر خمسة عشر درهما .",
+    "ar_agg": "ب+_ال+_تاكيد . ال+_سعر خمسة عشر درهما .",
+    "en": "Of course . The price is fifteen dirhams .",
+    "id": "a11753"
+  },
+  {
+    "ar": "معذرة . اريد ان اطلب طلب .",
+    "ar_agg": "معذرة . اريد ان اطلب طلب .",
+    "en": "Excuse me . I want to place order .",
+    "id": "m8427"
+  },
+  {
+    "ar": "يجب على تغيير عدسات ي ال لاصقة . هذه هي ال تذكرة ال طبية .",
+    "ar_agg": "يجب على تغيير عدسات_+ي ال+_لاصقة . هذه هي ال+_تذكرة ال+_طبية .",
+    "en": "I have to change my contact lenses . Here's the prescription .",
+    "id": "m10295"
+  },
+  {
+    "ar": "انائم ؟",
+    "ar_agg": "انائم ؟",
+    "en": "Is it sleeping ?",
+    "id": "a7477"
+  },
+  {
+    "ar": "و علي كم ال سلام . طبعا ، س اشغل ال عداد ال ان .",
+    "ar_agg": "و+_علي_+كم ال+_سلام . طبعا ، س+_اشغل ال+_عداد ال+_ان .",
+    "en": "Hello to you too . Of course , I'll start the meter now .",
+    "id": "a10948"
+  },
+  {
+    "ar": "هل لدي كم وجبات خفيفة ؟",
+    "ar_agg": "هل لدي_+كم وجبات خفيفة ؟",
+    "en": "Do you have some snack ?",
+    "id": "m300"
+  },
+  {
+    "ar": "لا باس . ال اقتراب من ال معروضات ممنوع .",
+    "ar_agg": "لا باس . ال+_اقتراب من ال+_معروضات ممنوع .",
+    "en": "No problem . Getting close to the exhibits is forbidden .",
+    "id": "a6339"
+  },
+  {
+    "ar": "انا اسمع ك .",
+    "ar_agg": "انا اسمع_+ك .",
+    "en": "I hear you .",
+    "id": "m2818"
+  },
+  {
+    "ar": "ماذا فعلت ال يوم في ال بيت ؟",
+    "ar_agg": "ماذا فعلت ال+_يوم في ال+_بيت ؟",
+    "en": "What did you do at home today ?",
+    "id": "a2095"
+  },
+  {
+    "ar": "و علي كم ال سلام . كيف اساعد ك ؟",
+    "ar_agg": "و+_علي_+كم ال+_سلام . كيف اساعد_+ك ؟",
+    "en": "And upon you be peace . How can I help you ?",
+    "id": "a13496"
+  },
+  {
+    "ar": "ابغي ب عض ال فلفل ، من فضل ك ؟",
+    "ar_agg": "ابغي ب+_عض ال+_فلفل ، من فضل_+ك ؟",
+    "en": "I'd like some pepper , please .",
+    "id": "m5837"
+  },
+  {
+    "ar": "هل تحتوي على حمام و مرحاض ؟",
+    "ar_agg": "هل تحتوي على حمام و+_مرحاض ؟",
+    "en": "Does it have a bath and a toilet ?",
+    "id": "m352"
+  },
+  {
+    "ar": "انظر يا صديق ي ، هذا هاتف جديد .",
+    "ar_agg": "انظر يا صديق_+ي ، هذا هاتف جديد .",
+    "en": "Look my friend , this is a new phone .",
+    "id": "a9965"
+  },
+  {
+    "ar": "هل تفتح في ايام ال احد ؟",
+    "ar_agg": "هل تفتح في ايام ال+_احد ؟",
+    "en": "Is it open on Sundays ?",
+    "id": "m7444"
+  },
+  {
+    "ar": "كتب . كم س يستغرق وصول ها الى ال يابان ب ال بريد ال جوي ؟",
+    "ar_agg": "كتب . كم س+_يستغرق وصول_+ها الى ال+_يابان ب+_ال+_بريد ال+_جوي ؟",
+    "en": "Books . How long will it take for them to reach Japan by air mail ?",
+    "id": "m7250"
+  },
+  {
+    "ar": "جيد . اينما تجدوا مكانا ، رتبوا ال بلاط .",
+    "ar_agg": "جيد . اينما تجدوا مكانا ، رتبوا ال+_بلاط .",
+    "en": "Good . Wherever you find a space , arrange the tiles .",
+    "id": "a10896"
+  },
+  {
+    "ar": "هي على ال جانب ال اخر من ال شارع .",
+    "ar_agg": "هي على ال+_جانب ال+_اخر من ال+_شارع .",
+    "en": "It is on the other side of the street .",
+    "id": "a414"
+  },
+  {
+    "ar": "كم قميصا تريدين ان تغسلي ؟",
+    "ar_agg": "كم قميصا تريدين ان تغسلي ؟",
+    "en": "How many shirts do you want to wash ?",
+    "id": "a4842"
+  },
+  {
+    "ar": "شكرا ل ك . عفوا ، ما هي ال عيدية ؟",
+    "ar_agg": "شكرا ل_+ك . عفوا ، ما هي ال+_عيدية ؟",
+    "en": "Thank you . Excuse me , what is the Eidiyya ?",
+    "id": "a13328"
+  },
+  {
+    "ar": "ال مدير طلب متطوعا ل ل سفر ؟",
+    "ar_agg": "ال+_مدير طلب متطوعا ل+_ل+_سفر ؟",
+    "en": "The director asked for a volunteer to travel ?",
+    "id": "a9517"
+  },
+  {
+    "ar": "هل ال معلمات هنا ؟",
+    "ar_agg": "هل ال+_معلمات هنا ؟",
+    "en": "Are the female teachers here ?",
+    "id": "a5942"
+  },
+  {
+    "ar": "رحنا الى هناك و شاهدنا كل ال مدينة .",
+    "ar_agg": "رحنا الى هناك و+_شاهدنا كل ال+_مدينة .",
+    "en": "We went there and watched the whole city .",
+    "id": "a2211"
+  },
+  {
+    "ar": "زرت صديق ي في سكن ه .",
+    "ar_agg": "زرت صديق_+ي في سكن_+ه .",
+    "en": "I visited my friend in his dorm .",
+    "id": "a3859"
+  },
+  {
+    "ar": "متى تعتقد س يتم ايجاد ها ؟",
+    "ar_agg": "متى تعتقد س+_يتم ايجاد_+ها ؟",
+    "en": "When do you think it will be found ?",
+    "id": "m8406"
+  },
+  {
+    "ar": "مرحبا يا فهد . انت تبدو سعيدا جدا ال يوم .",
+    "ar_agg": "مرحبا يا فهد . انت تبدو سعيدا جدا ال+_يوم .",
+    "en": "Hello , Fahd . You look very happy today .",
+    "id": "a11294"
+  },
+  {
+    "ar": "يا اله ي ، ان ها جميلة جدا .",
+    "ar_agg": "يا اله_+ي ، ان_+ها جميلة جدا .",
+    "en": "Oh my God , it's very beautiful .",
+    "id": "a227"
+  },
+  {
+    "ar": "كيف اهيئ هذا ال فلاش ؟",
+    "ar_agg": "كيف اهيئ هذا ال+_فلاش ؟",
+    "en": "How can I fit this flash ?",
+    "id": "m5515"
+  },
+  {
+    "ar": "اربعة و عشرين دولارا . هل تريد ال مزيد ؟",
+    "ar_agg": "اربعة و+_عشرين دولارا . هل تريد ال+_مزيد ؟",
+    "en": "Twenty - four dollars . Do you want more ?",
+    "id": "m3883"
+  },
+  {
+    "ar": "اسم ي احمد . انا من مصر .",
+    "ar_agg": "اسم_+ي احمد . انا من مصر .",
+    "en": "My name is Ahmed . I am from Egypt .",
+    "id": "a3525"
+  },
+  {
+    "ar": "ربما .",
+    "ar_agg": "ربما .",
+    "en": "Maybe .",
+    "id": "m6857"
+  },
+  {
+    "ar": "هل الف ه ؟",
+    "ar_agg": "هل الف_+ه ؟",
+    "en": "Shall I wrap it ?",
+    "id": "m1323"
+  },
+  {
+    "ar": "حسنا . سوف ارسل ال خادمة حالا ل تفتح ال باب ب ال مفتاح ال اساسي . ما رقم غرفت ك ؟",
+    "ar_agg": "حسنا . سوف ارسل ال+_خادمة حالا ل+_تفتح ال+_باب ب+_ال+_مفتاح ال+_اساسي . ما رقم غرفت_+ك ؟",
+    "en": "Okay . I'll send our housekeeper right away to open the door with a master key . What is your room number ?",
+    "id": "m8436"
+  },
+  {
+    "ar": "ما راي ك في ال طعام ؟",
+    "ar_agg": "ما راي_+ك في ال+_طعام ؟",
+    "en": "How is the food ?",
+    "id": "m8554"
+  },
+  {
+    "ar": "ايهما تفضل , مقعد مسموح في ه ال تدخين ام مقعد ممنوع في ه ال تدخين ؟",
+    "ar_agg": "ايهما تفضل , مقعد مسموح في_+ه ال+_تدخين ام مقعد ممنوع في_+ه ال+_تدخين ؟",
+    "en": "Which would you prefer , a smoking seat or a non - smoking seat ?",
+    "id": "m1959"
+  },
+  {
+    "ar": "ما هو ال حد ال ادنى لسن ال تصويت في ال يابان ؟",
+    "ar_agg": "ما هو ال+_حد ال+_ادنى لسن ال+_تصويت في ال+_يابان ؟",
+    "en": "What is the minimum voting age in Japan ?",
+    "id": "m4533"
+  },
+  {
+    "ar": "طفل جميل جدا .",
+    "ar_agg": "طفل جميل جدا .",
+    "en": "A very beautiful baby .",
+    "id": "a12660"
+  },
+  {
+    "ar": "هذه ال قطعة ال اثرية من ال عصر ال قديم .",
+    "ar_agg": "هذه ال+_قطعة ال+_اثرية من ال+_عصر ال+_قديم .",
+    "en": "This artifact is from the ancient era .",
+    "id": "a12732"
+  },
+  {
+    "ar": "هل هناك ثلج كثير ؟",
+    "ar_agg": "هل هناك ثلج كثير ؟",
+    "en": "Is there a lot of snow ?",
+    "id": "a8215"
+  },
+  {
+    "ar": "رقم هاتف ي هو صفر خمسة خمسة .",
+    "ar_agg": "رقم هاتف_+ي هو صفر خمسة خمسة .",
+    "en": "My phone number is zero five five .",
+    "id": "a3702"
+  },
+  {
+    "ar": "كان اسبوعا طويلا . ماذا فعلت يوم ال ثلاثاء ؟",
+    "ar_agg": "كان اسبوعا طويلا . ماذا فعلت يوم ال+_ثلاثاء ؟",
+    "en": "It was a long week . What did you do on Tuesday ?",
+    "id": "a11341"
+  },
+  {
+    "ar": "صباح ال خير يا ابنت ي .",
+    "ar_agg": "صباح ال+_خير يا ابنت_+ي .",
+    "en": "Good morning , my daughter .",
+    "id": "a9301"
+  },
+  {
+    "ar": "هل ارجاع ها الى قسم ال تاريخ ؟",
+    "ar_agg": "هل ارجاع_+ها الى قسم ال+_تاريخ ؟",
+    "en": "Is their return to the history section ?",
+    "id": "a1220"
+  },
+  {
+    "ar": "لا نسخة في ال محل .",
+    "ar_agg": "لا نسخة في ال+_محل .",
+    "en": "There is absolutely no copy in the store .",
+    "id": "a2009"
+  },
+  {
+    "ar": "نعم ، يا سيد ي بيرو جينو على ال جانب ال غربي .",
+    "ar_agg": "نعم ، يا سيد_+ي بيرو جينو على ال+_جانب ال+_غربي .",
+    "en": "Yes , sir . Perugino on the west side .",
+    "id": "m7102"
+  },
+  {
+    "ar": "هل ل ك ان تجعل الترموستات اكثر دفا من فضل ك ؟",
+    "ar_agg": "هل ل_+ك ان تجعل الترموستات اكثر دفا من فضل_+ك ؟",
+    "en": "Will you please make the thermostat warmer ?",
+    "id": "m9854"
+  },
+  {
+    "ar": "مرحبا ، اين انت ال ان ؟",
+    "ar_agg": "مرحبا ، اين انت ال+_ان ؟",
+    "en": "Hello , where are you now ?",
+    "id": "a9308"
+  },
+  {
+    "ar": "حسنا ، ال حفلة تبدا قريبا .",
+    "ar_agg": "حسنا ، ال+_حفلة تبدا قريبا .",
+    "en": "Okay , the party starts soon .",
+    "id": "a12076"
+  },
+  {
+    "ar": "هل عند كم اية شربة بصل ؟",
+    "ar_agg": "هل عند_+كم اية شربة بصل ؟",
+    "en": "Do you have any onion soup ?",
+    "id": "m5485"
+  },
+  {
+    "ar": "اود ذلك لكن ني مضطر ل ل ذهاب . ف قد يفوت ني اخر قطار . ل قد سعدت ب ال حديث معك .",
+    "ar_agg": "اود ذلك لكن_+ني مضطر ل+_ل+_ذهاب . ف+_قد يفوت_+ني اخر قطار . ل+_قد سعدت ب+_ال+_حديث معك .",
+    "en": "I'd like to , but I'm afraid I really have to go . I may miss the last train . I enjoyed talking to you .",
+    "id": "m6270"
+  },
+  {
+    "ar": "نعم ، هذا صحيح .",
+    "ar_agg": "نعم ، هذا صحيح .",
+    "en": "Yes , that is correct .",
+    "id": "a13485"
+  },
+  {
+    "ar": "تفضل يا علي ، ما هو سؤال ك ؟",
+    "ar_agg": "تفضل يا علي ، ما هو سؤال_+ك ؟",
+    "en": "Go ahead Ali , what is your question ?",
+    "id": "a1600"
+  },
+  {
+    "ar": "نعم ، يا خباز .",
+    "ar_agg": "نعم ، يا خباز .",
+    "en": "Yes , baker .",
+    "id": "a5241"
+  },
+  {
+    "ar": "لا موعد ال يوم .",
+    "ar_agg": "لا موعد ال+_يوم .",
+    "en": "There is absolutely no appointment today .",
+    "id": "a1749"
+  },
+  {
+    "ar": "كيف تسير ال امور ؟",
+    "ar_agg": "كيف تسير ال+_امور ؟",
+    "en": "How is it coming ?",
+    "id": "m11944"
+  },
+  {
+    "ar": "فكرة جيدة . و ماذا بعد ذلك ؟",
+    "ar_agg": "فكرة جيدة . و+_ماذا بعد ذلك ؟",
+    "en": "Good idea . And what after that ?",
+    "id": "a2231"
+  },
+  {
+    "ar": "حسنا ، ما هو ، راي ك ؟ اود ب ال تاكيد ان استمع الى وجهات نظر ك .",
+    "ar_agg": "حسنا ، ما هو ، راي_+ك ؟ اود ب+_ال+_تاكيد ان استمع الى وجهات نظر_+ك .",
+    "en": "Well , what's your , opinion ? I'd certainly like to hear your views .",
+    "id": "m1780"
+  },
+  {
+    "ar": "هذه ال تذكرة ل مقعد في ال صالة . ل كن ك تجلس في ال شرفة .",
+    "ar_agg": "هذه ال+_تذكرة ل+_مقعد في ال+_صالة . ل+_كن_+ك تجلس في ال+_شرفة .",
+    "en": "This ticket is for an orchestra seat . You're in the balcony .",
+    "id": "m5988"
+  },
+  {
+    "ar": "ل ل اسف ليس لدي حجز ، و لكن هل لدي كم مائدة ؟",
+    "ar_agg": "ل+_ل+_اسف ليس لدي_+ حجز ، و+_لكن هل لدي_+كم مائدة ؟",
+    "en": "I'm afraid I don't have a reservation , but do you have a table ?",
+    "id": "m5174"
+  },
+  {
+    "ar": "امين . هذا دعاء جميل .",
+    "ar_agg": "امين . هذا دعاء جميل .",
+    "en": "Amen . This is a beautiful prayer .",
+    "id": "a2961"
+  },
+  {
+    "ar": "ايها ال سادة و ال سيدات ، مرحبا ب كم جميعا .",
+    "ar_agg": "ايها ال+_سادة و+_ال+_سيدات ، مرحبا ب_+كم جميعا .",
+    "en": "O gentlemen and ladies , welcome to you all .",
+    "id": "a9973"
+  },
+  {
+    "ar": "لدي حجز يا اكياما .",
+    "ar_agg": "لدي_+ حجز يا اكياما .",
+    "en": "I have a reservation , Akiyama .",
+    "id": "m9225"
+  },
+  {
+    "ar": "اود بعضا من ال نبيذ ال برتغالي .",
+    "ar_agg": "اود بعضا من ال+_نبيذ ال+_برتغالي .",
+    "en": "I'd like some port .",
+    "id": "m4129"
+  },
+  {
+    "ar": "حافلة رقم اثني عشر تذهب ل ل مركز .",
+    "ar_agg": "حافلة رقم اثني عشر تذهب ل+_ل+_مركز .",
+    "en": "Bus number twelve goes to the city center .",
+    "id": "a13218"
+  },
+  {
+    "ar": "اريد ان احصل على تعويض ل ذلك .",
+    "ar_agg": "اريد ان احصل على تعويض ل+_ذلك .",
+    "en": "I'd like to get a refund for this .",
+    "id": "m1306"
+  },
+  {
+    "ar": "هل هناك اي حافلات ل مشاهدة ال معالم ؟",
+    "ar_agg": "هل هناك اي حافلات ل+_مشاهدة ال+_معالم ؟",
+    "en": "Are there any sightseeing buses ?",
+    "id": "m3203"
+  },
+  {
+    "ar": "مرحبا ، اين اجد زجاجة ال زيت ؟",
+    "ar_agg": "مرحبا ، اين اجد زجاجة ال+_زيت ؟",
+    "en": "Hello , where do I find the bottle of oil ?",
+    "id": "a3418"
+  },
+  {
+    "ar": "ل قد احضرت اكثر من ال مسموح ب ه .",
+    "ar_agg": "ل+_قد احضرت اكثر من ال+_مسموح ب_+ه .",
+    "en": "You have brought more than is allowed .",
+    "id": "m8555"
+  },
+  {
+    "ar": "لحظة ، س انظر في ال تقويم .",
+    "ar_agg": "لحظة ، س+_انظر في ال+_تقويم .",
+    "en": "One moment , I will look at the calendar .",
+    "id": "a10540"
+  },
+  {
+    "ar": "هل لدي ك ساعات تملا يدويا ؟",
+    "ar_agg": "هل لدي_+ك ساعات تملا يدويا ؟",
+    "en": "Do you have any hand - wound watches ?",
+    "id": "m7628"
+  },
+  {
+    "ar": "متى تفتحون ؟",
+    "ar_agg": "متى تفتحون ؟",
+    "en": "When are you open ?",
+    "id": "m10211"
+  },
+  {
+    "ar": "هل لدي كم اطباق ذات سعرات حرارية منخفضة ؟ ف انا اتبع نظاما غذائيا حاليا .",
+    "ar_agg": "هل لدي_+كم اطباق ذات سعرات حرارية منخفضة ؟ ف+_انا اتبع نظاما غذائيا حاليا .",
+    "en": "Do you have some low calory dishes ? I'm on a diet , now .",
+    "id": "m9323"
+  },
+  {
+    "ar": "كيف حال دراست ك ل ل عربية يا علي ؟",
+    "ar_agg": "كيف حال دراست_+ك ل+_ل+_عربية يا علي ؟",
+    "en": "How are your Arabic studies going , Ali ?",
+    "id": "a6668"
+  },
+  {
+    "ar": "نريد ان نشاهد فيلم ال رسوم ال متحركة ال جديد .",
+    "ar_agg": "نريد ان نشاهد فيلم ال+_رسوم ال+_متحركة ال+_جديد .",
+    "en": "We want to watch the new animated movie .",
+    "id": "a1768"
+  },
+  {
+    "ar": "اريد ال روبوت .",
+    "ar_agg": "اريد ال+_روبوت .",
+    "en": "I want the robot .",
+    "id": "a11716"
+  },
+  {
+    "ar": "هل هناك قطار سريع ؟",
+    "ar_agg": "هل هناك قطار سريع ؟",
+    "en": "Is there an express ?",
+    "id": "m1294"
+  },
+  {
+    "ar": "هذا رسمي .",
+    "ar_agg": "هذا رسمي .",
+    "en": "This is my drawing .",
+    "id": "a10658"
+  },
+  {
+    "ar": "س يكون جاهزا بعد غد في ال مساء .",
+    "ar_agg": "س+_يكون جاهزا بعد غد في ال+_مساء .",
+    "en": "It will be ready the day after tomorrow in the evening .",
+    "id": "m5360"
+  },
+  {
+    "ar": "هل لدي ك هذا ب لون مختلف ؟",
+    "ar_agg": "هل لدي_+ك هذا ب+_لون مختلف ؟",
+    "en": "Do you have this in another color ?",
+    "id": "m11070"
+  },
+  {
+    "ar": "شكرا ل ك . الى ال لقاء يا فاطمة .",
+    "ar_agg": "شكرا ل_+ك . الى ال+_لقاء يا فاطمة .",
+    "en": "Thank you . Goodbye , Fatima .",
+    "id": "a6298"
+  },
+  {
+    "ar": "و ال مشروبات كلفت ستة دنانير .",
+    "ar_agg": "و+_ال+_مشروبات كلفت ستة دنانير .",
+    "en": "And the drinks cost six dinars .",
+    "id": "a1453"
+  },
+  {
+    "ar": "عظيم . س نحتفل يوم ال جمعة . ال اطباق س تكون لذيذة .",
+    "ar_agg": "عظيم . س+_نحتفل يوم ال+_جمعة . ال+_اطباق س+_تكون لذيذة .",
+    "en": "Great . We will celebrate on Friday . The dishes will be delicious .",
+    "id": "a11064"
+  },
+  {
+    "ar": "تفضلي . ال رقم هو خمسون ستون .",
+    "ar_agg": "تفضلي . ال+_رقم هو خمسون ستون .",
+    "en": "Here you go . The number is fifty sixty .",
+    "id": "a7004"
+  },
+  {
+    "ar": "اريد فندقا غرفة تطل على ال بحر .",
+    "ar_agg": "اريد فندقا غرفة تطل على ال+_بحر .",
+    "en": "I want a hotel whose rooms overlook the sea .",
+    "id": "a7807"
+  },
+  {
+    "ar": "ل قد اتلفت حقيبت ي .",
+    "ar_agg": "ل+_قد اتلفت حقيبت_+ي .",
+    "en": "My suitcase is damaged .",
+    "id": "m7597"
+  },
+  {
+    "ar": "انا سعيد ل ان ك احببت ها . ل قد حصلت علي ها عبر صفقة بيع في محل متعدد ال اقسام ايه بي سي .",
+    "ar_agg": "انا سعيد ل+_ان_+ك احببت_+ها . ل+_قد حصلت علي_+ها عبر صفقة بيع في محل متعدد ال+_اقسام ايه بي سي .",
+    "en": "I'm glad you like it . I got it at a bargain sale at ABC Department Store .",
+    "id": "m1058"
+  },
+  {
+    "ar": "تستطيع اجراء اتصال مباشر من غرفت ك .",
+    "ar_agg": "تستطيع اجراء اتصال مباشر من غرفت_+ك .",
+    "en": "You can make a direct call from your room .",
+    "id": "m9527"
+  },
+  {
+    "ar": "هل انت مستعد يا احمد ؟",
+    "ar_agg": "هل انت مستعد يا احمد ؟",
+    "en": "Are you ready , Ahmed ?",
+    "id": "a9065"
+  },
+  {
+    "ar": "اولا ، اغلى ال ماء في قدر كبير .",
+    "ar_agg": "اولا ، اغلى ال+_ماء في قدر كبير .",
+    "en": "First , I boil water in a big pot .",
+    "id": "a12288"
+  },
+  {
+    "ar": "ليس لدي حجز هنا , و لكن هل لدي ك غرفة ل ليلتين ؟",
+    "ar_agg": "ليس لدي_+ حجز هنا , و لكن هل لدي_+ك غرفة ل+_ليلتين ؟",
+    "en": "I don't have a reservation here , but do you have a room for two nights ?",
+    "id": "m8960"
+  },
+  {
+    "ar": "خمسة ، ستة .",
+    "ar_agg": "خمسة ، ستة .",
+    "en": "Five , six .",
+    "id": "a5273"
+  },
+  {
+    "ar": "ال غذاء ال رئيسي في ال يابان هو ال ارز .",
+    "ar_agg": "ال+_غذاء ال+_رئيسي في ال+_يابان هو ال+_ارز .",
+    "en": "The main diet in Japan is rice .",
+    "id": "m3263"
+  },
+  {
+    "ar": "اريد ب عض ال الياف ال صناعية .",
+    "ar_agg": "اريد ب+_عض ال+_الياف ال+_صناعية .",
+    "en": "I want some synthetic fiber .",
+    "id": "m2971"
+  },
+  {
+    "ar": "ممر رقم سبعة .",
+    "ar_agg": "ممر رقم سبعة .",
+    "en": "Aisle number seven .",
+    "id": "m7295"
+  },
+  {
+    "ar": "س اذهب الى ال بوابة على ال كرسي ال متحرك ال خاص بي .",
+    "ar_agg": "س+_اذهب الى ال+_بوابة على ال+_كرسي ال+_متحرك ال+_خاص بي .",
+    "en": "I'll go to the gate in my wheelchair .",
+    "id": "m9888"
+  },
+  {
+    "ar": "لا ، انا لست جائعة .",
+    "ar_agg": "لا ، انا لست جائعة .",
+    "en": "No , I am not hungry .",
+    "id": "a6799"
+  },
+  {
+    "ar": "في اي وقت اعاود ال اتصال بك ؟",
+    "ar_agg": "في اي وقت اعاود ال+_اتصال بك ؟",
+    "en": "What time shall I call you back ?",
+    "id": "m5218"
+  },
+  {
+    "ar": "ب كم هذا ؟",
+    "ar_agg": "ب_+كم هذا ؟",
+    "en": "How much is this ?",
+    "id": "a12746"
+  },
+  {
+    "ar": "هذا مقعد .",
+    "ar_agg": "هذا مقعد .",
+    "en": "This is a bench .",
+    "id": "a7745"
+  },
+  {
+    "ar": "نعم ، لدي نا ساحة ل لعب متاحة في ال ساعة ال ثانية و اخرى في ال ساعة ال رابعة .",
+    "ar_agg": "نعم ، لدي_+نا ساحة ل+_+_لعب متاحة في ال+_ساعة ال+_ثانية و+_اخرى في ال+_ساعة ال+_رابعة .",
+    "en": "Yes , we have a court available at two o'clock and another one at four .",
+    "id": "m4772"
+  },
+  {
+    "ar": "امش الى نهاية ال ممر . ال محل على يسار ك .",
+    "ar_agg": "امش الى نهاية ال+_ممر . ال+_محل على يسار_+ك .",
+    "en": "Walk to the end of the hallway . The store is on your left .",
+    "id": "a3812"
+  },
+  {
+    "ar": "لا ، اريد ال كتاب ذا .",
+    "ar_agg": "لا ، اريد ال+_كتاب ذا .",
+    "en": "No , I want the book with the red cover .",
+    "id": "a6316"
+  },
+  {
+    "ar": "ذهبت الى ال مكتبة اولا .",
+    "ar_agg": "ذهبت الى ال+_مكتبة اولا .",
+    "en": "I went to the library first .",
+    "id": "a7147"
+  },
+  {
+    "ar": "من فضل ك تكلم ب بطء . انا لا افهم جيدا .",
+    "ar_agg": "من فضل_+ك تكلم ب+_بطء . انا لا افهم جيدا .",
+    "en": "Please speak slowly . I don't understand too well .",
+    "id": "m5317"
+  },
+  {
+    "ar": "انا حقا لا اعرف . هل يمكن ك اخذ مقاس ي ، لطفا ؟",
+    "ar_agg": "انا حقا لا اعرف . هل يمكن_+ك اخذ مقاس_+ي ، لطفا ؟",
+    "en": "I really don't know . Could you measure me , please ?",
+    "id": "m5148"
+  },
+  {
+    "ar": "س نضطر ان ننتظر على ال اقل ل نصف ساعة .",
+    "ar_agg": "س+_نضطر ان ننتظر على ال+_اقل ل+_نصف ساعة .",
+    "en": "We'll have to wait at least half an hour .",
+    "id": "m5536"
+  },
+  {
+    "ar": "ممتاز . شكرا ل ك يا مريم .",
+    "ar_agg": "ممتاز . شكرا ل_+ك يا مريم .",
+    "en": "Excellent . Thank you , Mariam .",
+    "id": "a123"
+  },
+  {
+    "ar": "هل يمكن ك ان تخبر ني اين مقعد ي ؟",
+    "ar_agg": "هل يمكن_+ك ان تخبر_+ني اين مقعد_+ي ؟",
+    "en": "Can you tell me where my seat is ?",
+    "id": "m4053"
+  },
+  {
+    "ar": "شكرا . ما نوع ال وظائف التي تقوم ب ها ؟",
+    "ar_agg": "شكرا . ما نوع ال+_وظائف التي تقوم ب_+ها ؟",
+    "en": "Thank you . What kind of functions does it have ?",
+    "id": "m7515"
+  },
+  {
+    "ar": "ما راي ك في هذه ال لوحة ؟",
+    "ar_agg": "ما راي_+ك في هذه ال+_لوحة ؟",
+    "en": "What is your opinion of this painting ?",
+    "id": "a4883"
+  },
+  {
+    "ar": "اريد ال تغيير ل رحلة بعد ال ظهر .",
+    "ar_agg": "اريد ال+_تغيير ل+_رحلة بعد ال+_ظهر .",
+    "en": "I want to change to an afternoon flight .",
+    "id": "m2280"
+  },
+  {
+    "ar": "اجل ، حسنا .",
+    "ar_agg": "اجل ، حسنا .",
+    "en": "Yes , Okay .",
+    "id": "m9830"
+  },
+  {
+    "ar": "تمام . ارا ك غدا اذن . مع .",
+    "ar_agg": "تمام . ارا_+ك غدا اذن . مع .",
+    "en": "Okay . I'll see you tomorrow then . Goodbye .",
+    "id": "a2479"
+  },
+  {
+    "ar": "اخبرت ان لدي كم فاكسا .",
+    "ar_agg": "اخبرت ان لدي_+كم فاكسا .",
+    "en": "I was told you had a fax for me .",
+    "id": "m3528"
+  },
+  {
+    "ar": "معذرة , هل ل ك ان تزكي ل ي فندقا ؟",
+    "ar_agg": "معذرة , هل ل_+ك ان تزكي ل_+ي فندقا ؟",
+    "en": "Excuse me , can you recommend a hotel to me ?",
+    "id": "m9383"
+  },
+  {
+    "ar": "انا لست ب خير . انا متعبة .",
+    "ar_agg": "انا لست ب+_خير . انا متعبة .",
+    "en": "I am not well . I am tired .",
+    "id": "a4042"
+  },
+  {
+    "ar": "ايتها ال جماهير ال عظيمة !",
+    "ar_agg": "ايتها ال+_جماهير ال+_عظيمة !",
+    "en": "Oh , you great masses !",
+    "id": "a4326"
+  },
+  {
+    "ar": "انا اتى ثلاث مرات في ال اسبوع .",
+    "ar_agg": "انا اتى ثلاث مرات في ال+_اسبوع .",
+    "en": "I come three times a week .",
+    "id": "a1144"
+  },
+  {
+    "ar": "اريد مقعدا جيدا من فضل ك .",
+    "ar_agg": "اريد مقعدا جيدا من فضل_+ك .",
+    "en": "I want a good seat , please .",
+    "id": "a7699"
+  },
+  {
+    "ar": "ام ي ، انا اذهب .",
+    "ar_agg": "ام_+ي ، انا اذهب .",
+    "en": "My mom , I am going .",
+    "id": "a9749"
+  },
+  {
+    "ar": "حسنا . خذي .",
+    "ar_agg": "حسنا . خذي .",
+    "en": "Okay . Take the bread .",
+    "id": "a7952"
+  },
+  {
+    "ar": "اين يوجد مكتب \" جرى هاوند \" ؟",
+    "ar_agg": "اين يوجد مكتب \" جرى هاوند \" ؟",
+    "en": "Where is the Greyhound office ?",
+    "id": "m2996"
+  },
+  {
+    "ar": "سيدات ي سادت ي ، ال كابتن جورج ك وهن و طاقم ه يرحبون ب كم على متن رحلة يونيتد ايرلاينز ثمانية صفر صفر ال متجه الى نيويورك . اذا احتجتم شيئا اثناء ال رحلة ، ما علي كم الا ان تطلبوا و س نكون مسرورين ب ال مساعدة .",
+    "ar_agg": "سيدات_+ي سادت_+ي ، ال+_كابتن جورج ك+_وهن و+_طاقم_+ه يرحبون ب_+كم على متن رحلة يونيتد ايرلاينز ثمانية صفر صفر ال+_متجه الى نيويورك . اذا احتجتم شيئا اثناء ال+_رحلة ، ما علي_+كم الا ان تطلبوا و+_س+_نكون مسرورين ب+_ال+_مساعدة .",
+    "en": "Ladies and gentlemen , Captain George Cohen and his crew welcome you on board United Airlines flight eight zero zero for New York . If you need anything during the flight , you just have to ask we'll be pleased to help .",
+    "id": "m4103"
+  },
+  {
+    "ar": "يوجد شيء خطا مع .",
+    "ar_agg": "يوجد شيء خطا مع .",
+    "en": "There's something wrong with my bath .",
+    "id": "m4012"
+  },
+  {
+    "ar": "و كوبين من ال شاي ايضا .",
+    "ar_agg": "و كوبين من ال+_شاي ايضا .",
+    "en": "And two cups of tea as well .",
+    "id": "a12564"
+  },
+  {
+    "ar": "اود ان ارسل فاكس .",
+    "ar_agg": "اود ان ارسل فاكس .",
+    "en": "I would like to send a fax .",
+    "id": "m855"
+  },
+  {
+    "ar": "اين صالة ال موسيقى ؟",
+    "ar_agg": "اين صالة ال+_موسيقى ؟",
+    "en": "Where is the music hall ?",
+    "id": "m4412"
+  },
+  {
+    "ar": "يا استاذ ، اسم حمزة مذكر ؟",
+    "ar_agg": "يا استاذ ، اسم حمزة مذكر ؟",
+    "en": "Teacher , is the name Hamza masculine ?",
+    "id": "a331"
+  },
+  {
+    "ar": "هل يمكن ان تعيد ال قاعدة ال اخيرة ؟",
+    "ar_agg": "هل يمكن ان تعيد ال+_قاعدة ال+_اخيرة ؟",
+    "en": "Could you please repeat the last rule ?",
+    "id": "a9756"
+  },
+  {
+    "ar": "عفوا يا ابن ي ال صغير .",
+    "ar_agg": "عفوا يا ابن_+ي ال+_صغير .",
+    "en": "You're welcome , my little son .",
+    "id": "a9395"
+  },
+  {
+    "ar": "ب ال تاكيد لا تقلق ، ل قد توليت كل شيء .",
+    "ar_agg": "ب+_ال+_تاكيد لا تقلق ، ل+_قد توليت كل شيء .",
+    "en": "Sure , don't worry . I took care of everything .",
+    "id": "m6831"
+  },
+  {
+    "ar": "يا ل ه من غروب شمس جميل !",
+    "ar_agg": "يا ل_+ه من غروب شمس جميل !",
+    "en": "What a beautiful sunset !",
+    "id": "a6896"
+  },
+  {
+    "ar": "هل يمكن ني ان ال قي نظرة اخرى على قائمة ال طعام ؟",
+    "ar_agg": "هل يمكن_+ني ان ال+_قي نظرة اخرى على قائمة ال+_طعام ؟",
+    "en": "Can I see the menu again ?",
+    "id": "m3005"
+  },
+  {
+    "ar": "ب ال تاكيد . دع ني ارا ها . اظن ان ال مرجان جرح ك .",
+    "ar_agg": "ب+_ال+_تاكيد . دع_+ني ارا_+ها . اظن ان ال+_مرجان جرح_+ك .",
+    "en": "Surely . Let me see it . You were hurt by coral , I guess .",
+    "id": "m988"
+  },
+  {
+    "ar": "سمعت انا ال سيد يامادا ولدان .",
+    "ar_agg": "سمعت انا ال+_سيد يامادا ولدان .",
+    "en": "I heard Mr . Yamada has two children .",
+    "id": "m354"
+  },
+  {
+    "ar": "انظر ، ان ها ضخمة ، اليس ك ذلك ؟ س احضر ل ك شنطة ل حمل بقية ال طعام لاحقا .",
+    "ar_agg": "انظر ، ان_+ها ضخمة ، اليس ك+_ذلك ؟ س+_احضر ل_+ك شنطة ل+_حمل بقية ال+_طعام لاحقا .",
+    "en": "See , it's huge , right ? I'll bring a doggie bag for you later .",
+    "id": "m4272"
+  },
+  {
+    "ar": "شغل ي ال ضوء .",
+    "ar_agg": "شغل_+ي ال+_ضوء .",
+    "en": "Turn on the light .",
+    "id": "a5065"
+  },
+  {
+    "ar": "ب ال تاكيد . هل يمكن ني ان اعرف اسم ك و رقم تليفون ك ؟",
+    "ar_agg": "ب+_ال+_تاكيد . هل يمكن_+ني ان اعرف اسم_+ك و+_رقم تليفون_+ك ؟",
+    "en": "Certainly . May I have your name and phone number ?",
+    "id": "m10340"
+  },
+  {
+    "ar": "نعم ، و انا ايضا .",
+    "ar_agg": "نعم ، و+_انا ايضا .",
+    "en": "Yes , me too .",
+    "id": "a10649"
+  },
+  {
+    "ar": "ما خامة هذه ال بزة .",
+    "ar_agg": "ما خامة هذه ال+_بزة .",
+    "en": "What is the material of this suit ?",
+    "id": "m8653"
+  },
+  {
+    "ar": "كاميرت ي لا تعمل ب طريقة صحيحة ، هلا تفضلت ب فحص ها ؟",
+    "ar_agg": "كاميرت_+ي لا تعمل ب+_طريقة صحيحة ، هلا تفضلت ب+_فحص_+ها ؟",
+    "en": "My camera isn't working right , please check it .",
+    "id": "m5898"
+  },
+  {
+    "ar": "ما راي ك في ال ذهاب الى دور ال سينما ؟",
+    "ar_agg": "ما راي_+ك في ال+_ذهاب الى دور ال+_سينما ؟",
+    "en": "How about going to see the movies ?",
+    "id": "m9604"
+  },
+  {
+    "ar": "مرحبا ، انا اسم ي ديفيد .",
+    "ar_agg": "مرحبا ، انا اسم_+ي ديفيد .",
+    "en": "Hello , my name is David .",
+    "id": "a324"
+  },
+  {
+    "ar": "ال محتويات تستحق نحو مائتي دولار .",
+    "ar_agg": "ال+_محتويات تستحق نحو مائتي دولار .",
+    "en": "The contents are worth about two hundred dollars .",
+    "id": "m11259"
+  },
+  {
+    "ar": "هل لدي كم جولة يوم كامل ؟",
+    "ar_agg": "هل لدي_+كم جولة يوم كامل ؟",
+    "en": "Do you have a full day tour ?",
+    "id": "m4440"
+  },
+  {
+    "ar": "شكرا جزيلا . هذه ال قهوة لذيذة جدا .",
+    "ar_agg": "شكرا جزيلا . هذه ال+_قهوة لذيذة جدا .",
+    "en": "Thank you very much . This coffee is very delicious .",
+    "id": "a3367"
+  },
+  {
+    "ar": "شكرا ل ك . واين ال مسبح ؟",
+    "ar_agg": "شكرا ل_+ك . واين ال+_مسبح ؟",
+    "en": "Thank you . And where is the swimming pool ?",
+    "id": "a13556"
+  },
+  {
+    "ar": "تسعة و تسعون ، مئة .",
+    "ar_agg": "تسعة و+_تسعون ، مئة .",
+    "en": "Ninety - nine , one hundred .",
+    "id": "a10792"
+  },
+  {
+    "ar": "ارغب في اقتراح خبز محمص وليام .",
+    "ar_agg": "ارغب في اقتراح خبز محمص وليام .",
+    "en": "I wish to propose a toast to our Mr . William .",
+    "id": "m9006"
+  },
+  {
+    "ar": "اريد مقعد ب جوار ال ممر و قريب من مخرج ال طوارئ .",
+    "ar_agg": "اريد مقعد ب+_جوار ال+_ممر و+_قريب من مخرج ال+_طوارئ .",
+    "en": "I'd like an aisle seat close to an emergency exit .",
+    "id": "m10117"
+  },
+  {
+    "ar": "اري ان ال ذهاب الى ال متاحف امر مريح جدا .",
+    "ar_agg": "اري ان ال+_ذهاب الى ال+_متاحف امر مريح جدا .",
+    "en": "I find going to museums very relaxing .",
+    "id": "m10230"
+  },
+  {
+    "ar": "ابحث عن مقلاة طهى غير قابلة ل ل التصاق .",
+    "ar_agg": "ابحث عن مقلاة طهى غير قابلة ل+_ل+_التصاق .",
+    "en": "I'm looking for a nonstick frying pan .",
+    "id": "m3062"
+  },
+  {
+    "ar": "هناك واحدا خلف هذه ال صالة .",
+    "ar_agg": "هناك واحدا خلف هذه ال+_صالة .",
+    "en": "There's one in the back of this hall .",
+    "id": "m8859"
+  },
+  {
+    "ar": "اين يمكن ني تحويل نقود ي ؟",
+    "ar_agg": "اين يمكن_+ني تحويل نقود_+ي ؟",
+    "en": "Where can I exchange my money ?",
+    "id": "m10179"
+  },
+  {
+    "ar": "عذرا . هل يمكن ان تخبر ني اين يمكن ان اخذ مترو انفاق ؟",
+    "ar_agg": "عذرا . هل يمكن ان تخبر_+ني اين يمكن ان اخذ مترو انفاق ؟",
+    "en": "Excuse me . Could you tell me where I can get a subway ?",
+    "id": "m3812"
+  },
+  {
+    "ar": "لدي صندوق سجائر .",
+    "ar_agg": "لدي_+ صندوق سجائر .",
+    "en": "I have one carton of cigarettes .",
+    "id": "m3354"
+  },
+  {
+    "ar": "عظيم ! شكرا ل ك .",
+    "ar_agg": "عظيم ! شكرا ل_+ك .",
+    "en": "Great ! Thank you .",
+    "id": "a1893"
+  },
+  {
+    "ar": "كيف حال ك مع ؟",
+    "ar_agg": "كيف حال_+ك مع ؟",
+    "en": "How are you with the move today ?",
+    "id": "a8192"
+  },
+  {
+    "ar": "انا انظف هذا ال مكان اولا .",
+    "ar_agg": "انا انظف هذا ال+_مكان اولا .",
+    "en": "I am cleaning this area first .",
+    "id": "a151"
+  },
+  {
+    "ar": "هي كاتبة مشهورة .",
+    "ar_agg": "هي كاتبة مشهورة .",
+    "en": "She is a famous writer .",
+    "id": "a1170"
+  },
+  {
+    "ar": "هل ب ال امكان ان توصل ني الى ال فندق ؟",
+    "ar_agg": "هل ب+_ال+_امكان ان توصل_+ني الى ال+_فندق ؟",
+    "en": "Can you pick me up at the hotel ?",
+    "id": "m4714"
+  },
+  {
+    "ar": "ال ساعة هي ال عاشرة صباحا .",
+    "ar_agg": "ال+_ساعة هي ال+_عاشرة صباحا .",
+    "en": "The time is ten in the morning .",
+    "id": "a4810"
+  },
+  {
+    "ar": "اريد هذا ال نوع من فضل ك .",
+    "ar_agg": "اريد هذا ال+_نوع من فضل_+ك .",
+    "en": "I'd like this style , please .",
+    "id": "m784"
+  },
+  {
+    "ar": "لماذا انت محتارة يا حبيبت ي ؟",
+    "ar_agg": "لماذا انت محتارة يا حبيبت_+ي ؟",
+    "en": "Why are you confused , my dear ?",
+    "id": "a7364"
+  },
+  {
+    "ar": "اخشى ان ها متاخرة ثلاث دقائق .",
+    "ar_agg": "اخشى ان_+ها متاخرة ثلاث دقائق .",
+    "en": "I'm afraid it's about three minutes slow .",
+    "id": "m8725"
+  },
+  {
+    "ar": "على ال رحب و ال سعة . رحلة سعيدة في ال قاهرة .",
+    "ar_agg": "على ال+_رحب و+_ال+_سعة . رحلة سعيدة في ال+_قاهرة .",
+    "en": "You're welcome . Have a happy trip in Cairo .",
+    "id": "a5440"
+  },
+  {
+    "ar": "من فضل ك عدل خطة بعد ال ظهر ؟",
+    "ar_agg": "من فضل_+ك عدل خطة بعد ال+_ظهر ؟",
+    "en": "Please alter the afternoon plan .",
+    "id": "m9855"
+  },
+  {
+    "ar": "عفوا ، هلا كيف ال ذهاب الى فندق هلا ؟",
+    "ar_agg": "عفوا ، هلا كيف ال+_ذهاب الى فندق هلا ؟",
+    "en": "Excuse me . Could you tell me how to get to the Fairmont Hotel ?",
+    "id": "m3249"
+  },
+  {
+    "ar": "كنت س اشتري هذا ان كنت في مكان ك ؟",
+    "ar_agg": "كنت س+_اشتري هذا ان كنت في مكان_+ك ؟",
+    "en": "I would buy this if I were you .",
+    "id": "m68"
+  },
+  {
+    "ar": "هذا رائع ! و ماذا عن ابن ك حسن ؟",
+    "ar_agg": "هذا رائع ! و+_ماذا عن ابن_+ك حسن ؟",
+    "en": "That's wonderful ! And what about your son Hassan ?",
+    "id": "a209"
+  },
+  {
+    "ar": "ساخذ هذا من فضل ك .",
+    "ar_agg": "ساخذ هذا من فضل_+ك .",
+    "en": "I'll have it , please .",
+    "id": "m10294"
+  },
+  {
+    "ar": "لن يقدم ال عشاء قبل ال سابعة . اما ال ان ف لا توجد سوى مشروبات .",
+    "ar_agg": "لن يقدم ال+_عشاء قبل ال+_سابعة . اما ال+_ان ف+_لا توجد سوى مشروبات .",
+    "en": "Dinner won't be served until seven . Now only drinks are available .",
+    "id": "m6229"
+  },
+  {
+    "ar": "هلا فتحت ل ي ال باب من فضل ك ؟",
+    "ar_agg": "هلا فتحت ل_+ي ال+_باب من فضل_+ك ؟",
+    "en": "Could you please open the door for me ?",
+    "id": "m7097"
+  },
+  {
+    "ar": "ان ه ياقوت . لدي نا بروش واحد فقط من هذا ال نوع و هو احد مصوغات ي ال مفضلة . بروش جربت ان ترتدي ه ؟",
+    "ar_agg": "ان_+ه ياقوت . لدي_+نا بروش واحد فقط من هذا ال+_نوع و+_هو احد مصوغات_+ي ال+_مفضلة . بروش جربت ان ترتدي_+ه ؟",
+    "en": "It's a sapphire . We have only one brooch of this type and this is one of my favorite pendants . Will you try it on ?",
+    "id": "m4730"
+  },
+  {
+    "ar": "اين حديقة ال حيوان ؟",
+    "ar_agg": "اين حديقة ال+_حيوان ؟",
+    "en": "Where is the zoo ?",
+    "id": "m11552"
+  },
+  {
+    "ar": "نعم ، انا حزين جدا . كان ال لعب صعبا .",
+    "ar_agg": "نعم ، انا حزين جدا . كان ال+_لعب صعبا .",
+    "en": "Yes , I am very sad . The game was difficult .",
+    "id": "a4613"
+  },
+  {
+    "ar": "هل ل ي ب طوابع ل خطابات الى ال يابان ؟",
+    "ar_agg": "هل ل_+ي ب+_طوابع ل+_خطابات الى ال+_يابان ؟",
+    "en": "May I have stamps for letters to Japan ?",
+    "id": "m1251"
+  },
+  {
+    "ar": "كم ال اجرة الى مانشستر ؟",
+    "ar_agg": "كم ال+_اجرة الى مانشستر ؟",
+    "en": "What's the fare to Manchester ?",
+    "id": "m1564"
+  },
+  {
+    "ar": "لم استخدم خدمة ال غسيل عند كم . ايمكنك مرة اخرى ؟",
+    "ar_agg": "لم استخدم خدمة ال+_غسيل عند_+كم . ايمكنك مرة اخرى ؟",
+    "en": "I haven't used your laundry service . Will you check this again ?",
+    "id": "m1956"
+  },
+  {
+    "ar": "اسف ، لكن ه مملوء في هذا ال وقت .",
+    "ar_agg": "اسف ، لكن_+ه مملوء في هذا ال+_وقت .",
+    "en": "I'm sorry , but it's full at that time .",
+    "id": "m6622"
+  },
+  {
+    "ar": "هل يمكن ان تاخذ ني الى اقرب نقطة شرطة ؟",
+    "ar_agg": "هل يمكن ان تاخذ_+ني الى اقرب نقطة شرطة ؟",
+    "en": "Could you take me to the nearest police station ?",
+    "id": "m7065"
+  },
+  {
+    "ar": "حسنا ، ان هم فريق شبابي رائع ، و فريق الدودجرز قادمون ب قوة ايضا .",
+    "ar_agg": "حسنا ، ان_+هم فريق شبابي رائع ، و+_فريق الدودجرز قادمون ب+_قوة ايضا .",
+    "en": "Well , they're a pretty young team , and the Dodgers are coming on strong , too .",
+    "id": "m1898"
+  },
+  {
+    "ar": "مرحبا بك . افضل مقعد علي ال ممر .",
+    "ar_agg": "مرحبا بك . افضل مقعد علي ال+_ممر .",
+    "en": "You're welcome . I prefer an aisle seat .",
+    "id": "m1042"
+  },
+  {
+    "ar": "شكرا جزيلا . عند ي وقت اجتماع ال ان .",
+    "ar_agg": "شكرا جزيلا . عند_+ي وقت اجتماع ال+_ان .",
+    "en": "Thank you very much . I have a meeting time now .",
+    "id": "a5716"
+  },
+  {
+    "ar": "لا اعلم ما هو ال مقاس .",
+    "ar_agg": "لا اعلم ما هو ال+_مقاس .",
+    "en": "I don't know what the size is .",
+    "id": "m1647"
+  },
+  {
+    "ar": "اريد ال اتصال ب شركة تاجير سيارات .",
+    "ar_agg": "اريد ال+_اتصال ب+_شركة تاجير سيارات .",
+    "en": "I'd like to contact a car rental company .",
+    "id": "m9070"
+  },
+  {
+    "ar": "ل قد سكبت شيئا . هل يمكن ك ان تحضر ل ي منديل مائدة ؟",
+    "ar_agg": "ل+_قد سكبت شيئا . هل يمكن_+ك ان تحضر ل_+ي منديل مائدة ؟",
+    "en": "I spilled something . Can you bring me a napkin ?",
+    "id": "m2325"
+  },
+  {
+    "ar": "هيا ب نا ، ال مطعم قريب من هنا .",
+    "ar_agg": "هيا ب_+نا ، ال+_مطعم قريب من هنا .",
+    "en": "Let's go , the restaurant is near here .",
+    "id": "a3508"
+  },
+  {
+    "ar": "صباح ال نور يا طارق . تعال و انظر الى ال طقس من ال شرفة .",
+    "ar_agg": "صباح ال+_نور يا طارق . تعال و+_انظر الى ال+_طقس من ال+_شرفة .",
+    "en": "Good morning , Tarek . Come and look at the weather from the balcony .",
+    "id": "a1445"
+  },
+  {
+    "ar": "و علي كم ال سلام . اي كتاب تريد ب ال ضبط ؟",
+    "ar_agg": "و+_علي_+كم ال+_سلام . اي كتاب تريد ب+_ال+_ضبط ؟",
+    "en": "And upon you be peace . Which book do you want exactly ?",
+    "id": "a7219"
+  },
+  {
+    "ar": "حسنا , سيد ي . دع ني اعتني ب امتعة ك اولا .",
+    "ar_agg": "حسنا , سيد_+ي . دع_+ني اعتني ب+_امتعة_+ك اولا .",
+    "en": "All right , sir . Let me take care of your luggage first .",
+    "id": "m9657"
+  },
+  {
+    "ar": "و كيف حال ك انت يا استاذة ؟",
+    "ar_agg": "و+_كيف حال_+ك انت يا استاذة ؟",
+    "en": "And how are you , Ustatha ?",
+    "id": "a11591"
+  },
+  {
+    "ar": "ممتاز . س نبحث عن رحلة مناسبة ل ك .",
+    "ar_agg": "ممتاز . س+_نبحث عن رحلة مناسبة ل_+ك .",
+    "en": "Excellent . We will look for a suitable trip for you .",
+    "id": "a6476"
+  }
+]

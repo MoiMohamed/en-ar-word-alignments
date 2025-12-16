@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
+.env
+.venv
+venv/
+env/
+uploads/
+.predicted_alignments_cache/

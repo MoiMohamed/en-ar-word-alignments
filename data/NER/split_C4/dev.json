@@ -1,0 +1,5828 @@
+[
+  {
+    "ar": "لا اعرف . هل هي في الطابق الثاني ؟",
+    "ar_agg": "لا اعرف . هل هي في الطابق الثاني ؟",
+    "en": "I don't know . Is it on the second floor ?",
+    "original_ar": "لا اعرف . هل هي في الطابق الثاني ؟",
+    "original_en": "I don't know . Is it on the second floor ?",
+    "id": "a9761",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صليت في المسجد .",
+    "ar_agg": "صليت في المسجد .",
+    "en": "I prayed in the mosque .",
+    "original_ar": "صليت في المسجد .",
+    "original_en": "I prayed in the mosque .",
+    "id": "a6666",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "في اي طابق توجد ملابس السيدات ؟",
+    "ar_agg": "في اي طابق توجد ملابس السيدات ؟",
+    "en": "Which floor is ladies' wear on ?",
+    "original_ar": "في اي طابق توجد ملابس السيدات ؟",
+    "original_en": "Which floor is ladies' wear on ?",
+    "id": "m3187",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تفضل ، هذه تذكرة واحدة .",
+    "ar_agg": "تفضل ، هذه تذكرة واحدة .",
+    "en": "Here you go , this is one ticket .",
+    "original_ar": "تفضل ، هذه تذكرة واحدة .",
+    "original_en": "Here you go , this is one ticket .",
+    "id": "a13669",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا بك ! ماذا تحب ان تشرب ؟",
+    "ar_agg": "اهلا بك ! ماذا تحب ان تشرب ؟",
+    "en": "Welcome ! What would you like to drink ?",
+    "original_ar": "اهلا بك ! ماذا تحب ان تشرب ؟",
+    "original_en": "Welcome ! What would you like to drink ?",
+    "id": "a13391",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لقد اصبت بوخزه من الشوك الذي يغطي ظهر قنفذ البحر .",
+    "ar_agg": "لقد اصبت بوخزه من الشوك الذي يغطي ظهر قنفذ البحر .",
+    "en": "I've been pricked by sea urchin spines .",
+    "original_ar": "لقد اصبت بوخزه من الشوك الذي يغطي ظهر قنفذ البحر .",
+    "original_en": "I've been pricked by sea urchin spines .",
+    "id": "m10942",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ولماذا تفضلن انتن الروايات التاريخية ؟",
+    "ar_agg": "ولماذا تفضلن انتن الروايات التاريخية ؟",
+    "en": "And why do you ( fem . pl . ) prefer historical novels ?",
+    "original_ar": "ولماذا تفضلن انتن الروايات التاريخية ؟",
+    "original_en": "And why do you ( fem . pl . ) prefer historical novels ?",
+    "id": "a2484",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا السيد تاناكا في الغرفة رقم اثنا عشر صفر تسعة . اريد طاقما من مناشف الحمام الجديدة .",
+    "ar_agg": "انا السيد تاناكا في الغرفة رقم اثنا عشر صفر تسعة . اريد طاقما من مناشف الحمام الجديدة .",
+    "en": "This is Mr . PER:Tanaka in room twelve o nine . I would like to have a set of fresh bath towels .",
+    "original_ar": "انا السيد تاناكا في الغرفة رقم اثنا عشر صفر تسعة . اريد طاقما من مناشف الحمام الجديدة .",
+    "original_en": "This is Mr . Tanaka in room twelve o nine . I would like to have a set of fresh bath towels .",
+    "id": "m4943",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "Tanaka",
+          "tagged": "PER:Tanaka",
+          "positions": [
+            4
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "متى يفتح مكتب البريد ؟",
+    "ar_agg": "متى يفتح مكتب البريد ؟",
+    "en": "What time does the post office open ?",
+    "original_ar": "متى يفتح مكتب البريد ؟",
+    "original_en": "What time does the post office open ?",
+    "id": "m434",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا . كم عدد الاشجار اذن ؟",
+    "ar_agg": "حسنا . كم عدد الاشجار اذن ؟",
+    "en": "Okay . How many trees are there then ?",
+    "original_ar": "حسنا . كم عدد الاشجار اذن ؟",
+    "original_en": "Okay . How many trees are there then ?",
+    "id": "a7140",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما اسم القطة ؟",
+    "ar_agg": "ما اسم القطة ؟",
+    "en": "What is the cat's name ?",
+    "original_ar": "ما اسم القطة ؟",
+    "original_en": "What is the cat's name ?",
+    "id": "a8750",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا جزيلا يا استاذة . سوف استمع لها .",
+    "ar_agg": "شكرا جزيلا يا استاذة . سوف استمع لها .",
+    "en": "Thank you very much , teacher . I will listen to them .",
+    "original_ar": "شكرا جزيلا يا استاذة . سوف استمع لها .",
+    "original_en": "Thank you very much , teacher . I will listen to them .",
+    "id": "a4996",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذا العرض يشمل دقائق كثيرة وبيانات .",
+    "ar_agg": "هذا العرض يشمل دقائق كثيرة وبيانات .",
+    "en": "This offer includes many minutes and data .",
+    "original_ar": "هذا العرض يشمل دقائق كثيرة وبيانات .",
+    "original_en": "This offer includes many minutes and data .",
+    "id": "a13156",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا . اريد خبز .",
+    "ar_agg": "مرحبا . اريد خبز .",
+    "en": "Hello . I want bread .",
+    "original_ar": "مرحبا . اريد خبز .",
+    "original_en": "Hello . I want bread .",
+    "id": "a12273",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تؤلمني معدتي احيانا .",
+    "ar_agg": "تؤلمني معدتي احيانا .",
+    "en": "Sometimes my stomach hurts .",
+    "original_ar": "تؤلمني معدتي احيانا .",
+    "original_en": "Sometimes my stomach hurts .",
+    "id": "m9319",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا يسعني اداء ذلك .",
+    "ar_agg": "لا يسعني اداء ذلك .",
+    "en": "I can't do it .",
+    "original_ar": "لا يسعني اداء ذلك .",
+    "original_en": "I can't do it .",
+    "id": "m11571",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا . لا اعرف ماذا اقول .",
+    "ar_agg": "حسنا . لا اعرف ماذا اقول .",
+    "en": "Well , I don't know how to say .",
+    "original_ar": "حسنا . لا اعرف ماذا اقول .",
+    "original_en": "Well , I don't know how to say .",
+    "id": "m2834",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لماذا ؟ ماذا فعلت امس ؟",
+    "ar_agg": "لماذا ؟ ماذا فعلت امس ؟",
+    "en": "Why ? What did you do yesterday ?",
+    "original_ar": "لماذا ؟ ماذا فعلت امس ؟",
+    "original_en": "Why ? What did you do yesterday ?",
+    "id": "a555",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ابغي غرفة مفردة .",
+    "ar_agg": "ابغي غرفة مفردة .",
+    "en": "I want a single room .",
+    "original_ar": "ابغي غرفة مفردة .",
+    "original_en": "I want a single room .",
+    "id": "m5776",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لديكم اية اماكن شاغرة الليلة ؟",
+    "ar_agg": "هل لديكم اية اماكن شاغرة الليلة ؟",
+    "en": "Do you have any vacancies tonight ?",
+    "original_ar": "هل لديكم اية اماكن شاغرة الليلة ؟",
+    "original_en": "Do you have any vacancies tonight ?",
+    "id": "m5314",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا ، ساحضره لك حالا .",
+    "ar_agg": "حسنا ، ساحضره لك حالا .",
+    "en": "Okay , I will bring it to you right away .",
+    "original_ar": "حسنا ، ساحضره لك حالا .",
+    "original_en": "Okay , I will bring it to you right away .",
+    "id": "a418",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا ، من فضلك اجلس وانتظر . ساعود بعد قليل .",
+    "ar_agg": "لا ، من فضلك اجلس وانتظر . ساعود بعد قليل .",
+    "en": "No , please have a seat and wait . I'll be right back .",
+    "original_ar": "لا ، من فضلك اجلس وانتظر . ساعود بعد قليل .",
+    "original_en": "No , please have a seat and wait . I'll be right back .",
+    "id": "m4610",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اسمي PER:رامي .",
+    "ar_agg": "اسمي رامي .",
+    "en": "My name is Rami .",
+    "original_ar": "اسمي رامي .",
+    "original_en": "My name is Rami .",
+    "id": "a10741",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "رامي",
+          "tagged": "PER:رامي",
+          "positions": [
+            1
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "يا PER:سالم ، طعم هذه الكعكة لذيذ .",
+    "ar_agg": "يا سالم ، طعم هذه الكعكة لذيذ .",
+    "en": "Hey LOC:Salem , the taste of this cake is delicious .",
+    "original_ar": "يا سالم ، طعم هذه الكعكة لذيذ .",
+    "original_en": "Hey Salem , the taste of this cake is delicious .",
+    "id": "a3896",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "سالم",
+          "tagged": "PER:سالم",
+          "positions": [
+            1
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Salem",
+          "tagged": "LOC:Salem",
+          "positions": [
+            1
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اريد قداحة .",
+    "ar_agg": "اريد قداحة .",
+    "en": "I'd like a lighter .",
+    "original_ar": "اريد قداحة .",
+    "original_en": "I'd like a lighter .",
+    "id": "m27",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل PER:سالم يسكن هنا ؟",
+    "ar_agg": "هل سالم يسكن هنا ؟",
+    "en": "Does ORG:Salem live here ?",
+    "original_ar": "هل سالم يسكن هنا ؟",
+    "original_en": "Does Salem live here ?",
+    "id": "a6750",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "سالم",
+          "tagged": "PER:سالم",
+          "positions": [
+            1
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Salem",
+          "tagged": "ORG:Salem",
+          "positions": [
+            1
+          ],
+          "language": "en",
+          "type": "ORG"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "مرحبا . هل هذه عائلة براون ؟",
+    "ar_agg": "مرحبا . هل هذه عائلة براون ؟",
+    "en": "Hello . Is this the Brown's ?",
+    "original_ar": "مرحبا . هل هذه عائلة براون ؟",
+    "original_en": "Hello . Is this the Brown's ?",
+    "id": "m9633",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "من فضلك اخبرني كيف استخدمها .",
+    "ar_agg": "من فضلك اخبرني كيف استخدمها .",
+    "en": "Please tell me how to use it .",
+    "original_ar": "من فضلك اخبرني كيف استخدمها .",
+    "original_en": "Please tell me how to use it .",
+    "id": "m1069",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عفوا . هلا اخبرتني متى ستكون صوري جاهزة ؟",
+    "ar_agg": "عفوا . هلا اخبرتني متى ستكون صوري جاهزة ؟",
+    "en": "Excuse me . Could you tell me when my photos will be ready ?",
+    "original_ar": "عفوا . هلا اخبرتني متى ستكون صوري جاهزة ؟",
+    "original_en": "Excuse me . Could you tell me when my photos will be ready ?",
+    "id": "m3294",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صحيح . هم في المطعم يستخدمون الكثير من الزيت .",
+    "ar_agg": "صحيح . هم في المطعم يستخدمون الكثير من الزيت .",
+    "en": "True . They use a lot of oil at the restaurant .",
+    "original_ar": "صحيح . هم في المطعم يستخدمون الكثير من الزيت .",
+    "original_en": "True . They use a lot of oil at the restaurant .",
+    "id": "a585",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما الذي تحب ان تفعله ؟",
+    "ar_agg": "ما الذي تحب ان تفعله ؟",
+    "en": "What would you like to do ?",
+    "original_ar": "ما الذي تحب ان تفعله ؟",
+    "original_en": "What would you like to do ?",
+    "id": "m6816",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل هذا قطار مباشر الى LOC:شيكاغو ؟",
+    "ar_agg": "هل هذا قطار مباشر الى شيكاغو ؟",
+    "en": "Is this a direct train to LOC:Chicago ?",
+    "original_ar": "هل هذا قطار مباشر الى شيكاغو ؟",
+    "original_en": "Is this a direct train to Chicago ?",
+    "id": "m10474",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "شيكاغو",
+          "tagged": "LOC:شيكاغو",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Chicago",
+          "tagged": "LOC:Chicago",
+          "positions": [
+            6
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "بالتاكيد ، سوف تكون حفلة رائعة جدا .",
+    "ar_agg": "بالتاكيد ، سوف تكون حفلة رائعة جدا .",
+    "en": "For sure , it will be a very wonderful party .",
+    "original_ar": "بالتاكيد ، سوف تكون حفلة رائعة جدا .",
+    "original_en": "For sure , it will be a very wonderful party .",
+    "id": "a1923",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "في الوقت الحالي . هل تستطيع ان تعطيني بعض النقود حتى استطيع شراء بعض الاشياء الضرورية .",
+    "ar_agg": "في الوقت الحالي . هل تستطيع ان تعطيني بعض النقود حتى استطيع شراء بعض الاشياء الضرورية .",
+    "en": "For the time being , can you give me some money so that I can buy some necessary things .",
+    "original_ar": "في الوقت الحالي . هل تستطيع ان تعطيني بعض النقود حتى استطيع شراء بعض الاشياء الضرورية .",
+    "original_en": "For the time being , can you give me some money so that I can buy some necessary things .",
+    "id": "m4372",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بوابتي هي C22 . هل هي بعيدة من هنا ؟",
+    "ar_agg": "بوابتي هي C22 . هل هي بعيدة من هنا ؟",
+    "en": "My gate is C22 . Is it far from here ?",
+    "original_ar": "بوابتي هي C22 . هل هي بعيدة من هنا ؟",
+    "original_en": "My gate is C22 . Is it far from here ?",
+    "id": "a5551",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذا صندوق للمجوهرات .",
+    "ar_agg": "هذا صندوق للمجوهرات .",
+    "en": "This is a box for jewelry .",
+    "original_ar": "هذا صندوق للمجوهرات .",
+    "original_en": "This is a box for jewelry .",
+    "id": "a8550",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "PER:نور بخير . امس ، رسمت صورة جميلة في الحديقة .",
+    "ar_agg": "نور بخير . امس ، رسمت صورة جميلة في الحديقة .",
+    "en": "Noor is fine . Yesterday , she drew a beautiful picture in the garden .",
+    "original_ar": "نور بخير . امس ، رسمت صورة جميلة في الحديقة .",
+    "original_en": "Noor is fine . Yesterday , she drew a beautiful picture in the garden .",
+    "id": "a2634",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "نور",
+          "tagged": "PER:نور",
+          "positions": [
+            0
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "عظيم ! سانتظر هنا بهدوء .",
+    "ar_agg": "عظيم ! سانتظر هنا بهدوء .",
+    "en": "Great ! I will wait here quietly .",
+    "original_ar": "عظيم ! سانتظر هنا بهدوء .",
+    "original_en": "Great ! I will wait here quietly .",
+    "id": "a1142",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكنك تسجيل اسمي بقائمة الانتظار ؟",
+    "ar_agg": "هل يمكنك تسجيل اسمي بقائمة الانتظار ؟",
+    "en": "Could you put my name on a waiting list ?",
+    "original_ar": "هل يمكنك تسجيل اسمي بقائمة الانتظار ؟",
+    "original_en": "Could you put my name on a waiting list ?",
+    "id": "m11401",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ل , ا اريد فقط الزيارة بدون ميعاد .",
+    "ar_agg": "ل , ا اريد فقط الزيارة بدون ميعاد .",
+    "en": "No , I just want to drop in .",
+    "original_ar": "ل , ا اريد فقط الزيارة بدون ميعاد .",
+    "original_en": "No , I just want to drop in .",
+    "id": "m1177",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "سعره مئة وثلاثون درهما .",
+    "ar_agg": "سعره مئة وثلاثون درهما .",
+    "en": "Its price is one hundred and thirty dirhams .",
+    "original_ar": "سعره مئة وثلاثون درهما .",
+    "original_en": "Its price is one hundred and thirty dirhams .",
+    "id": "a1601",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الرقم الاخير .",
+    "ar_agg": "الرقم الاخير .",
+    "en": "The last number .",
+    "original_ar": "الرقم الاخير .",
+    "original_en": "The last number .",
+    "id": "a12960",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "من فضلك استلق هناك .",
+    "ar_agg": "من فضلك استلق هناك .",
+    "en": "Please lie down over there .",
+    "original_ar": "من فضلك استلق هناك .",
+    "original_en": "Please lie down over there .",
+    "id": "m3865",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "سيكون جاهزا غدا مساء .",
+    "ar_agg": "سيكون جاهزا غدا مساء .",
+    "en": "It will be ready tomorrow evening .",
+    "original_ar": "سيكون جاهزا غدا مساء .",
+    "original_en": "It will be ready tomorrow evening .",
+    "id": "a11786",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "معذرة ، لكن هل لك ان تشرح هذه الازرار ؟",
+    "ar_agg": "معذرة ، لكن هل لك ان تشرح هذه الازرار ؟",
+    "en": "Excuse me , but would you explain these buttons ?",
+    "original_ar": "معذرة ، لكن هل لك ان تشرح هذه الازرار ؟",
+    "original_en": "Excuse me , but would you explain these buttons ?",
+    "id": "m1868",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "يا PER:احمد ، هل رايت كتابي ؟",
+    "ar_agg": "يا احمد ، هل رايت كتابي ؟",
+    "en": "PER:Ahmad , have you seen my book ?",
+    "original_ar": "يا احمد ، هل رايت كتابي ؟",
+    "original_en": "Ahmad , have you seen my book ?",
+    "id": "a12438",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "احمد",
+          "tagged": "PER:احمد",
+          "positions": [
+            1
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Ahmad",
+          "tagged": "PER:Ahmad",
+          "positions": [
+            0
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "لماذا لا ننتظر الحافلة تحت التندة ؟",
+    "ar_agg": "لماذا لا ننتظر الحافلة تحت التندة ؟",
+    "en": "Why don't we wait for the bus under the awning ?",
+    "original_ar": "لماذا لا ننتظر الحافلة تحت التندة ؟",
+    "original_en": "Why don't we wait for the bus under the awning ?",
+    "id": "m9871",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هدايا جميلة !",
+    "ar_agg": "هدايا جميلة !",
+    "en": "Nice gifts !",
+    "original_ar": "هدايا جميلة !",
+    "original_en": "Nice gifts !",
+    "id": "a3902",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الوقت متاخر الان . يجب ان نعود .",
+    "ar_agg": "الوقت متاخر الان . يجب ان نعود .",
+    "en": "It is late now . We should go back .",
+    "original_ar": "الوقت متاخر الان . يجب ان نعود .",
+    "original_en": "It is late now . We should go back .",
+    "id": "a2002",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا . الحساب هو ثمانين MISC:دولارا وخمسون سنتا مع الضريبة . من فضلك ادفع لموظف الخزينة .",
+    "ar_agg": "شكرا . الحساب هو ثمانين دولارا وخمسون سنتا مع الضريبة . من فضلك ادفع لموظف الخزينة .",
+    "en": "Thank you . That'll be eighty dollars and fifty cents with tax . Please pay the cashier .",
+    "original_ar": "شكرا . الحساب هو ثمانين دولارا وخمسون سنتا مع الضريبة . من فضلك ادفع لموظف الخزينة .",
+    "original_en": "Thank you . That'll be eighty dollars and fifty cents with tax . Please pay the cashier .",
+    "id": "m7913",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "دولارا",
+          "tagged": "MISC:دولارا",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اهلا . اريد تمرا .",
+    "ar_agg": "اهلا . اريد تمرا .",
+    "en": "Hello . I want dates .",
+    "original_ar": "اهلا . اريد تمرا .",
+    "original_en": "Hello . I want dates .",
+    "id": "a10775",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "احسنت . تصبحين على خير .",
+    "ar_agg": "احسنت . تصبحين على خير .",
+    "en": "Well done . Good night .",
+    "original_ar": "احسنت . تصبحين على خير .",
+    "original_en": "Well done . Good night .",
+    "id": "a12886",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما هي المؤهلات المطلوبة للحصول على هذه الوظيفة ؟",
+    "ar_agg": "ما هي المؤهلات المطلوبة للحصول على هذه الوظيفة ؟",
+    "en": "What qualifications does one need for that position ?",
+    "original_ar": "ما هي المؤهلات المطلوبة للحصول على هذه الوظيفة ؟",
+    "original_en": "What qualifications does one need for that position ?",
+    "id": "m10920",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا . بعد حوالي عمارتين اخريين ، فيما اظن .",
+    "ar_agg": "حسنا . بعد حوالي عمارتين اخريين ، فيما اظن .",
+    "en": "Oh , about two more blocks , I think .",
+    "original_ar": "حسنا . بعد حوالي عمارتين اخريين ، فيما اظن .",
+    "original_en": "Oh , about two more blocks , I think .",
+    "id": "m11424",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اود الحصول على دبوس للزينة .",
+    "ar_agg": "اود الحصول على دبوس للزينة .",
+    "en": "I'd like a brooch .",
+    "original_ar": "اود الحصول على دبوس للزينة .",
+    "original_en": "I'd like a brooch .",
+    "id": "m11025",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ساغادر يوم الجمعة التاسع والعشرين وساعود يوم الاحد .",
+    "ar_agg": "ساغادر يوم الجمعة التاسع والعشرين وساعود يوم الاحد .",
+    "en": "I'll be leaving on Friday the twenty - ninth and returning on Sunday .",
+    "original_ar": "ساغادر يوم الجمعة التاسع والعشرين وساعود يوم الاحد .",
+    "original_en": "I'll be leaving on Friday the twenty - ninth and returning on Sunday .",
+    "id": "m2811",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اين مكتب الاستقبال ؟",
+    "ar_agg": "اين مكتب الاستقبال ؟",
+    "en": "Where's the reception desk ?",
+    "original_ar": "اين مكتب الاستقبال ؟",
+    "original_en": "Where's the reception desk ?",
+    "id": "m10589",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اعلان النتائج سيكون بعد ساعة .",
+    "ar_agg": "اعلان النتائج سيكون بعد ساعة .",
+    "en": "The announcement of the results will be after an hour .",
+    "original_ar": "اعلان النتائج سيكون بعد ساعة .",
+    "original_en": "The announcement of the results will be after an hour .",
+    "id": "a2600",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انها تغادر من محطة حافلات رقم اثنان .",
+    "ar_agg": "انها تغادر من محطة حافلات رقم اثنان .",
+    "en": "It leaves from number two bus stop .",
+    "original_ar": "انها تغادر من محطة حافلات رقم اثنان .",
+    "original_en": "It leaves from number two bus stop .",
+    "id": "m9437",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تفضل . هذه هي السلطة .",
+    "ar_agg": "تفضل . هذه هي السلطة .",
+    "en": "Here you go . This is the salad .",
+    "original_ar": "تفضل . هذه هي السلطة .",
+    "original_en": "Here you go . This is the salad .",
+    "id": "a229",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ماذا عن الغد ؟",
+    "ar_agg": "ماذا عن الغد ؟",
+    "en": "How about tomorrow ?",
+    "original_ar": "ماذا عن الغد ؟",
+    "original_en": "How about tomorrow ?",
+    "id": "m804",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا ارى ان الكتاب الكلاسيكي هو اهم مرجع .",
+    "ar_agg": "انا ارى ان الكتاب الكلاسيكي هو اهم مرجع .",
+    "en": "I see the classic book as the most important reference .",
+    "original_ar": "انا ارى ان الكتاب الكلاسيكي هو اهم مرجع .",
+    "original_en": "I see the classic book as the most important reference .",
+    "id": "a2565",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا استطيع شراء واحدة غالية مثل هذه .",
+    "ar_agg": "لا استطيع شراء واحدة غالية مثل هذه .",
+    "en": "I can't afford to buy such an expensive one .",
+    "original_ar": "لا استطيع شراء واحدة غالية مثل هذه .",
+    "original_en": "I can't afford to buy such an expensive one .",
+    "id": "m4330",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عندي مئة بقرة في هذا الحقل .",
+    "ar_agg": "عندي مئة بقرة في هذا الحقل .",
+    "en": "I have one hundred cows in this field .",
+    "original_ar": "عندي مئة بقرة في هذا الحقل .",
+    "original_en": "I have one hundred cows in this field .",
+    "id": "a1209",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اين الاشخاص الاخرين ؟",
+    "ar_agg": "اين الاشخاص الاخرين ؟",
+    "en": "Where are the other people ?",
+    "original_ar": "اين الاشخاص الاخرين ؟",
+    "original_en": "Where are the other people ?",
+    "id": "m9710",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكن ان تعتني بها من الساعة التاسعة صباحا حتى الثالثة ؟",
+    "ar_agg": "هل يمكن ان تعتني بها من الساعة التاسعة صباحا حتى الثالثة ؟",
+    "en": "Can you take care of her from nine a . m . to about three ?",
+    "original_ar": "هل يمكن ان تعتني بها من الساعة التاسعة صباحا حتى الثالثة ؟",
+    "original_en": "Can you take care of her from nine a . m . to about three ?",
+    "id": "m5440",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد فندقا امنا يقدم افطارا جيدا ، من فضلك ؟",
+    "ar_agg": "اريد فندقا امنا يقدم افطارا جيدا ، من فضلك ؟",
+    "en": "A safe hotel serving a great breakfast , please .",
+    "original_ar": "اريد فندقا امنا يقدم افطارا جيدا ، من فضلك ؟",
+    "original_en": "A safe hotel serving a great breakfast , please .",
+    "id": "m11548",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذه فكرة جيدة .",
+    "ar_agg": "هذه فكرة جيدة .",
+    "en": "That's a good idea .",
+    "original_ar": "هذه فكرة جيدة .",
+    "original_en": "That's a good idea .",
+    "id": "m11347",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا لك ! في اي يوم ؟",
+    "ar_agg": "شكرا لك ! في اي يوم ؟",
+    "en": "Thank you ! On which day ?",
+    "original_ar": "شكرا لك ! في اي يوم ؟",
+    "original_en": "Thank you ! On which day ?",
+    "id": "a11020",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "القطة هادئة ولا تحتاج مكانا كبيرا .",
+    "ar_agg": "القطة هادئة ولا تحتاج مكانا كبيرا .",
+    "en": "The cat is quiet and doesn't need a big space .",
+    "original_ar": "القطة هادئة ولا تحتاج مكانا كبيرا .",
+    "original_en": "The cat is quiet and doesn't need a big space .",
+    "id": "a10789",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اعتقد ان سيارتي تستحق حوالي خمسة الاف MISC:دولارا .",
+    "ar_agg": "اعتقد ان سيارتي تستحق حوالي خمسة الاف دولارا .",
+    "en": "I believe my car is worth in the about five thousand dollars .",
+    "original_ar": "اعتقد ان سيارتي تستحق حوالي خمسة الاف دولارا .",
+    "original_en": "I believe my car is worth in the about five thousand dollars .",
+    "id": "m3385",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "دولارا",
+          "tagged": "MISC:دولارا",
+          "positions": [
+            7
+          ],
+          "language": "ar",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "هل هذا الضمان صالح في LOC:اليابان ؟",
+    "ar_agg": "هل هذا الضمان صالح في اليابان ؟",
+    "en": "Is this guarantee valid in LOC:Japan ?",
+    "original_ar": "هل هذا الضمان صالح في اليابان ؟",
+    "original_en": "Is this guarantee valid in Japan ?",
+    "id": "m8326",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "اليابان",
+          "tagged": "LOC:اليابان",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Japan",
+          "tagged": "LOC:Japan",
+          "positions": [
+            5
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اريد ان استقل الحافلة السريعة الى المطار .",
+    "ar_agg": "اريد ان استقل الحافلة السريعة الى المطار .",
+    "en": "I want to take the shuttle bus to the airport .",
+    "original_ar": "اريد ان استقل الحافلة السريعة الى المطار .",
+    "original_en": "I want to take the shuttle bus to the airport .",
+    "id": "m9405",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ساعود يوم خمسة وعشرين مارس .",
+    "ar_agg": "ساعود يوم خمسة وعشرين مارس .",
+    "en": "I'm returning on March twenty fifth .",
+    "original_ar": "ساعود يوم خمسة وعشرين مارس .",
+    "original_en": "I'm returning on March twenty fifth .",
+    "id": "m1247",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مفاصلي تؤلمني .",
+    "ar_agg": "مفاصلي تؤلمني .",
+    "en": "My joints ache .",
+    "original_ar": "مفاصلي تؤلمني .",
+    "original_en": "My joints ache .",
+    "id": "m1764",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا بك يا PER:رامي .",
+    "ar_agg": "اهلا بك يا رامي .",
+    "en": "Hello to you , Rami .",
+    "original_ar": "اهلا بك يا رامي .",
+    "original_en": "Hello to you , Rami .",
+    "id": "a3316",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "رامي",
+          "tagged": "PER:رامي",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "كيف اكل مخالب الكابوريا الكبيرة هذه ؟",
+    "ar_agg": "كيف اكل مخالب الكابوريا الكبيرة هذه ؟",
+    "en": "How do I eat these big crab claws ?",
+    "original_ar": "كيف اكل مخالب الكابوريا الكبيرة هذه ؟",
+    "original_en": "How do I eat these big crab claws ?",
+    "id": "m11373",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لدينا الوان اخري .",
+    "ar_agg": "لدينا الوان اخري .",
+    "en": "We've got other colors .",
+    "original_ar": "لدينا الوان اخري .",
+    "original_en": "We've got other colors .",
+    "id": "m10761",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الحمد MISC:لله . اتمنى لك يوما سعيدا .",
+    "ar_agg": "الحمد لله . اتمنى لك يوما سعيدا .",
+    "en": "Thank God . I wish you a happy day .",
+    "original_ar": "الحمد لله . اتمنى لك يوما سعيدا .",
+    "original_en": "Thank God . I wish you a happy day .",
+    "id": "a838",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "لله",
+          "tagged": "MISC:لله",
+          "positions": [
+            1
+          ],
+          "language": "ar",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "تمام . ما رايك في المقاس ؟",
+    "ar_agg": "تمام . ما رايك في المقاس ؟",
+    "en": "Alright . What is your opinion of the fit ?",
+    "original_ar": "تمام . ما رايك في المقاس ؟",
+    "original_en": "Alright . What is your opinion of the fit ?",
+    "id": "a9606",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "سمعت انها كانت مشغولة امس .",
+    "ar_agg": "سمعت انها كانت مشغولة امس .",
+    "en": "I heard she was busy yesterday .",
+    "original_ar": "سمعت انها كانت مشغولة امس .",
+    "original_en": "I heard she was busy yesterday .",
+    "id": "a6743",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بيضتين ، مسلوقتين .",
+    "ar_agg": "بيضتين ، مسلوقتين .",
+    "en": "Two eggs , poached .",
+    "original_ar": "بيضتين ، مسلوقتين .",
+    "original_en": "Two eggs , poached .",
+    "id": "m11375",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هلا طلبت منه ان يتصل بي على حسابي حينما يعود ؟",
+    "ar_agg": "هلا طلبت منه ان يتصل بي على حسابي حينما يعود ؟",
+    "en": "Will you ask him to call me collect when he gets back ?",
+    "original_ar": "هلا طلبت منه ان يتصل بي على حسابي حينما يعود ؟",
+    "original_en": "Will you ask him to call me collect when he gets back ?",
+    "id": "m5681",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "غرف متجاورة , من فضلك .",
+    "ar_agg": "غرف متجاورة , من فضلك .",
+    "en": "Rooms that are side - by - side , please .",
+    "original_ar": "غرف متجاورة , من فضلك .",
+    "original_en": "Rooms that are side - by - side , please .",
+    "id": "m10964",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صباح الخير . ماذا تفعل كل صباح ؟",
+    "ar_agg": "صباح الخير . ماذا تفعل كل صباح ؟",
+    "en": "Good morning . What do you do every morning ?",
+    "original_ar": "صباح الخير . ماذا تفعل كل صباح ؟",
+    "original_en": "Good morning . What do you do every morning ?",
+    "id": "a4261",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "وعليكم السلام . اختيار جيد . هل تريد شيئا اخر ؟",
+    "ar_agg": "وعليكم السلام . اختيار جيد . هل تريد شيئا اخر ؟",
+    "en": "Hello . Good choice . Do you want anything else ?",
+    "original_ar": "وعليكم السلام . اختيار جيد . هل تريد شيئا اخر ؟",
+    "original_en": "Hello . Good choice . Do you want anything else ?",
+    "id": "a8437",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا احب جويا . انا مشتاق لرؤيتهم .",
+    "ar_agg": "انا احب جويا . انا مشتاق لرؤيتهم .",
+    "en": "I love Goya . I'm eager to see them .",
+    "original_ar": "انا احب جويا . انا مشتاق لرؤيتهم .",
+    "original_en": "I love Goya . I'm eager to see them .",
+    "id": "m1555",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا . اذهب مباشرة في هذا الشارع .",
+    "ar_agg": "اهلا . اذهب مباشرة في هذا الشارع .",
+    "en": "Hello . Go straight on this street .",
+    "original_ar": "اهلا . اذهب مباشرة في هذا الشارع .",
+    "original_en": "Hello . Go straight on this street .",
+    "id": "a11130",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ماذا افعل الان من فضلك ؟",
+    "ar_agg": "ماذا افعل الان من فضلك ؟",
+    "en": "What do I do now , please ?",
+    "original_ar": "ماذا افعل الان من فضلك ؟",
+    "original_en": "What do I do now , please ?",
+    "id": "a12372",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "يا الهي ! ماذا حدث ؟",
+    "ar_agg": "يا الهي ! ماذا حدث ؟",
+    "en": "Oh my God ! What happened ?",
+    "original_ar": "يا الهي ! ماذا حدث ؟",
+    "original_en": "Oh my God ! What happened ?",
+    "id": "a3592",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا . انا اسمي PER:هدى .",
+    "ar_agg": "مرحبا . انا اسمي هدى .",
+    "en": "Hello . My name is Huda .",
+    "original_ar": "مرحبا . انا اسمي هدى .",
+    "original_en": "Hello . My name is Huda .",
+    "id": "a8613",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "هدى",
+          "tagged": "PER:هدى",
+          "positions": [
+            4
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اهلا بك . استمتع بوقتك .",
+    "ar_agg": "اهلا بك . استمتع بوقتك .",
+    "en": "You're welcome . Enjoy your time .",
+    "original_ar": "اهلا بك . استمتع بوقتك .",
+    "original_en": "You're welcome . Enjoy your time .",
+    "id": "a3935",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا بك ، انا بخير . عندي اخبار جيدة .",
+    "ar_agg": "اهلا بك ، انا بخير . عندي اخبار جيدة .",
+    "en": "Hello , I'm fine . I have good news .",
+    "original_ar": "اهلا بك ، انا بخير . عندي اخبار جيدة .",
+    "original_en": "Hello , I'm fine . I have good news .",
+    "id": "a4937",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الى اين نذهب اولا يا PER:علي ؟",
+    "ar_agg": "الى اين نذهب اولا يا علي ؟",
+    "en": "Where are we going first , PER:Ali ?",
+    "original_ar": "الى اين نذهب اولا يا علي ؟",
+    "original_en": "Where are we going first , Ali ?",
+    "id": "a11445",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "علي",
+          "tagged": "PER:علي",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Ali",
+          "tagged": "PER:Ali",
+          "positions": [
+            6
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "هل لي ان ادفع بالمارك الالماني ايضا ؟",
+    "ar_agg": "هل لي ان ادفع بالمارك الالماني ايضا ؟",
+    "en": "May I pay in MISC:German marks , too ?",
+    "original_ar": "هل لي ان ادفع بالمارك الالماني ايضا ؟",
+    "original_en": "May I pay in German marks , too ?",
+    "id": "m4532",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "German",
+          "tagged": "MISC:German",
+          "positions": [
+            4
+          ],
+          "language": "en",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "حسنا . اين اضع الاقلام بعد ذلك ؟",
+    "ar_agg": "حسنا . اين اضع الاقلام بعد ذلك ؟",
+    "en": "Okay . Where do I put the pencils after that ?",
+    "original_ar": "حسنا . اين اضع الاقلام بعد ذلك ؟",
+    "original_en": "Okay . Where do I put the pencils after that ?",
+    "id": "a8179",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا جزيلا . هذا سهل جدا .",
+    "ar_agg": "شكرا جزيلا . هذا سهل جدا .",
+    "en": "Thank you very much . This is very easy .",
+    "original_ar": "شكرا جزيلا . هذا سهل جدا .",
+    "original_en": "Thank you very much . This is very easy .",
+    "id": "a68",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "من فضلك ازل هذه البقعة .",
+    "ar_agg": "من فضلك ازل هذه البقعة .",
+    "en": "Could you please remove this stain ?",
+    "original_ar": "من فضلك ازل هذه البقعة .",
+    "original_en": "Could you please remove this stain ?",
+    "id": "m7380",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اين ابلغ عنها ؟",
+    "ar_agg": "اين ابلغ عنها ؟",
+    "en": "Where shall I report it ?",
+    "original_ar": "اين ابلغ عنها ؟",
+    "original_en": "Where shall I report it ?",
+    "id": "m9678",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ممتاز . نحن نحتاج مئة بطاقة للحفل .",
+    "ar_agg": "ممتاز . نحن نحتاج مئة بطاقة للحفل .",
+    "en": "Excellent . We need one hundred cards for the party .",
+    "original_ar": "ممتاز . نحن نحتاج مئة بطاقة للحفل .",
+    "original_en": "Excellent . We need one hundred cards for the party .",
+    "id": "a3623",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "خاص بالنساء ، من فضلك . كم ثمن نصف يوم ؟",
+    "ar_agg": "خاص بالنساء ، من فضلك . كم ثمن نصف يوم ؟",
+    "en": "A women , please . How much is half a day ?",
+    "original_ar": "خاص بالنساء ، من فضلك . كم ثمن نصف يوم ؟",
+    "original_en": "A women , please . How much is half a day ?",
+    "id": "m11110",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عفوا . هل اعجبك طعم الدجاج ؟",
+    "ar_agg": "عفوا . هل اعجبك طعم الدجاج ؟",
+    "en": "You're welcome . Did you like the taste of the chicken ?",
+    "original_ar": "عفوا . هل اعجبك طعم الدجاج ؟",
+    "original_en": "You're welcome . Did you like the taste of the chicken ?",
+    "id": "a10968",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا يا PER:زياد !",
+    "ar_agg": "مرحبا يا زياد !",
+    "en": "Hello Ziad !",
+    "original_ar": "مرحبا يا زياد !",
+    "original_en": "Hello Ziad !",
+    "id": "a73",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "زياد",
+          "tagged": "PER:زياد",
+          "positions": [
+            2
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "سوف تزوران جزرا استوائية جميلة جدا .",
+    "ar_agg": "سوف تزوران جزرا استوائية جميلة جدا .",
+    "en": "You will visit very beautiful tropical islands .",
+    "original_ar": "سوف تزوران جزرا استوائية جميلة جدا .",
+    "original_en": "You will visit very beautiful tropical islands .",
+    "id": "a4707",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "خمسة فئة عشرين واربعة فئة خمسين .",
+    "ar_agg": "خمسة فئة عشرين واربعة فئة خمسين .",
+    "en": "Five twenties and four fifties .",
+    "original_ar": "خمسة فئة عشرين واربعة فئة خمسين .",
+    "original_en": "Five twenties and four fifties .",
+    "id": "m1851",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "افضل حجرة هادئة .",
+    "ar_agg": "افضل حجرة هادئة .",
+    "en": "I'd prefer a quiet room .",
+    "original_ar": "افضل حجرة هادئة .",
+    "original_en": "I'd prefer a quiet room .",
+    "id": "m720",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا PER:ليلى . هل هي رواية جيدة للنادي ؟",
+    "ar_agg": "اهلا ليلى . هل هي رواية جيدة للنادي ؟",
+    "en": "Hello Laila . Is it a good novel for the club ?",
+    "original_ar": "اهلا ليلى . هل هي رواية جيدة للنادي ؟",
+    "original_en": "Hello Laila . Is it a good novel for the club ?",
+    "id": "a42",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "ليلى",
+          "tagged": "PER:ليلى",
+          "positions": [
+            1
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "من فضلك اتجه لليسار .",
+    "ar_agg": "من فضلك اتجه لليسار .",
+    "en": "Please turn to the left .",
+    "original_ar": "من فضلك اتجه لليسار .",
+    "original_en": "Please turn to the left .",
+    "id": "m1841",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نعم ، هذه الحافلة تذهب الى هناك .",
+    "ar_agg": "نعم ، هذه الحافلة تذهب الى هناك .",
+    "en": "Yes , this bus goes there .",
+    "original_ar": "نعم ، هذه الحافلة تذهب الى هناك .",
+    "original_en": "Yes , this bus goes there .",
+    "id": "a13733",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بالتاكيد . هيا نلعب مرة اخرى .",
+    "ar_agg": "بالتاكيد . هيا نلعب مرة اخرى .",
+    "en": "Definitely . Let's play again .",
+    "original_ar": "بالتاكيد . هيا نلعب مرة اخرى .",
+    "original_en": "Definitely . Let's play again .",
+    "id": "a5626",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذه يد .",
+    "ar_agg": "هذه يد .",
+    "en": "This is a hand .",
+    "original_ar": "هذه يد .",
+    "original_en": "This is a hand .",
+    "id": "a8626",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كن هناك بحلول التاسعة ، من فضلك .",
+    "ar_agg": "كن هناك بحلول التاسعة ، من فضلك .",
+    "en": "Arrive there by nine , please .",
+    "original_ar": "كن هناك بحلول التاسعة ، من فضلك .",
+    "original_en": "Arrive there by nine , please .",
+    "id": "m11338",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا ، سعر الرسالة عشرة جنيهات .",
+    "ar_agg": "حسنا ، سعر الرسالة عشرة جنيهات .",
+    "en": "Okay , the price of the letter is ten pounds .",
+    "original_ar": "حسنا ، سعر الرسالة عشرة جنيهات .",
+    "original_en": "Okay , the price of the letter is ten pounds .",
+    "id": "a5871",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لهذا السبب هما لاعبان ممتازان .",
+    "ar_agg": "لهذا السبب هما لاعبان ممتازان .",
+    "en": "That is why they are two excellent players .",
+    "original_ar": "لهذا السبب هما لاعبان ممتازان .",
+    "original_en": "That is why they are two excellent players .",
+    "id": "a6156",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "فكرة ممتازة . انا موافق . اراك غدا .",
+    "ar_agg": "فكرة ممتازة . انا موافق . اراك غدا .",
+    "en": "Excellent idea . I agree . See you tomorrow .",
+    "original_ar": "فكرة ممتازة . انا موافق . اراك غدا .",
+    "original_en": "Excellent idea . I agree . See you tomorrow .",
+    "id": "a2209",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل هذه التذكرة سارية فقط لليوم المحدد ؟",
+    "ar_agg": "هل هذه التذكرة سارية فقط لليوم المحدد ؟",
+    "en": "Is this ticket valid only for the designated day ?",
+    "original_ar": "هل هذه التذكرة سارية فقط لليوم المحدد ؟",
+    "original_en": "Is this ticket valid only for the designated day ?",
+    "id": "m346",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صباح الخير يا PER:ليلى .",
+    "ar_agg": "صباح الخير يا ليلى .",
+    "en": "Good morning , PER:Layla .",
+    "original_ar": "صباح الخير يا ليلى .",
+    "original_en": "Good morning , Layla .",
+    "id": "a8114",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "ليلى",
+          "tagged": "PER:ليلى",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Layla",
+          "tagged": "PER:Layla",
+          "positions": [
+            3
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "التفاحة كبيرة .",
+    "ar_agg": "التفاحة كبيرة .",
+    "en": "The apple is big .",
+    "original_ar": "التفاحة كبيرة .",
+    "original_en": "The apple is big .",
+    "id": "a11378",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الجو بارد . هل تستطيع عمل شئ ؟",
+    "ar_agg": "الجو بارد . هل تستطيع عمل شئ ؟",
+    "en": "It's cold . Can you do something ?",
+    "original_ar": "الجو بارد . هل تستطيع عمل شئ ؟",
+    "original_en": "It's cold . Can you do something ?",
+    "id": "m11224",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا سعيد لان اخا كريم سيذهب معكم .",
+    "ar_agg": "انا سعيد لان اخا كريم سيذهب معكم .",
+    "en": "I am happy that Karim's brother will go with you .",
+    "original_ar": "انا سعيد لان اخا كريم سيذهب معكم .",
+    "original_en": "I am happy that Karim's brother will go with you .",
+    "id": "a358",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اللوفر LOC:ابو_ظبي في جزيرة السعديات .",
+    "ar_agg": "اللوفر ابو ظبي في جزيرة السعديات .",
+    "en": "The LOC:Louvre_Abu_Dhabi is on LOC:Saadiyat_Island .",
+    "original_ar": "اللوفر ابو ظبي في جزيرة السعديات .",
+    "original_en": "The Louvre Abu Dhabi is on Saadiyat Island .",
+    "id": "a7042",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "ابو ظبي",
+          "tagged": "LOC:ابو_ظبي",
+          "positions": [
+            1,
+            2
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Louvre Abu Dhabi",
+          "tagged": "LOC:Louvre_Abu_Dhabi",
+          "positions": [
+            1,
+            2,
+            3
+          ],
+          "language": "en",
+          "type": "LOC"
+        },
+        {
+          "original": "Saadiyat Island",
+          "tagged": "LOC:Saadiyat_Island",
+          "positions": [
+            6,
+            7
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "تمام . وفي اي قسم هي ؟",
+    "ar_agg": "تمام . وفي اي قسم هي ؟",
+    "en": "Okay . And in which section are they ?",
+    "original_ar": "تمام . وفي اي قسم هي ؟",
+    "original_en": "Okay . And in which section are they ?",
+    "id": "a9917",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا لك . ساكتب رقمك في دفتري .",
+    "ar_agg": "شكرا لك . ساكتب رقمك في دفتري .",
+    "en": "Thank you . I will write your number in my notebook .",
+    "original_ar": "شكرا لك . ساكتب رقمك في دفتري .",
+    "original_en": "Thank you . I will write your number in my notebook .",
+    "id": "a9266",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكنني اطلب بيتزا تسلم في غرفتي ؟",
+    "ar_agg": "هل يمكنني اطلب بيتزا تسلم في غرفتي ؟",
+    "en": "Could I have a pizza delivered to my room ?",
+    "original_ar": "هل يمكنني اطلب بيتزا تسلم في غرفتي ؟",
+    "original_en": "Could I have a pizza delivered to my room ?",
+    "id": "m2179",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "خطئي .",
+    "ar_agg": "خطئي .",
+    "en": "My error .",
+    "original_ar": "خطئي .",
+    "original_en": "My error .",
+    "id": "m11505",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل ثمة تخفيضات للاعضاء المشاركين ؟",
+    "ar_agg": "هل ثمة تخفيضات للاعضاء المشاركين ؟",
+    "en": "Do you have any reduction rate for the members ?",
+    "original_ar": "هل ثمة تخفيضات للاعضاء المشاركين ؟",
+    "original_en": "Do you have any reduction rate for the members ?",
+    "id": "m2508",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل تريد سيجارة ؟",
+    "ar_agg": "هل تريد سيجارة ؟",
+    "en": "Would you like a cigarette ?",
+    "original_ar": "هل تريد سيجارة ؟",
+    "original_en": "Would you like a cigarette ?",
+    "id": "m1191",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "قمت بالحجز عن طريق ORG:جي_تي_بي في LOC:اليابان منذ اسبوعين .",
+    "ar_agg": "قمت بالحجز عن طريق جي تي بي في اليابان منذ اسبوعين .",
+    "en": "I made a reservation through ORG:JTB in LOC:Japan two weeks ago .",
+    "original_ar": "قمت بالحجز عن طريق جي تي بي في اليابان منذ اسبوعين .",
+    "original_en": "I made a reservation through JTB in Japan two weeks ago .",
+    "id": "m10629",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "جي تي بي",
+          "tagged": "ORG:جي_تي_بي",
+          "positions": [
+            4,
+            5,
+            6
+          ],
+          "language": "ar",
+          "type": "ORG"
+        },
+        {
+          "original": "اليابان",
+          "tagged": "LOC:اليابان",
+          "positions": [
+            8
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "JTB",
+          "tagged": "ORG:JTB",
+          "positions": [
+            5
+          ],
+          "language": "en",
+          "type": "ORG"
+        },
+        {
+          "original": "Japan",
+          "tagged": "LOC:Japan",
+          "positions": [
+            7
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اليوم الثالث من يوليو . حسنا ، شكرا جزيلا لك .",
+    "ar_agg": "اليوم الثالث من يوليو . حسنا ، شكرا جزيلا لك .",
+    "en": "The third of July . Okay , thank you very much .",
+    "original_ar": "اليوم الثالث من يوليو . حسنا ، شكرا جزيلا لك .",
+    "original_en": "The third of July . Okay , thank you very much .",
+    "id": "a9812",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نحن اربعة .",
+    "ar_agg": "نحن اربعة .",
+    "en": "We are four .",
+    "original_ar": "نحن اربعة .",
+    "original_en": "We are four .",
+    "id": "a12241",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد بعض الاربطة المطاطية .",
+    "ar_agg": "اريد بعض الاربطة المطاطية .",
+    "en": "I'd like some rubber bands .",
+    "original_ar": "اريد بعض الاربطة المطاطية .",
+    "original_en": "I'd like some rubber bands .",
+    "id": "m5856",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكننا الحصول على مرشد يتحدث اليابانية ؟",
+    "ar_agg": "هل يمكننا الحصول على مرشد يتحدث اليابانية ؟",
+    "en": "Could we have a MISC:Japanese speaking guide ?",
+    "original_ar": "هل يمكننا الحصول على مرشد يتحدث اليابانية ؟",
+    "original_en": "Could we have a Japanese speaking guide ?",
+    "id": "m10288",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "Japanese",
+          "tagged": "MISC:Japanese",
+          "positions": [
+            4
+          ],
+          "language": "en",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "انا افضل الحمص . هو اشهر طبق هنا .",
+    "ar_agg": "انا افضل الحمص . هو اشهر طبق هنا .",
+    "en": "I prefer the hummus . It is the most famous dish here .",
+    "original_ar": "انا افضل الحمص . هو اشهر طبق هنا .",
+    "original_en": "I prefer the hummus . It is the most famous dish here .",
+    "id": "a8309",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "واحد ، اثنان ، ثلاثة . . . عشرون . . . اربعون . . . ستون ، واحد وستون ، اثنان وستون ، ثلاثة وستون ، اربعة وستون ، خمسة وستون .",
+    "ar_agg": "واحد ، اثنان ، ثلاثة . . . عشرون . . . اربعون . . . ستون ، واحد وستون ، اثنان وستون ، ثلاثة وستون ، اربعة وستون ، خمسة وستون .",
+    "en": "One , two , three . . . twenty . . . forty . . . sixty , sixty - one , sixty - two , sixty - three , sixty - four , sixty - five .",
+    "original_ar": "واحد ، اثنان ، ثلاثة . . . عشرون . . . اربعون . . . ستون ، واحد وستون ، اثنان وستون ، ثلاثة وستون ، اربعة وستون ، خمسة وستون .",
+    "original_en": "One , two , three . . . twenty . . . forty . . . sixty , sixty - one , sixty - two , sixty - three , sixty - four , sixty - five .",
+    "id": "a2625",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نخلق هذا الملمس بالاسفنج .",
+    "ar_agg": "نخلق هذا الملمس بالاسفنج .",
+    "en": "We create this texture with the sponge .",
+    "original_ar": "نخلق هذا الملمس بالاسفنج .",
+    "original_en": "We create this texture with the sponge .",
+    "id": "a9574",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذا جبن .",
+    "ar_agg": "هذا جبن .",
+    "en": "This is cheese .",
+    "original_ar": "هذا جبن .",
+    "original_en": "This is cheese .",
+    "id": "a10644",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا افضل افلام الاكشن .",
+    "ar_agg": "انا افضل افلام الاكشن .",
+    "en": "I prefer action movies .",
+    "original_ar": "انا افضل افلام الاكشن .",
+    "original_en": "I prefer action movies .",
+    "id": "a3946",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عفوا . على الرحب والسعة .",
+    "ar_agg": "عفوا . على الرحب والسعة .",
+    "en": "You're welcome . My pleasure .",
+    "original_ar": "عفوا . على الرحب والسعة .",
+    "original_en": "You're welcome . My pleasure .",
+    "id": "a8381",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "وفي البطولة ، سجلت مئة واحدى عشرة نقطة .",
+    "ar_agg": "وفي البطولة ، سجلت مئة واحدى عشرة نقطة .",
+    "en": "And in the championship , you scored one hundred and eleven points .",
+    "original_ar": "وفي البطولة ، سجلت مئة واحدى عشرة نقطة .",
+    "original_en": "And in the championship , you scored one hundred and eleven points .",
+    "id": "a6191",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صباح الخير . قهوتك المعتادة ؟",
+    "ar_agg": "صباح الخير . قهوتك المعتادة ؟",
+    "en": "Good morning . Your usual coffee ?",
+    "original_ar": "صباح الخير . قهوتك المعتادة ؟",
+    "original_en": "Good morning . Your usual coffee ?",
+    "id": "a12126",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مجرد زخرفة ، من فضلك .",
+    "ar_agg": "مجرد زخرفة ، من فضلك .",
+    "en": "Just a trim , please .",
+    "original_ar": "مجرد زخرفة ، من فضلك .",
+    "original_en": "Just a trim , please .",
+    "id": "m3916",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لي بجدول مواعيد ؟",
+    "ar_agg": "هل لي بجدول مواعيد ؟",
+    "en": "May I have a time table ?",
+    "original_ar": "هل لي بجدول مواعيد ؟",
+    "original_en": "May I have a time table ?",
+    "id": "m10041",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا بك . ماذا تطلب اليوم ؟",
+    "ar_agg": "اهلا بك . ماذا تطلب اليوم ؟",
+    "en": "Welcome . What are you ordering today ?",
+    "original_ar": "اهلا بك . ماذا تطلب اليوم ؟",
+    "original_en": "Welcome . What are you ordering today ?",
+    "id": "a4627",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مساء الخير يا PER:خالد . عملنا كان ممتازا في المشروع .",
+    "ar_agg": "مساء الخير يا خالد . عملنا كان ممتازا في المشروع .",
+    "en": "Good evening , PER:Khalid . Our work on the project was excellent .",
+    "original_ar": "مساء الخير يا خالد . عملنا كان ممتازا في المشروع .",
+    "original_en": "Good evening , Khalid . Our work on the project was excellent .",
+    "id": "a8649",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "خالد",
+          "tagged": "PER:خالد",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Khalid",
+          "tagged": "PER:Khalid",
+          "positions": [
+            3
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "حسنا , حجرتك يا انسة هي رقم تسعة صفر ثمانية . هذا مفتاحك .",
+    "ar_agg": "حسنا , حجرتك يا انسة هي رقم تسعة صفر ثمانية . هذا مفتاحك .",
+    "en": "Well , your room is nine o eight , Miss . Here's your key .",
+    "original_ar": "حسنا , حجرتك يا انسة هي رقم تسعة صفر ثمانية . هذا مفتاحك .",
+    "original_en": "Well , your room is nine o eight , Miss . Here's your key .",
+    "id": "m5537",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صديقي مصاب .",
+    "ar_agg": "صديقي مصاب .",
+    "en": "My friend is injured .",
+    "original_ar": "صديقي مصاب .",
+    "original_en": "My friend is injured .",
+    "id": "m4071",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اشعر بمرضي في معدتي .",
+    "ar_agg": "اشعر بمرضي في معدتي .",
+    "en": "I feel sick at my stomach .",
+    "original_ar": "اشعر بمرضي في معدتي .",
+    "original_en": "I feel sick at my stomach .",
+    "id": "m8665",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل هناك مكان ما يمكنني ان اجري منه مكالمة هاتفية ؟",
+    "ar_agg": "هل هناك مكان ما يمكنني ان اجري منه مكالمة هاتفية ؟",
+    "en": "Is there any place I can make a telephone call ?",
+    "original_ar": "هل هناك مكان ما يمكنني ان اجري منه مكالمة هاتفية ؟",
+    "original_en": "Is there any place I can make a telephone call ?",
+    "id": "m1280",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اسالم غائب ؟",
+    "ar_agg": "اسالم غائب ؟",
+    "en": "Is ORG:Salem absent ?",
+    "original_ar": "اسالم غائب ؟",
+    "original_en": "Is Salem absent ?",
+    "id": "a3427",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "Salem",
+          "tagged": "ORG:Salem",
+          "positions": [
+            1
+          ],
+          "language": "en",
+          "type": "ORG"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "عفوا يا بني .",
+    "ar_agg": "عفوا يا بني .",
+    "en": "You're welcome , my son .",
+    "original_ar": "عفوا يا بني .",
+    "original_en": "You're welcome , my son .",
+    "id": "a10280",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اسف ، سيكون منزلنا شديد الازدحام هذه الليلة .",
+    "ar_agg": "اسف ، سيكون منزلنا شديد الازدحام هذه الليلة .",
+    "en": "I'm sorry , but we have a full house tonight .",
+    "original_ar": "اسف ، سيكون منزلنا شديد الازدحام هذه الليلة .",
+    "original_en": "I'm sorry , but we have a full house tonight .",
+    "id": "m7735",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ايهما الخاص بمنهج المبتدئين ؟",
+    "ar_agg": "ايهما الخاص بمنهج المبتدئين ؟",
+    "en": "Which is the beginners' course ?",
+    "original_ar": "ايهما الخاص بمنهج المبتدئين ؟",
+    "original_en": "Which is the beginners' course ?",
+    "id": "m280",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكن ان احجز ملعبا للتنس هنا ؟",
+    "ar_agg": "هل يمكن ان احجز ملعبا للتنس هنا ؟",
+    "en": "Can I reserve a tennis court here ?",
+    "original_ar": "هل يمكن ان احجز ملعبا للتنس هنا ؟",
+    "original_en": "Can I reserve a tennis court here ?",
+    "id": "m3380",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكنك اصلاحه من فضلك ؟",
+    "ar_agg": "هل يمكنك اصلاحه من فضلك ؟",
+    "en": "Can you fix it , please ?",
+    "original_ar": "هل يمكنك اصلاحه من فضلك ؟",
+    "original_en": "Can you fix it , please ?",
+    "id": "a13173",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كيف تحب ان يطهى اللحم ؟",
+    "ar_agg": "كيف تحب ان يطهى اللحم ؟",
+    "en": "How would you like your meat done ?",
+    "original_ar": "كيف تحب ان يطهى اللحم ؟",
+    "original_en": "How would you like your meat done ?",
+    "id": "m9049",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هلا شاركتني وجبة خفيفة ؟",
+    "ar_agg": "هلا شاركتني وجبة خفيفة ؟",
+    "en": "Would you join me for a snack ?",
+    "original_ar": "هلا شاركتني وجبة خفيفة ؟",
+    "original_en": "Would you join me for a snack ?",
+    "id": "m2852",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لحظة ، دعني ارى ما بداخلها .",
+    "ar_agg": "لحظة ، دعني ارى ما بداخلها .",
+    "en": "One moment , let me see what's inside it .",
+    "original_ar": "لحظة ، دعني ارى ما بداخلها .",
+    "original_en": "One moment , let me see what's inside it .",
+    "id": "a3379",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الان ، لقد وعدت بانك ستشتري زوج واحد فقط ، موافق ؟",
+    "ar_agg": "الان ، لقد وعدت بانك ستشتري زوج واحد فقط ، موافق ؟",
+    "en": "Now , you promise you're only buying one pair , Okay ?",
+    "original_ar": "الان ، لقد وعدت بانك ستشتري زوج واحد فقط ، موافق ؟",
+    "original_en": "Now , you promise you're only buying one pair , Okay ?",
+    "id": "m10642",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما هي العطلات الموجودة في LOC:اليابان ؟",
+    "ar_agg": "ما هي العطلات الموجودة في اليابان ؟",
+    "en": "What holidays do you have in LOC:Japan ?",
+    "original_ar": "ما هي العطلات الموجودة في اليابان ؟",
+    "original_en": "What holidays do you have in Japan ?",
+    "id": "m6130",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "اليابان",
+          "tagged": "LOC:اليابان",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Japan",
+          "tagged": "LOC:Japan",
+          "positions": [
+            6
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "هذا مثير للاهتمام . وماذا تفعل بعد العمل ؟",
+    "ar_agg": "هذا مثير للاهتمام . وماذا تفعل بعد العمل ؟",
+    "en": "That's interesting . And what do you do after work ?",
+    "original_ar": "هذا مثير للاهتمام . وماذا تفعل بعد العمل ؟",
+    "original_en": "That's interesting . And what do you do after work ?",
+    "id": "a8587",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما الكمية التي تريدها ؟",
+    "ar_agg": "ما الكمية التي تريدها ؟",
+    "en": "How much do you want ?",
+    "original_ar": "ما الكمية التي تريدها ؟",
+    "original_en": "How much do you want ?",
+    "id": "m7169",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "طعام طيب ؟",
+    "ar_agg": "طعام طيب ؟",
+    "en": "Good food ?",
+    "original_ar": "طعام طيب ؟",
+    "original_en": "Good food ?",
+    "id": "m5824",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كانت مشكلة صغيرة في محرك السيارة .",
+    "ar_agg": "كانت مشكلة صغيرة في محرك السيارة .",
+    "en": "It was a small problem in the car's engine .",
+    "original_ar": "كانت مشكلة صغيرة في محرك السيارة .",
+    "original_en": "It was a small problem in the car's engine .",
+    "id": "a7546",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل تقبلون شيكات سياحية ؟",
+    "ar_agg": "هل تقبلون شيكات سياحية ؟",
+    "en": "Do you accept traveler's checks ?",
+    "original_ar": "هل تقبلون شيكات سياحية ؟",
+    "original_en": "Do you accept traveler's checks ?",
+    "id": "m2896",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ارني بعض السترات التي تتناسب مع هذا .",
+    "ar_agg": "ارني بعض السترات التي تتناسب مع هذا .",
+    "en": "Show me some sweaters that go with this .",
+    "original_ar": "ارني بعض السترات التي تتناسب مع هذا .",
+    "original_en": "Show me some sweaters that go with this .",
+    "id": "m1878",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اي نوع من التوابل تفضل ؟ لدينا جزيرة الالف ، الجبن الازرق ، والفرنسي .",
+    "ar_agg": "اي نوع من التوابل تفضل ؟ لدينا جزيرة الالف ، الجبن الازرق ، والفرنسي .",
+    "en": "What kind of dressing would you like ? We have Thousand MISC:island , blue cheese , and MISC:French .",
+    "original_ar": "اي نوع من التوابل تفضل ؟ لدينا جزيرة الالف ، الجبن الازرق ، والفرنسي .",
+    "original_en": "What kind of dressing would you like ? We have Thousand island , blue cheese , and French .",
+    "id": "m1476",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "island",
+          "tagged": "MISC:island",
+          "positions": [
+            11
+          ],
+          "language": "en",
+          "type": "MISC"
+        },
+        {
+          "original": "French",
+          "tagged": "MISC:French",
+          "positions": [
+            17
+          ],
+          "language": "en",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اين الحمام ؟",
+    "ar_agg": "اين الحمام ؟",
+    "en": "Where is the lavatory ?",
+    "original_ar": "اين الحمام ؟",
+    "original_en": "Where is the lavatory ?",
+    "id": "m2397",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لقد تمكنت ن تحقيق ذلك .",
+    "ar_agg": "لقد تمكنت ن تحقيق ذلك .",
+    "en": "You did it .",
+    "original_ar": "لقد تمكنت ن تحقيق ذلك .",
+    "original_en": "You did it .",
+    "id": "m7642",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مبروك ، لقد سمعت انك حصلت على وظيفة لدي شركة ORG:ايه_بي_سي .",
+    "ar_agg": "مبروك ، لقد سمعت انك حصلت على وظيفة لدي شركة ايه بي سي .",
+    "en": "Congratulations , I heard you got a job with ORG:ABC company .",
+    "original_ar": "مبروك ، لقد سمعت انك حصلت على وظيفة لدي شركة ايه بي سي .",
+    "original_en": "Congratulations , I heard you got a job with ABC company .",
+    "id": "m9296",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "ايه بي سي",
+          "tagged": "ORG:ايه_بي_سي",
+          "positions": [
+            10,
+            11,
+            12
+          ],
+          "language": "ar",
+          "type": "ORG"
+        },
+        {
+          "original": "ABC",
+          "tagged": "ORG:ABC",
+          "positions": [
+            9
+          ],
+          "language": "en",
+          "type": "ORG"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "حسنا ، لقد عددت سبعين حبة .",
+    "ar_agg": "حسنا ، لقد عددت سبعين حبة .",
+    "en": "Okay , I have counted seventy pieces .",
+    "original_ar": "حسنا ، لقد عددت سبعين حبة .",
+    "original_en": "Okay , I have counted seventy pieces .",
+    "id": "a1766",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا بك يا PER:جون .",
+    "ar_agg": "اهلا بك يا جون .",
+    "en": "Welcome , PER:John .",
+    "original_ar": "اهلا بك يا جون .",
+    "original_en": "Welcome , John .",
+    "id": "a388",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "جون",
+          "tagged": "PER:جون",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "John",
+          "tagged": "PER:John",
+          "positions": [
+            2
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "حسنا ، تسعون ، واحد وتسعون ، اثنان وتسعون .",
+    "ar_agg": "حسنا ، تسعون ، واحد وتسعون ، اثنان وتسعون .",
+    "en": "Okay , ninety , ninety - one , ninety - two .",
+    "original_ar": "حسنا ، تسعون ، واحد وتسعون ، اثنان وتسعون .",
+    "original_en": "Okay , ninety , ninety - one , ninety - two .",
+    "id": "a1241",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اصعد بالسلم الكهربائي الى الطابق الثاني .",
+    "ar_agg": "اصعد بالسلم الكهربائي الى الطابق الثاني .",
+    "en": "Go up the escalator to the second floor .",
+    "original_ar": "اصعد بالسلم الكهربائي الى الطابق الثاني .",
+    "original_en": "Go up the escalator to the second floor .",
+    "id": "a640",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صدري يؤلمني .",
+    "ar_agg": "صدري يؤلمني .",
+    "en": "My chest hurts .",
+    "original_ar": "صدري يؤلمني .",
+    "original_en": "My chest hurts .",
+    "id": "m9038",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل انت متاكد ان هذه الحسبة صحيحة ؟ من فضلك راجعها ثانية .",
+    "ar_agg": "هل انت متاكد ان هذه الحسبة صحيحة ؟ من فضلك راجعها ثانية .",
+    "en": "Are you sure this calculation is correct ? Please check it again .",
+    "original_ar": "هل انت متاكد ان هذه الحسبة صحيحة ؟ من فضلك راجعها ثانية .",
+    "original_en": "Are you sure this calculation is correct ? Please check it again .",
+    "id": "m5560",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لقد سرق جواز سفري .",
+    "ar_agg": "لقد سرق جواز سفري .",
+    "en": "My passport was stolen .",
+    "original_ar": "لقد سرق جواز سفري .",
+    "original_en": "My passport was stolen .",
+    "id": "m10605",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لك ان تطلبها لي , من فضلك ؟",
+    "ar_agg": "هل لك ان تطلبها لي , من فضلك ؟",
+    "en": "Could you order it for me , please ?",
+    "original_ar": "هل لك ان تطلبها لي , من فضلك ؟",
+    "original_en": "Could you order it for me , please ?",
+    "id": "m4553",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "يتعين على ان اكون بالمطار في الساعة العاشرة والنصف .",
+    "ar_agg": "يتعين على ان اكون بالمطار في الساعة العاشرة والنصف .",
+    "en": "I have to be at the airport by ten thirty .",
+    "original_ar": "يتعين على ان اكون بالمطار في الساعة العاشرة والنصف .",
+    "original_en": "I have to be at the airport by ten thirty .",
+    "id": "m5739",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل سيكون مقبولا ان اضيف عصى الجولف ؟",
+    "ar_agg": "هل سيكون مقبولا ان اضيف عصى الجولف ؟",
+    "en": "Is it okay to add drivers ?",
+    "original_ar": "هل سيكون مقبولا ان اضيف عصى الجولف ؟",
+    "original_en": "Is it okay to add drivers ?",
+    "id": "m6870",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صباح الخير . اريد تسجيل الخروج من فضلك .",
+    "ar_agg": "صباح الخير . اريد تسجيل الخروج من فضلك .",
+    "en": "Good morning . I would like to check out , please .",
+    "original_ar": "صباح الخير . اريد تسجيل الخروج من فضلك .",
+    "original_en": "Good morning . I would like to check out , please .",
+    "id": "a7201",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا . عندي عدة قطع للتعديل .",
+    "ar_agg": "مرحبا . عندي عدة قطع للتعديل .",
+    "en": "Hello . I have several pieces for alteration .",
+    "original_ar": "مرحبا . عندي عدة قطع للتعديل .",
+    "original_en": "Hello . I have several pieces for alteration .",
+    "id": "a1697",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ثلاثون ، اربعون ، خمسون ، ستون ، سبعون . . .",
+    "ar_agg": "ثلاثون ، اربعون ، خمسون ، ستون ، سبعون . . .",
+    "en": "Thirty , forty , fifty , sixty , seventy . . .",
+    "original_ar": "ثلاثون ، اربعون ، خمسون ، ستون ، سبعون . . .",
+    "original_en": "Thirty , forty , fifty , sixty , seventy . . .",
+    "id": "a10355",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اعطني عامل التليفون من فضلك .",
+    "ar_agg": "اعطني عامل التليفون من فضلك .",
+    "en": "The operator , please .",
+    "original_ar": "اعطني عامل التليفون من فضلك .",
+    "original_en": "The operator , please .",
+    "id": "m7918",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تعالى ، من فضلك .",
+    "ar_agg": "تعالى ، من فضلك .",
+    "en": "Come in , please .",
+    "original_ar": "تعالى ، من فضلك .",
+    "original_en": "Come in , please .",
+    "id": "m2605",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كم بالون هناك ؟",
+    "ar_agg": "كم بالون هناك ؟",
+    "en": "How many balloons are there ?",
+    "original_ar": "كم بالون هناك ؟",
+    "original_en": "How many balloons are there ?",
+    "id": "a1271",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صباح الخير يا PER:هدى .",
+    "ar_agg": "صباح الخير يا هدى .",
+    "en": "Good morning , Huda .",
+    "original_ar": "صباح الخير يا هدى .",
+    "original_en": "Good morning , Huda .",
+    "id": "a4932",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "هدى",
+          "tagged": "PER:هدى",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "الخط يقول ، الرقم صفر .",
+    "ar_agg": "الخط يقول ، الرقم صفر .",
+    "en": "The note says , 'The number is zero . '",
+    "original_ar": "الخط يقول ، الرقم صفر .",
+    "original_en": "The note says , 'The number is zero . '",
+    "id": "a9760",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لي ان اطلب منك ان تاخذني حتى موقف الاتوبيس ؟",
+    "ar_agg": "هل لي ان اطلب منك ان تاخذني حتى موقف الاتوبيس ؟",
+    "en": "May I ask you to take me to the bus stop ?",
+    "original_ar": "هل لي ان اطلب منك ان تاخذني حتى موقف الاتوبيس ؟",
+    "original_en": "May I ask you to take me to the bus stop ?",
+    "id": "m11273",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انها ممتازة . ساخذها .",
+    "ar_agg": "انها ممتازة . ساخذها .",
+    "en": "It is excellent . I will take it .",
+    "original_ar": "انها ممتازة . ساخذها .",
+    "original_en": "It is excellent . I will take it .",
+    "id": "a1779",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اسمك مرة ثانية ؟",
+    "ar_agg": "اسمك مرة ثانية ؟",
+    "en": "Your name again ?",
+    "original_ar": "اسمك مرة ثانية ؟",
+    "original_en": "Your name again ?",
+    "id": "m44",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اعطني خمسين ، من فضلك .",
+    "ar_agg": "اعطني خمسين ، من فضلك .",
+    "en": "Gimme fifty , please .",
+    "original_ar": "اعطني خمسين ، من فضلك .",
+    "original_en": "Gimme fifty , please .",
+    "id": "m10339",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نعم . ماذا يفعلان في الصباح الباكر ؟",
+    "ar_agg": "نعم . ماذا يفعلان في الصباح الباكر ؟",
+    "en": "Yes . What do they two do so early in the morning ?",
+    "original_ar": "نعم . ماذا يفعلان في الصباح الباكر ؟",
+    "original_en": "Yes . What do they two do so early in the morning ?",
+    "id": "a7300",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا , لم اذهب الى LOC:نيويورك .",
+    "ar_agg": "لا , لم اذهب الى نيويورك .",
+    "en": "No , I didn't go to LOC:New_York .",
+    "original_ar": "لا , لم اذهب الى نيويورك .",
+    "original_en": "No , I didn't go to New York .",
+    "id": "m2846",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "نيويورك",
+          "tagged": "LOC:نيويورك",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "New York",
+          "tagged": "LOC:New_York",
+          "positions": [
+            6,
+            7
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "من فضلك ارسل هذه كامتعة لا يرافقها صاحبها .",
+    "ar_agg": "من فضلك ارسل هذه كامتعة لا يرافقها صاحبها .",
+    "en": "Please send this as unaccompanied baggage .",
+    "original_ar": "من فضلك ارسل هذه كامتعة لا يرافقها صاحبها .",
+    "original_en": "Please send this as unaccompanied baggage .",
+    "id": "m9558",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بالتاكيد . سابدا بتجهيز السلطة الان .",
+    "ar_agg": "بالتاكيد . سابدا بتجهيز السلطة الان .",
+    "en": "Of course . I will start preparing the salad now .",
+    "original_ar": "بالتاكيد . سابدا بتجهيز السلطة الان .",
+    "original_en": "Of course . I will start preparing the salad now .",
+    "id": "a1349",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذه محفظتي .",
+    "ar_agg": "هذه محفظتي .",
+    "en": "That's my wallet .",
+    "original_ar": "هذه محفظتي .",
+    "original_en": "That's my wallet .",
+    "id": "m10927",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اراك غدا يا PER:فادي . مساء الخير .",
+    "ar_agg": "اراك غدا يا فادي . مساء الخير .",
+    "en": "See you tomorrow , Fadi . Good evening .",
+    "original_ar": "اراك غدا يا فادي . مساء الخير .",
+    "original_en": "See you tomorrow , Fadi . Good evening .",
+    "id": "a7895",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "فادي",
+          "tagged": "PER:فادي",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "حسنا يا PER:منى .",
+    "ar_agg": "حسنا يا منى .",
+    "en": "Okay , PER:Mona .",
+    "original_ar": "حسنا يا منى .",
+    "original_en": "Okay , Mona .",
+    "id": "a8939",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "منى",
+          "tagged": "PER:منى",
+          "positions": [
+            2
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Mona",
+          "tagged": "PER:Mona",
+          "positions": [
+            2
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "الجلسة التالية هي الجلسة الثالثة .",
+    "ar_agg": "الجلسة التالية هي الجلسة الثالثة .",
+    "en": "The next session is the third session .",
+    "original_ar": "الجلسة التالية هي الجلسة الثالثة .",
+    "original_en": "The next session is the third session .",
+    "id": "a1151",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لاننا نعتقد انه اكثر رسمية ويوضح كل شيء .",
+    "ar_agg": "لاننا نعتقد انه اكثر رسمية ويوضح كل شيء .",
+    "en": "Because we think it is more formal and explains everything .",
+    "original_ar": "لاننا نعتقد انه اكثر رسمية ويوضح كل شيء .",
+    "original_en": "Because we think it is more formal and explains everything .",
+    "id": "a7258",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اهلا بك . متى يناسبك الموعد ؟",
+    "ar_agg": "اهلا بك . متى يناسبك الموعد ؟",
+    "en": "Welcome . When is the appointment suitable for you ?",
+    "original_ar": "اهلا بك . متى يناسبك الموعد ؟",
+    "original_en": "Welcome . When is the appointment suitable for you ?",
+    "id": "a8688",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "من فضلكم ، لنبدا الاجتماع .",
+    "ar_agg": "من فضلكم ، لنبدا الاجتماع .",
+    "en": "Please , let's start the meeting .",
+    "original_ar": "من فضلكم ، لنبدا الاجتماع .",
+    "original_en": "Please , let's start the meeting .",
+    "id": "a7617",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا ، اريد ان استعير هذا الكتاب .",
+    "ar_agg": "مرحبا ، اريد ان استعير هذا الكتاب .",
+    "en": "Hello , I want to borrow this book .",
+    "original_ar": "مرحبا ، اريد ان استعير هذا الكتاب .",
+    "original_en": "Hello , I want to borrow this book .",
+    "id": "a1800",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كلا ، لم نتلق رسائل ، بيد ان هناك خطابا لك .",
+    "ar_agg": "كلا ، لم نتلق رسائل ، بيد ان هناك خطابا لك .",
+    "en": "No , we didn't receive messages , but there is a letter for you .",
+    "original_ar": "كلا ، لم نتلق رسائل ، بيد ان هناك خطابا لك .",
+    "original_en": "No , we didn't receive messages , but there is a letter for you .",
+    "id": "m5966",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا اسمي PER:سارة .",
+    "ar_agg": "انا اسمي سارة .",
+    "en": "My name is PER:Sarah .",
+    "original_ar": "انا اسمي سارة .",
+    "original_en": "My name is Sarah .",
+    "id": "a12961",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "سارة",
+          "tagged": "PER:سارة",
+          "positions": [
+            2
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Sarah",
+          "tagged": "PER:Sarah",
+          "positions": [
+            3
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "حسنا . وكم تحتاج للقميص الثاني ؟",
+    "ar_agg": "حسنا . وكم تحتاج للقميص الثاني ؟",
+    "en": "Okay . And how many do you need for the second shirt ?",
+    "original_ar": "حسنا . وكم تحتاج للقميص الثاني ؟",
+    "original_en": "Okay . And how many do you need for the second shirt ?",
+    "id": "a8251",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد ان اطلب مثلها . هل عندك رقم المخبز ؟",
+    "ar_agg": "اريد ان اطلب مثلها . هل عندك رقم المخبز ؟",
+    "en": "I want to order one like it . Do you have the bakery's number ?",
+    "original_ar": "اريد ان اطلب مثلها . هل عندك رقم المخبز ؟",
+    "original_en": "I want to order one like it . Do you have the bakery's number ?",
+    "id": "a4260",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "وهل هي قريبة من هنا ؟",
+    "ar_agg": "وهل هي قريبة من هنا ؟",
+    "en": "And is it near here ?",
+    "original_ar": "وهل هي قريبة من هنا ؟",
+    "original_en": "And is it near here ?",
+    "id": "a10751",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بالتاكيد . السعر خمسة عشر درهما .",
+    "ar_agg": "بالتاكيد . السعر خمسة عشر درهما .",
+    "en": "Of course . The price is fifteen dirhams .",
+    "original_ar": "بالتاكيد . السعر خمسة عشر درهما .",
+    "original_en": "Of course . The price is fifteen dirhams .",
+    "id": "a11753",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "معذرة . اريد ان اطلب طلب .",
+    "ar_agg": "معذرة . اريد ان اطلب طلب .",
+    "en": "Excuse me . I want to place order .",
+    "original_ar": "معذرة . اريد ان اطلب طلب .",
+    "original_en": "Excuse me . I want to place order .",
+    "id": "m8427",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "يجب على تغيير عدساتي اللاصقة . هذه هي التذكرة الطبية .",
+    "ar_agg": "يجب على تغيير عدساتي اللاصقة . هذه هي التذكرة الطبية .",
+    "en": "I have to change my contact lenses . Here's the prescription .",
+    "original_ar": "يجب على تغيير عدساتي اللاصقة . هذه هي التذكرة الطبية .",
+    "original_en": "I have to change my contact lenses . Here's the prescription .",
+    "id": "m10295",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انائم ؟",
+    "ar_agg": "انائم ؟",
+    "en": "Is it sleeping ?",
+    "original_ar": "انائم ؟",
+    "original_en": "Is it sleeping ?",
+    "id": "a7477",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "وعليكم السلام . طبعا ، ساشغل العداد الان .",
+    "ar_agg": "وعليكم السلام . طبعا ، ساشغل العداد الان .",
+    "en": "Hello to you too . Of course , I'll start the meter now .",
+    "original_ar": "وعليكم السلام . طبعا ، ساشغل العداد الان .",
+    "original_en": "Hello to you too . Of course , I'll start the meter now .",
+    "id": "a10948",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لديكم وجبات خفيفة ؟",
+    "ar_agg": "هل لديكم وجبات خفيفة ؟",
+    "en": "Do you have some snack ?",
+    "original_ar": "هل لديكم وجبات خفيفة ؟",
+    "original_en": "Do you have some snack ?",
+    "id": "m300",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا باس . الاقتراب من المعروضات ممنوع .",
+    "ar_agg": "لا باس . الاقتراب من المعروضات ممنوع .",
+    "en": "No problem . Getting close to the exhibits is forbidden .",
+    "original_ar": "لا باس . الاقتراب من المعروضات ممنوع .",
+    "original_en": "No problem . Getting close to the exhibits is forbidden .",
+    "id": "a6339",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا اسمعك .",
+    "ar_agg": "انا اسمعك .",
+    "en": "I hear you .",
+    "original_ar": "انا اسمعك .",
+    "original_en": "I hear you .",
+    "id": "m2818",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ماذا فعلت اليوم في البيت ؟",
+    "ar_agg": "ماذا فعلت اليوم في البيت ؟",
+    "en": "What did you do at home today ?",
+    "original_ar": "ماذا فعلت اليوم في البيت ؟",
+    "original_en": "What did you do at home today ?",
+    "id": "a2095",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "وعليكم السلام . كيف اساعدك ؟",
+    "ar_agg": "وعليكم السلام . كيف اساعدك ؟",
+    "en": "And upon you be peace . How can I help you ?",
+    "original_ar": "وعليكم السلام . كيف اساعدك ؟",
+    "original_en": "And upon you be peace . How can I help you ?",
+    "id": "a13496",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ابغي بعض الفلفل ، من فضلك ؟",
+    "ar_agg": "ابغي بعض الفلفل ، من فضلك ؟",
+    "en": "I'd like some pepper , please .",
+    "original_ar": "ابغي بعض الفلفل ، من فضلك ؟",
+    "original_en": "I'd like some pepper , please .",
+    "id": "m5837",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل تحتوي على حمام ومرحاض ؟",
+    "ar_agg": "هل تحتوي على حمام ومرحاض ؟",
+    "en": "Does it have a bath and a toilet ?",
+    "original_ar": "هل تحتوي على حمام ومرحاض ؟",
+    "original_en": "Does it have a bath and a toilet ?",
+    "id": "m352",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انظر يا صديقي ، هذا هاتف جديد .",
+    "ar_agg": "انظر يا صديقي ، هذا هاتف جديد .",
+    "en": "Look my friend , this is a new phone .",
+    "original_ar": "انظر يا صديقي ، هذا هاتف جديد .",
+    "original_en": "Look my friend , this is a new phone .",
+    "id": "a9965",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل تفتح في ايام الاحد ؟",
+    "ar_agg": "هل تفتح في ايام الاحد ؟",
+    "en": "Is it open on Sundays ?",
+    "original_ar": "هل تفتح في ايام الاحد ؟",
+    "original_en": "Is it open on Sundays ?",
+    "id": "m7444",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كتب . كم سيستغرق وصولها الى LOC:اليابان بالبريد الجوي ؟",
+    "ar_agg": "كتب . كم سيستغرق وصولها الى اليابان بالبريد الجوي ؟",
+    "en": "Books . How long will it take for them to reach LOC:Japan by air mail ?",
+    "original_ar": "كتب . كم سيستغرق وصولها الى اليابان بالبريد الجوي ؟",
+    "original_en": "Books . How long will it take for them to reach Japan by air mail ?",
+    "id": "m7250",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "اليابان",
+          "tagged": "LOC:اليابان",
+          "positions": [
+            6
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Japan",
+          "tagged": "LOC:Japan",
+          "positions": [
+            11
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "جيد . اينما تجدوا مكانا ، رتبوا البلاط .",
+    "ar_agg": "جيد . اينما تجدوا مكانا ، رتبوا البلاط .",
+    "en": "Good . Wherever you find a space , arrange the tiles .",
+    "original_ar": "جيد . اينما تجدوا مكانا ، رتبوا البلاط .",
+    "original_en": "Good . Wherever you find a space , arrange the tiles .",
+    "id": "a10896",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هي على الجانب الاخر من الشارع .",
+    "ar_agg": "هي على الجانب الاخر من الشارع .",
+    "en": "It is on the other side of the street .",
+    "original_ar": "هي على الجانب الاخر من الشارع .",
+    "original_en": "It is on the other side of the street .",
+    "id": "a414",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كم قميصا تريدين ان تغسلي ؟",
+    "ar_agg": "كم قميصا تريدين ان تغسلي ؟",
+    "en": "How many shirts do you want to wash ?",
+    "original_ar": "كم قميصا تريدين ان تغسلي ؟",
+    "original_en": "How many shirts do you want to wash ?",
+    "id": "a4842",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا لك . عفوا ، ما هي العيدية ؟",
+    "ar_agg": "شكرا لك . عفوا ، ما هي العيدية ؟",
+    "en": "Thank you . Excuse me , what is the MISC:Eidiyya ?",
+    "original_ar": "شكرا لك . عفوا ، ما هي العيدية ؟",
+    "original_en": "Thank you . Excuse me , what is the Eidiyya ?",
+    "id": "a13328",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "Eidiyya",
+          "tagged": "MISC:Eidiyya",
+          "positions": [
+            9
+          ],
+          "language": "en",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "المدير طلب متطوعا للسفر ؟",
+    "ar_agg": "المدير طلب متطوعا للسفر ؟",
+    "en": "The director asked for a volunteer to travel ?",
+    "original_ar": "المدير طلب متطوعا للسفر ؟",
+    "original_en": "The director asked for a volunteer to travel ?",
+    "id": "a9517",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل المعلمات هنا ؟",
+    "ar_agg": "هل المعلمات هنا ؟",
+    "en": "Are the female teachers here ?",
+    "original_ar": "هل المعلمات هنا ؟",
+    "original_en": "Are the female teachers here ?",
+    "id": "a5942",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "رحنا الى هناك وشاهدنا كل المدينة .",
+    "ar_agg": "رحنا الى هناك وشاهدنا كل المدينة .",
+    "en": "We went there and watched the whole city .",
+    "original_ar": "رحنا الى هناك وشاهدنا كل المدينة .",
+    "original_en": "We went there and watched the whole city .",
+    "id": "a2211",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "زرت صديقي في سكنه .",
+    "ar_agg": "زرت صديقي في سكنه .",
+    "en": "I visited my friend in his dorm .",
+    "original_ar": "زرت صديقي في سكنه .",
+    "original_en": "I visited my friend in his dorm .",
+    "id": "a3859",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "متى تعتقد سيتم ايجادها ؟",
+    "ar_agg": "متى تعتقد سيتم ايجادها ؟",
+    "en": "When do you think it will be found ?",
+    "original_ar": "متى تعتقد سيتم ايجادها ؟",
+    "original_en": "When do you think it will be found ?",
+    "id": "m8406",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا يا PER:فهد . انت تبدو سعيدا جدا اليوم .",
+    "ar_agg": "مرحبا يا فهد . انت تبدو سعيدا جدا اليوم .",
+    "en": "Hello , Fahd . You look very happy today .",
+    "original_ar": "مرحبا يا فهد . انت تبدو سعيدا جدا اليوم .",
+    "original_en": "Hello , Fahd . You look very happy today .",
+    "id": "a11294",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "فهد",
+          "tagged": "PER:فهد",
+          "positions": [
+            2
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "يا الهي ، انها جميلة جدا .",
+    "ar_agg": "يا الهي ، انها جميلة جدا .",
+    "en": "Oh my God , it's very beautiful .",
+    "original_ar": "يا الهي ، انها جميلة جدا .",
+    "original_en": "Oh my God , it's very beautiful .",
+    "id": "a227",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كيف اهيئ هذا الفلاش ؟",
+    "ar_agg": "كيف اهيئ هذا الفلاش ؟",
+    "en": "How can I fit this flash ?",
+    "original_ar": "كيف اهيئ هذا الفلاش ؟",
+    "original_en": "How can I fit this flash ?",
+    "id": "m5515",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اربعة وعشرين MISC:دولارا . هل تريد المزيد ؟",
+    "ar_agg": "اربعة وعشرين دولارا . هل تريد المزيد ؟",
+    "en": "Twenty - four dollars . Do you want more ?",
+    "original_ar": "اربعة وعشرين دولارا . هل تريد المزيد ؟",
+    "original_en": "Twenty - four dollars . Do you want more ?",
+    "id": "m3883",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "دولارا",
+          "tagged": "MISC:دولارا",
+          "positions": [
+            2
+          ],
+          "language": "ar",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اسمي PER:احمد . انا من LOC:مصر .",
+    "ar_agg": "اسمي احمد . انا من مصر .",
+    "en": "My name is PER:Ahmed . I am from LOC:Egypt .",
+    "original_ar": "اسمي احمد . انا من مصر .",
+    "original_en": "My name is Ahmed . I am from Egypt .",
+    "id": "a3525",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "احمد",
+          "tagged": "PER:احمد",
+          "positions": [
+            1
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "مصر",
+          "tagged": "LOC:مصر",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Ahmed",
+          "tagged": "PER:Ahmed",
+          "positions": [
+            3
+          ],
+          "language": "en",
+          "type": "PER"
+        },
+        {
+          "original": "Egypt",
+          "tagged": "LOC:Egypt",
+          "positions": [
+            8
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "ربما .",
+    "ar_agg": "ربما .",
+    "en": "Maybe .",
+    "original_ar": "ربما .",
+    "original_en": "Maybe .",
+    "id": "m6857",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل الفه ؟",
+    "ar_agg": "هل الفه ؟",
+    "en": "Shall I wrap it ?",
+    "original_ar": "هل الفه ؟",
+    "original_en": "Shall I wrap it ?",
+    "id": "m1323",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا . سوف ارسل الخادمة حالا لتفتح الباب بالمفتاح الاساسي . ما رقم غرفتك ؟",
+    "ar_agg": "حسنا . سوف ارسل الخادمة حالا لتفتح الباب بالمفتاح الاساسي . ما رقم غرفتك ؟",
+    "en": "Okay . I'll send our housekeeper right away to open the door with a master key . What is your room number ?",
+    "original_ar": "حسنا . سوف ارسل الخادمة حالا لتفتح الباب بالمفتاح الاساسي . ما رقم غرفتك ؟",
+    "original_en": "Okay . I'll send our housekeeper right away to open the door with a master key . What is your room number ?",
+    "id": "m8436",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما رايك في الطعام ؟",
+    "ar_agg": "ما رايك في الطعام ؟",
+    "en": "How is the food ?",
+    "original_ar": "ما رايك في الطعام ؟",
+    "original_en": "How is the food ?",
+    "id": "m8554",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ايهما تفضل , مقعد مسموح فيه التدخين ام مقعد ممنوع فيه التدخين ؟",
+    "ar_agg": "ايهما تفضل , مقعد مسموح فيه التدخين ام مقعد ممنوع فيه التدخين ؟",
+    "en": "Which would you prefer , a smoking seat or a non - smoking seat ?",
+    "original_ar": "ايهما تفضل , مقعد مسموح فيه التدخين ام مقعد ممنوع فيه التدخين ؟",
+    "original_en": "Which would you prefer , a smoking seat or a non - smoking seat ?",
+    "id": "m1959",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما هو الحد الادنى لسن التصويت في LOC:اليابان ؟",
+    "ar_agg": "ما هو الحد الادنى لسن التصويت في اليابان ؟",
+    "en": "What is the minimum voting age in LOC:Japan ?",
+    "original_ar": "ما هو الحد الادنى لسن التصويت في اليابان ؟",
+    "original_en": "What is the minimum voting age in Japan ?",
+    "id": "m4533",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "اليابان",
+          "tagged": "LOC:اليابان",
+          "positions": [
+            7
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Japan",
+          "tagged": "LOC:Japan",
+          "positions": [
+            7
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "طفل جميل جدا .",
+    "ar_agg": "طفل جميل جدا .",
+    "en": "A very beautiful baby .",
+    "original_ar": "طفل جميل جدا .",
+    "original_en": "A very beautiful baby .",
+    "id": "a12660",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذه القطعة الاثرية من العصر القديم .",
+    "ar_agg": "هذه القطعة الاثرية من العصر القديم .",
+    "en": "This artifact is from the ancient era .",
+    "original_ar": "هذه القطعة الاثرية من العصر القديم .",
+    "original_en": "This artifact is from the ancient era .",
+    "id": "a12732",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل هناك ثلج كثير ؟",
+    "ar_agg": "هل هناك ثلج كثير ؟",
+    "en": "Is there a lot of snow ?",
+    "original_ar": "هل هناك ثلج كثير ؟",
+    "original_en": "Is there a lot of snow ?",
+    "id": "a8215",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "رقم هاتفي هو صفر خمسة خمسة .",
+    "ar_agg": "رقم هاتفي هو صفر خمسة خمسة .",
+    "en": "My phone number is zero five five .",
+    "original_ar": "رقم هاتفي هو صفر خمسة خمسة .",
+    "original_en": "My phone number is zero five five .",
+    "id": "a3702",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كان اسبوعا طويلا . ماذا فعلت يوم الثلاثاء ؟",
+    "ar_agg": "كان اسبوعا طويلا . ماذا فعلت يوم الثلاثاء ؟",
+    "en": "It was a long week . What did you do on Tuesday ?",
+    "original_ar": "كان اسبوعا طويلا . ماذا فعلت يوم الثلاثاء ؟",
+    "original_en": "It was a long week . What did you do on Tuesday ?",
+    "id": "a11341",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صباح الخير يا ابنتي .",
+    "ar_agg": "صباح الخير يا ابنتي .",
+    "en": "Good morning , my daughter .",
+    "original_ar": "صباح الخير يا ابنتي .",
+    "original_en": "Good morning , my daughter .",
+    "id": "a9301",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل ارجاعها الى قسم التاريخ ؟",
+    "ar_agg": "هل ارجاعها الى قسم التاريخ ؟",
+    "en": "Is their return to the history section ?",
+    "original_ar": "هل ارجاعها الى قسم التاريخ ؟",
+    "original_en": "Is their return to the history section ?",
+    "id": "a1220",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا نسخة في المحل .",
+    "ar_agg": "لا نسخة في المحل .",
+    "en": "There is absolutely no copy in the store .",
+    "original_ar": "لا نسخة في المحل .",
+    "original_en": "There is absolutely no copy in the store .",
+    "id": "a2009",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نعم ، يا سيدي PER:بيرو_جينو على الجانب الغربي .",
+    "ar_agg": "نعم ، يا سيدي بيرو جينو على الجانب الغربي .",
+    "en": "Yes , sir . Perugino on the west side .",
+    "original_ar": "نعم ، يا سيدي بيرو جينو على الجانب الغربي .",
+    "original_en": "Yes , sir . Perugino on the west side .",
+    "id": "m7102",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "بيرو جينو",
+          "tagged": "PER:بيرو_جينو",
+          "positions": [
+            4,
+            5
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "هل لك ان تجعل الترموستات اكثر دفا من فضلك ؟",
+    "ar_agg": "هل لك ان تجعل الترموستات اكثر دفا من فضلك ؟",
+    "en": "Will you please make the thermostat warmer ?",
+    "original_ar": "هل لك ان تجعل الترموستات اكثر دفا من فضلك ؟",
+    "original_en": "Will you please make the thermostat warmer ?",
+    "id": "m9854",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا ، اين انت الان ؟",
+    "ar_agg": "مرحبا ، اين انت الان ؟",
+    "en": "Hello , where are you now ?",
+    "original_ar": "مرحبا ، اين انت الان ؟",
+    "original_en": "Hello , where are you now ?",
+    "id": "a9308",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا ، الحفلة تبدا قريبا .",
+    "ar_agg": "حسنا ، الحفلة تبدا قريبا .",
+    "en": "Okay , the party starts soon .",
+    "original_ar": "حسنا ، الحفلة تبدا قريبا .",
+    "original_en": "Okay , the party starts soon .",
+    "id": "a12076",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل عندكم اية شربة بصل ؟",
+    "ar_agg": "هل عندكم اية شربة بصل ؟",
+    "en": "Do you have any onion soup ?",
+    "original_ar": "هل عندكم اية شربة بصل ؟",
+    "original_en": "Do you have any onion soup ?",
+    "id": "m5485",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اود ذلك لكنني مضطر للذهاب . فقد يفوتني اخر قطار . لقد سعدت بالحديث معك .",
+    "ar_agg": "اود ذلك لكنني مضطر للذهاب . فقد يفوتني اخر قطار . لقد سعدت بالحديث معك .",
+    "en": "I'd like to , but I'm afraid I really have to go . I may miss the last train . I enjoyed talking to you .",
+    "original_ar": "اود ذلك لكنني مضطر للذهاب . فقد يفوتني اخر قطار . لقد سعدت بالحديث معك .",
+    "original_en": "I'd like to , but I'm afraid I really have to go . I may miss the last train . I enjoyed talking to you .",
+    "id": "m6270",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نعم ، هذا صحيح .",
+    "ar_agg": "نعم ، هذا صحيح .",
+    "en": "Yes , that is correct .",
+    "original_ar": "نعم ، هذا صحيح .",
+    "original_en": "Yes , that is correct .",
+    "id": "a13485",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تفضل يا PER:علي ، ما هو سؤالك ؟",
+    "ar_agg": "تفضل يا علي ، ما هو سؤالك ؟",
+    "en": "Go ahead PER:Ali , what is your question ?",
+    "original_ar": "تفضل يا علي ، ما هو سؤالك ؟",
+    "original_en": "Go ahead Ali , what is your question ?",
+    "id": "a1600",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "علي",
+          "tagged": "PER:علي",
+          "positions": [
+            2
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Ali",
+          "tagged": "PER:Ali",
+          "positions": [
+            2
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "نعم ، يا خباز .",
+    "ar_agg": "نعم ، يا خباز .",
+    "en": "Yes , baker .",
+    "original_ar": "نعم ، يا خباز .",
+    "original_en": "Yes , baker .",
+    "id": "a5241",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا موعد اليوم .",
+    "ar_agg": "لا موعد اليوم .",
+    "en": "There is absolutely no appointment today .",
+    "original_ar": "لا موعد اليوم .",
+    "original_en": "There is absolutely no appointment today .",
+    "id": "a1749",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كيف تسير الامور ؟",
+    "ar_agg": "كيف تسير الامور ؟",
+    "en": "How is it coming ?",
+    "original_ar": "كيف تسير الامور ؟",
+    "original_en": "How is it coming ?",
+    "id": "m11944",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "فكرة جيدة . وماذا بعد ذلك ؟",
+    "ar_agg": "فكرة جيدة . وماذا بعد ذلك ؟",
+    "en": "Good idea . And what after that ?",
+    "original_ar": "فكرة جيدة . وماذا بعد ذلك ؟",
+    "original_en": "Good idea . And what after that ?",
+    "id": "a2231",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا ، ما هو ، رايك ؟ اود بالتاكيد ان استمع الى وجهات نظرك .",
+    "ar_agg": "حسنا ، ما هو ، رايك ؟ اود بالتاكيد ان استمع الى وجهات نظرك .",
+    "en": "Well , what's your , opinion ? I'd certainly like to hear your views .",
+    "original_ar": "حسنا ، ما هو ، رايك ؟ اود بالتاكيد ان استمع الى وجهات نظرك .",
+    "original_en": "Well , what's your , opinion ? I'd certainly like to hear your views .",
+    "id": "m1780",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذه التذكرة لمقعد في الصالة . لكنك تجلس في الشرفة .",
+    "ar_agg": "هذه التذكرة لمقعد في الصالة . لكنك تجلس في الشرفة .",
+    "en": "This ticket is for an orchestra seat . You're in the balcony .",
+    "original_ar": "هذه التذكرة لمقعد في الصالة . لكنك تجلس في الشرفة .",
+    "original_en": "This ticket is for an orchestra seat . You're in the balcony .",
+    "id": "m5988",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "للاسف ليس لدي حجز ، ولكن هل لديكم مائدة ؟",
+    "ar_agg": "للاسف ليس لدي حجز ، ولكن هل لديكم مائدة ؟",
+    "en": "I'm afraid I don't have a reservation , but do you have a table ?",
+    "original_ar": "للاسف ليس لدي حجز ، ولكن هل لديكم مائدة ؟",
+    "original_en": "I'm afraid I don't have a reservation , but do you have a table ?",
+    "id": "m5174",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "امين . هذا دعاء جميل .",
+    "ar_agg": "امين . هذا دعاء جميل .",
+    "en": "Amen . This is a beautiful prayer .",
+    "original_ar": "امين . هذا دعاء جميل .",
+    "original_en": "Amen . This is a beautiful prayer .",
+    "id": "a2961",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ايها السادة والسيدات ، مرحبا بكم جميعا .",
+    "ar_agg": "ايها السادة والسيدات ، مرحبا بكم جميعا .",
+    "en": "O gentlemen and ladies , welcome to you all .",
+    "original_ar": "ايها السادة والسيدات ، مرحبا بكم جميعا .",
+    "original_en": "O gentlemen and ladies , welcome to you all .",
+    "id": "a9973",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لدي حجز يا اكياما .",
+    "ar_agg": "لدي حجز يا اكياما .",
+    "en": "I have a reservation , Akiyama .",
+    "original_ar": "لدي حجز يا اكياما .",
+    "original_en": "I have a reservation , Akiyama .",
+    "id": "m9225",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اود بعضا من النبيذ البرتغالي .",
+    "ar_agg": "اود بعضا من النبيذ البرتغالي .",
+    "en": "I'd like some port .",
+    "original_ar": "اود بعضا من النبيذ البرتغالي .",
+    "original_en": "I'd like some port .",
+    "id": "m4129",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حافلة رقم اثني عشر تذهب للمركز .",
+    "ar_agg": "حافلة رقم اثني عشر تذهب للمركز .",
+    "en": "Bus number twelve goes to the city center .",
+    "original_ar": "حافلة رقم اثني عشر تذهب للمركز .",
+    "original_en": "Bus number twelve goes to the city center .",
+    "id": "a13218",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد ان احصل على تعويض لذلك .",
+    "ar_agg": "اريد ان احصل على تعويض لذلك .",
+    "en": "I'd like to get a refund for this .",
+    "original_ar": "اريد ان احصل على تعويض لذلك .",
+    "original_en": "I'd like to get a refund for this .",
+    "id": "m1306",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل هناك اي حافلات لمشاهدة المعالم ؟",
+    "ar_agg": "هل هناك اي حافلات لمشاهدة المعالم ؟",
+    "en": "Are there any sightseeing buses ?",
+    "original_ar": "هل هناك اي حافلات لمشاهدة المعالم ؟",
+    "original_en": "Are there any sightseeing buses ?",
+    "id": "m3203",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا ، اين اجد زجاجة الزيت ؟",
+    "ar_agg": "مرحبا ، اين اجد زجاجة الزيت ؟",
+    "en": "Hello , where do I find the bottle of oil ?",
+    "original_ar": "مرحبا ، اين اجد زجاجة الزيت ؟",
+    "original_en": "Hello , where do I find the bottle of oil ?",
+    "id": "a3418",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لقد احضرت اكثر من المسموح به .",
+    "ar_agg": "لقد احضرت اكثر من المسموح به .",
+    "en": "You have brought more than is allowed .",
+    "original_ar": "لقد احضرت اكثر من المسموح به .",
+    "original_en": "You have brought more than is allowed .",
+    "id": "m8555",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لحظة ، سانظر في التقويم .",
+    "ar_agg": "لحظة ، سانظر في التقويم .",
+    "en": "One moment , I will look at the calendar .",
+    "original_ar": "لحظة ، سانظر في التقويم .",
+    "original_en": "One moment , I will look at the calendar .",
+    "id": "a10540",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لديك ساعات تملا يدويا ؟",
+    "ar_agg": "هل لديك ساعات تملا يدويا ؟",
+    "en": "Do you have any hand - wound watches ?",
+    "original_ar": "هل لديك ساعات تملا يدويا ؟",
+    "original_en": "Do you have any hand - wound watches ?",
+    "id": "m7628",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "متي تفتحون ؟",
+    "ar_agg": "متي تفتحون ؟",
+    "en": "When are you open ?",
+    "original_ar": "متي تفتحون ؟",
+    "original_en": "When are you open ?",
+    "id": "m10211",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لديكم اطباق ذات سعرات حرارية منخفضة ؟ فانا اتبع نظاما غذائيا حاليا .",
+    "ar_agg": "هل لديكم اطباق ذات سعرات حرارية منخفضة ؟ فانا اتبع نظاما غذائيا حاليا .",
+    "en": "Do you have some low calory dishes ? I'm on a diet , now .",
+    "original_ar": "هل لديكم اطباق ذات سعرات حرارية منخفضة ؟ فانا اتبع نظاما غذائيا حاليا .",
+    "original_en": "Do you have some low calory dishes ? I'm on a diet , now .",
+    "id": "m9323",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كيف حال دراستك للعربية يا PER:علي ؟",
+    "ar_agg": "كيف حال دراستك للعربية يا علي ؟",
+    "en": "How are your MISC:Arabic studies going , PER:Ali ?",
+    "original_ar": "كيف حال دراستك للعربية يا علي ؟",
+    "original_en": "How are your Arabic studies going , Ali ?",
+    "id": "a6668",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "علي",
+          "tagged": "PER:علي",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Arabic",
+          "tagged": "MISC:Arabic",
+          "positions": [
+            3
+          ],
+          "language": "en",
+          "type": "MISC"
+        },
+        {
+          "original": "Ali",
+          "tagged": "PER:Ali",
+          "positions": [
+            7
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "نريد ان نشاهد فيلم الرسوم المتحركة الجديد .",
+    "ar_agg": "نريد ان نشاهد فيلم الرسوم المتحركة الجديد .",
+    "en": "We want to watch the new animated movie .",
+    "original_ar": "نريد ان نشاهد فيلم الرسوم المتحركة الجديد .",
+    "original_en": "We want to watch the new animated movie .",
+    "id": "a1768",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد الروبوت .",
+    "ar_agg": "اريد الروبوت .",
+    "en": "I want the robot .",
+    "original_ar": "اريد الروبوت .",
+    "original_en": "I want the robot .",
+    "id": "a11716",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل هناك قطار سريع ؟",
+    "ar_agg": "هل هناك قطار سريع ؟",
+    "en": "Is there an express ?",
+    "original_ar": "هل هناك قطار سريع ؟",
+    "original_en": "Is there an express ?",
+    "id": "m1294",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذا رسمي .",
+    "ar_agg": "هذا رسمي .",
+    "en": "This is my drawing .",
+    "original_ar": "هذا رسمي .",
+    "original_en": "This is my drawing .",
+    "id": "a10658",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "سيكون جاهزا بعد غد في المساء .",
+    "ar_agg": "سيكون جاهزا بعد غد في المساء .",
+    "en": "It will be ready the day after tomorrow in the evening .",
+    "original_ar": "سيكون جاهزا بعد غد في المساء .",
+    "original_en": "It will be ready the day after tomorrow in the evening .",
+    "id": "m5360",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لديك هذا بلون مختلف ؟",
+    "ar_agg": "هل لديك هذا بلون مختلف ؟",
+    "en": "Do you have this in another color ?",
+    "original_ar": "هل لديك هذا بلون مختلف ؟",
+    "original_en": "Do you have this in another color ?",
+    "id": "m11070",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا لك . الى اللقاء يا PER:فاطمة .",
+    "ar_agg": "شكرا لك . الى اللقاء يا فاطمة .",
+    "en": "Thank you . Goodbye , Fatima .",
+    "original_ar": "شكرا لك . الى اللقاء يا فاطمة .",
+    "original_en": "Thank you . Goodbye , Fatima .",
+    "id": "a6298",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "فاطمة",
+          "tagged": "PER:فاطمة",
+          "positions": [
+            6
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "والمشروبات كلفت ستة دنانير .",
+    "ar_agg": "والمشروبات كلفت ستة دنانير .",
+    "en": "And the drinks cost six dinars .",
+    "original_ar": "والمشروبات كلفت ستة دنانير .",
+    "original_en": "And the drinks cost six dinars .",
+    "id": "a1453",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عظيم . سنحتفل يوم الجمعة . الاطباق ستكون لذيذة .",
+    "ar_agg": "عظيم . سنحتفل يوم الجمعة . الاطباق ستكون لذيذة .",
+    "en": "Great . We will celebrate on Friday . The dishes will be delicious .",
+    "original_ar": "عظيم . سنحتفل يوم الجمعة . الاطباق ستكون لذيذة .",
+    "original_en": "Great . We will celebrate on Friday . The dishes will be delicious .",
+    "id": "a11064",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تفضلي . الرقم هو خمسون ستون .",
+    "ar_agg": "تفضلي . الرقم هو خمسون ستون .",
+    "en": "Here you go . The number is fifty sixty .",
+    "original_ar": "تفضلي . الرقم هو خمسون ستون .",
+    "original_en": "Here you go . The number is fifty sixty .",
+    "id": "a7004",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد فندقا غرفه تطل على البحر .",
+    "ar_agg": "اريد فندقا غرفه تطل على البحر .",
+    "en": "I want a hotel whose rooms overlook the sea .",
+    "original_ar": "اريد فندقا غرفه تطل على البحر .",
+    "original_en": "I want a hotel whose rooms overlook the sea .",
+    "id": "a7807",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لقد اتلفت حقيبتي .",
+    "ar_agg": "لقد اتلفت حقيبتي .",
+    "en": "My suitcase is damaged .",
+    "original_ar": "لقد اتلفت حقيبتي .",
+    "original_en": "My suitcase is damaged .",
+    "id": "m7597",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا سعيد لانك احببتها . لقد حصلت عليها عبر صفقة بيع في محل متعدد الاقسام ORG:ايه_بي_سي .",
+    "ar_agg": "انا سعيد لانك احببتها . لقد حصلت عليها عبر صفقة بيع في محل متعدد الاقسام ايه بي سي .",
+    "en": "I'm glad you like it . I got it at a bargain sale at ORG:ABC_Department_Store .",
+    "original_ar": "انا سعيد لانك احببتها . لقد حصلت عليها عبر صفقة بيع في محل متعدد الاقسام ايه بي سي .",
+    "original_en": "I'm glad you like it . I got it at a bargain sale at ABC Department Store .",
+    "id": "m1058",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "ايه بي سي",
+          "tagged": "ORG:ايه_بي_سي",
+          "positions": [
+            15,
+            16,
+            17
+          ],
+          "language": "ar",
+          "type": "ORG"
+        },
+        {
+          "original": "ABC Department Store",
+          "tagged": "ORG:ABC_Department_Store",
+          "positions": [
+            14,
+            15,
+            16
+          ],
+          "language": "en",
+          "type": "ORG"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "تستطيع اجراء اتصال مباشر من غرفتك .",
+    "ar_agg": "تستطيع اجراء اتصال مباشر من غرفتك .",
+    "en": "You can make a direct call from your room .",
+    "original_ar": "تستطيع اجراء اتصال مباشر من غرفتك .",
+    "original_en": "You can make a direct call from your room .",
+    "id": "m9527",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل انت مستعد يا PER:احمد ؟",
+    "ar_agg": "هل انت مستعد يا احمد ؟",
+    "en": "Are you ready , PER:Ahmed ?",
+    "original_ar": "هل انت مستعد يا احمد ؟",
+    "original_en": "Are you ready , Ahmed ?",
+    "id": "a9065",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "احمد",
+          "tagged": "PER:احمد",
+          "positions": [
+            4
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Ahmed",
+          "tagged": "PER:Ahmed",
+          "positions": [
+            4
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اولا ، اغلي الماء في قدر كبير .",
+    "ar_agg": "اولا ، اغلي الماء في قدر كبير .",
+    "en": "First , I boil water in a big pot .",
+    "original_ar": "اولا ، اغلي الماء في قدر كبير .",
+    "original_en": "First , I boil water in a big pot .",
+    "id": "a12288",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ليس لدي حجز هنا , و لكن هل لديك غرفة لليلتين ؟",
+    "ar_agg": "ليس لدي حجز هنا , و لكن هل لديك غرفة لليلتين ؟",
+    "en": "I don't have a reservation here , but do you have a room for two nights ?",
+    "original_ar": "ليس لدي حجز هنا , و لكن هل لديك غرفة لليلتين ؟",
+    "original_en": "I don't have a reservation here , but do you have a room for two nights ?",
+    "id": "m8960",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "خمسة ، ستة .",
+    "ar_agg": "خمسة ، ستة .",
+    "en": "Five , six .",
+    "original_ar": "خمسة ، ستة .",
+    "original_en": "Five , six .",
+    "id": "a5273",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الغذاء الرئيسي في LOC:اليابان هو الارز .",
+    "ar_agg": "الغذاء الرئيسي في اليابان هو الارز .",
+    "en": "The main diet in LOC:Japan is rice .",
+    "original_ar": "الغذاء الرئيسي في اليابان هو الارز .",
+    "original_en": "The main diet in Japan is rice .",
+    "id": "m3263",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "اليابان",
+          "tagged": "LOC:اليابان",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Japan",
+          "tagged": "LOC:Japan",
+          "positions": [
+            4
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اريد بعض الالياف الصناعية .",
+    "ar_agg": "اريد بعض الالياف الصناعية .",
+    "en": "I want some synthetic fiber .",
+    "original_ar": "اريد بعض الالياف الصناعية .",
+    "original_en": "I want some synthetic fiber .",
+    "id": "m2971",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ممر رقم سبعة .",
+    "ar_agg": "ممر رقم سبعة .",
+    "en": "Aisle number seven .",
+    "original_ar": "ممر رقم سبعة .",
+    "original_en": "Aisle number seven .",
+    "id": "m7295",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ساذهب الى البوابة على الكرسي المتحرك الخاص بي .",
+    "ar_agg": "ساذهب الى البوابة على الكرسي المتحرك الخاص بي .",
+    "en": "I'll go to the gate in my wheelchair .",
+    "original_ar": "ساذهب الى البوابة على الكرسي المتحرك الخاص بي .",
+    "original_en": "I'll go to the gate in my wheelchair .",
+    "id": "m9888",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا ، انا لست جائعة .",
+    "ar_agg": "لا ، انا لست جائعة .",
+    "en": "No , I am not hungry .",
+    "original_ar": "لا ، انا لست جائعة .",
+    "original_en": "No , I am not hungry .",
+    "id": "a6799",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "في اي وقت اعاود الاتصال بك ؟",
+    "ar_agg": "في اي وقت اعاود الاتصال بك ؟",
+    "en": "What time shall I call you back ?",
+    "original_ar": "في اي وقت اعاود الاتصال بك ؟",
+    "original_en": "What time shall I call you back ?",
+    "id": "m5218",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بكم هذا ؟",
+    "ar_agg": "بكم هذا ؟",
+    "en": "How much is this ?",
+    "original_ar": "بكم هذا ؟",
+    "original_en": "How much is this ?",
+    "id": "a12746",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذا مقعد .",
+    "ar_agg": "هذا مقعد .",
+    "en": "This is a bench .",
+    "original_ar": "هذا مقعد .",
+    "original_en": "This is a bench .",
+    "id": "a7745",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نعم ، لدينا ساحة للعب متاحة في الساعة الثانية واخرى في الساعة الرابعة .",
+    "ar_agg": "نعم ، لدينا ساحة للعب متاحة في الساعة الثانية واخرى في الساعة الرابعة .",
+    "en": "Yes , we have a court available at two o'clock and another one at four .",
+    "original_ar": "نعم ، لدينا ساحة للعب متاحة في الساعة الثانية واخرى في الساعة الرابعة .",
+    "original_en": "Yes , we have a court available at two o'clock and another one at four .",
+    "id": "m4772",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "امش الى نهاية الممر . المحل على يسارك .",
+    "ar_agg": "امش الى نهاية الممر . المحل على يسارك .",
+    "en": "Walk to the end of the hallway . The store is on your left .",
+    "original_ar": "امش الى نهاية الممر . المحل على يسارك .",
+    "original_en": "Walk to the end of the hallway . The store is on your left .",
+    "id": "a3812",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا ، اريد الكتاب ذا الغلاف الاحمر .",
+    "ar_agg": "لا ، اريد الكتاب ذا الغلاف الاحمر .",
+    "en": "No , I want the book with the red cover .",
+    "original_ar": "لا ، اريد الكتاب ذا الغلاف الاحمر .",
+    "original_en": "No , I want the book with the red cover .",
+    "id": "a6316",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ذهبت الى المكتبة اولا .",
+    "ar_agg": "ذهبت الى المكتبة اولا .",
+    "en": "I went to the library first .",
+    "original_ar": "ذهبت الى المكتبة اولا .",
+    "original_en": "I went to the library first .",
+    "id": "a7147",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "من فضلك تكلم ببطء . انا لا افهم جيدا .",
+    "ar_agg": "من فضلك تكلم ببطء . انا لا افهم جيدا .",
+    "en": "Please speak slowly . I don't understand too well .",
+    "original_ar": "من فضلك تكلم ببطء . انا لا افهم جيدا .",
+    "original_en": "Please speak slowly . I don't understand too well .",
+    "id": "m5317",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا حقا لا اعرف . هل يمكنك اخذ مقاسي ، لطفا ؟",
+    "ar_agg": "انا حقا لا اعرف . هل يمكنك اخذ مقاسي ، لطفا ؟",
+    "en": "I really don't know . Could you measure me , please ?",
+    "original_ar": "انا حقا لا اعرف . هل يمكنك اخذ مقاسي ، لطفا ؟",
+    "original_en": "I really don't know . Could you measure me , please ?",
+    "id": "m5148",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "سنضطر ان ننتظر على الاقل لنصف ساعة .",
+    "ar_agg": "سنضطر ان ننتظر على الاقل لنصف ساعة .",
+    "en": "We'll have to wait at least half an hour .",
+    "original_ar": "سنضطر ان ننتظر على الاقل لنصف ساعة .",
+    "original_en": "We'll have to wait at least half an hour .",
+    "id": "m5536",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ممتاز . شكرا لك يا PER:مريم .",
+    "ar_agg": "ممتاز . شكرا لك يا مريم .",
+    "en": "Excellent . Thank you , Mariam .",
+    "original_ar": "ممتاز . شكرا لك يا مريم .",
+    "original_en": "Excellent . Thank you , Mariam .",
+    "id": "a123",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "مريم",
+          "tagged": "PER:مريم",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "هل يمكنك ان تخبرني اين مقعدي ؟",
+    "ar_agg": "هل يمكنك ان تخبرني اين مقعدي ؟",
+    "en": "Can you tell me where my seat is ?",
+    "original_ar": "هل يمكنك ان تخبرني اين مقعدي ؟",
+    "original_en": "Can you tell me where my seat is ?",
+    "id": "m4053",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا . ما نوع الوظائف التي تقوم بها ؟",
+    "ar_agg": "شكرا . ما نوع الوظائف التي تقوم بها ؟",
+    "en": "Thank you . What kind of functions does it have ?",
+    "original_ar": "شكرا . ما نوع الوظائف التي تقوم بها ؟",
+    "original_en": "Thank you . What kind of functions does it have ?",
+    "id": "m7515",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما رايك في هذه اللوحة ؟",
+    "ar_agg": "ما رايك في هذه اللوحة ؟",
+    "en": "What is your opinion of this painting ?",
+    "original_ar": "ما رايك في هذه اللوحة ؟",
+    "original_en": "What is your opinion of this painting ?",
+    "id": "a4883",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد التغيير لرحلة بعد الظهر .",
+    "ar_agg": "اريد التغيير لرحلة بعد الظهر .",
+    "en": "I want to change to an afternoon flight .",
+    "original_ar": "اريد التغيير لرحلة بعد الظهر .",
+    "original_en": "I want to change to an afternoon flight .",
+    "id": "m2280",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اجل ، حسنا .",
+    "ar_agg": "اجل ، حسنا .",
+    "en": "Yes , Okay .",
+    "original_ar": "اجل ، حسنا .",
+    "original_en": "Yes , Okay .",
+    "id": "m9830",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تمام . اراك غدا اذن . مع السلامة .",
+    "ar_agg": "تمام . اراك غدا اذن . مع السلامة .",
+    "en": "Okay . I'll see you tomorrow then . Goodbye .",
+    "original_ar": "تمام . اراك غدا اذن . مع السلامة .",
+    "original_en": "Okay . I'll see you tomorrow then . Goodbye .",
+    "id": "a2479",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اخبرت ان لديكم فاكسا لي .",
+    "ar_agg": "اخبرت ان لديكم فاكسا لي .",
+    "en": "I was told you had a fax for me .",
+    "original_ar": "اخبرت ان لديكم فاكسا لي .",
+    "original_en": "I was told you had a fax for me .",
+    "id": "m3528",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "معذرة , هل لك ان تزكي لي فندقا ؟",
+    "ar_agg": "معذرة , هل لك ان تزكي لي فندقا ؟",
+    "en": "Excuse me , can you recommend a hotel to me ?",
+    "original_ar": "معذرة , هل لك ان تزكي لي فندقا ؟",
+    "original_en": "Excuse me , can you recommend a hotel to me ?",
+    "id": "m9383",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا لست بخير . انا متعبة .",
+    "ar_agg": "انا لست بخير . انا متعبة .",
+    "en": "I am not well . I am tired .",
+    "original_ar": "انا لست بخير . انا متعبة .",
+    "original_en": "I am not well . I am tired .",
+    "id": "a4042",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ايتها الجماهير العظيمة !",
+    "ar_agg": "ايتها الجماهير العظيمة !",
+    "en": "Oh , you great masses !",
+    "original_ar": "ايتها الجماهير العظيمة !",
+    "original_en": "Oh , you great masses !",
+    "id": "a4326",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا اتي ثلاث مرات في الاسبوع .",
+    "ar_agg": "انا اتي ثلاث مرات في الاسبوع .",
+    "en": "I come three times a week .",
+    "original_ar": "انا اتي ثلاث مرات في الاسبوع .",
+    "original_en": "I come three times a week .",
+    "id": "a1144",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد مقعدا جيدا من فضلك .",
+    "ar_agg": "اريد مقعدا جيدا من فضلك .",
+    "en": "I want a good seat , please .",
+    "original_ar": "اريد مقعدا جيدا من فضلك .",
+    "original_en": "I want a good seat , please .",
+    "id": "a7699",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "امي ، انا اذهب .",
+    "ar_agg": "امي ، انا اذهب .",
+    "en": "My mom , I am going .",
+    "original_ar": "امي ، انا اذهب .",
+    "original_en": "My mom , I am going .",
+    "id": "a9749",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا . خذي الخبز .",
+    "ar_agg": "حسنا . خذي الخبز .",
+    "en": "Okay . Take the bread .",
+    "original_ar": "حسنا . خذي الخبز .",
+    "original_en": "Okay . Take the bread .",
+    "id": "a7952",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اين يوجد مكتب \" ORG:جري_هاوند \" ؟",
+    "ar_agg": "اين يوجد مكتب \" جري هاوند \" ؟",
+    "en": "Where is the ORG:Greyhound office ?",
+    "original_ar": "اين يوجد مكتب \" جري هاوند \" ؟",
+    "original_en": "Where is the Greyhound office ?",
+    "id": "m2996",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "جري هاوند",
+          "tagged": "ORG:جري_هاوند",
+          "positions": [
+            4,
+            5
+          ],
+          "language": "ar",
+          "type": "ORG"
+        },
+        {
+          "original": "Greyhound",
+          "tagged": "ORG:Greyhound",
+          "positions": [
+            3
+          ],
+          "language": "en",
+          "type": "ORG"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "سيداتي سادتي ، الكابتن PER:جورج_كوهن وطاقمه يرحبون بكم على متن رحلة ORG:يونيتد_ايرلاينز ثمانية صفر صفر المتجه الى LOC:نيويورك . اذا احتجتم شيئا اثناء الرحلة ، ما عليكم الا ان تطلبوا وسنكون مسرورين بالمساعدة .",
+    "ar_agg": "سيداتي سادتي ، الكابتن جورج كوهن وطاقمه يرحبون بكم على متن رحلة يونيتد ايرلاينز ثمانية صفر صفر المتجه الى نيويورك . اذا احتجتم شيئا اثناء الرحلة ، ما عليكم الا ان تطلبوا وسنكون مسرورين بالمساعدة .",
+    "en": "Ladies and gentlemen , Captain PER:George_Cohen and his crew welcome you on board ORG:United_Airlines flight eight zero zero for LOC:New_York . If you need anything during the flight , you just have to ask we'll be pleased to help .",
+    "original_ar": "سيداتي سادتي ، الكابتن جورج كوهن وطاقمه يرحبون بكم على متن رحلة يونيتد ايرلاينز ثمانية صفر صفر المتجه الى نيويورك . اذا احتجتم شيئا اثناء الرحلة ، ما عليكم الا ان تطلبوا وسنكون مسرورين بالمساعدة .",
+    "original_en": "Ladies and gentlemen , Captain George Cohen and his crew welcome you on board United Airlines flight eight zero zero for New York . If you need anything during the flight , you just have to ask we'll be pleased to help .",
+    "id": "m4103",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "جورج كوهن",
+          "tagged": "PER:جورج_كوهن",
+          "positions": [
+            4,
+            5
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "يونيتد ايرلاينز",
+          "tagged": "ORG:يونيتد_ايرلاينز",
+          "positions": [
+            12,
+            13
+          ],
+          "language": "ar",
+          "type": "ORG"
+        },
+        {
+          "original": "نيويورك",
+          "tagged": "LOC:نيويورك",
+          "positions": [
+            19
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "George Cohen",
+          "tagged": "PER:George_Cohen",
+          "positions": [
+            5,
+            6
+          ],
+          "language": "en",
+          "type": "PER"
+        },
+        {
+          "original": "United Airlines",
+          "tagged": "ORG:United_Airlines",
+          "positions": [
+            14,
+            15
+          ],
+          "language": "en",
+          "type": "ORG"
+        },
+        {
+          "original": "New York",
+          "tagged": "LOC:New_York",
+          "positions": [
+            21,
+            22
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "يوجد شيء خطا مع حمامي .",
+    "ar_agg": "يوجد شيء خطا مع حمامي .",
+    "en": "There's something wrong with my bath .",
+    "original_ar": "يوجد شيء خطا مع حمامي .",
+    "original_en": "There's something wrong with my bath .",
+    "id": "m4012",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "و كوبين من الشاي ايضا .",
+    "ar_agg": "و كوبين من الشاي ايضا .",
+    "en": "And two cups of tea as well .",
+    "original_ar": "و كوبين من الشاي ايضا .",
+    "original_en": "And two cups of tea as well .",
+    "id": "a12564",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اود ان ارسل فاكس .",
+    "ar_agg": "اود ان ارسل فاكس .",
+    "en": "I would like to send a fax .",
+    "original_ar": "اود ان ارسل فاكس .",
+    "original_en": "I would like to send a fax .",
+    "id": "m855",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اين صالة الموسيقى ؟",
+    "ar_agg": "اين صالة الموسيقى ؟",
+    "en": "Where is the music hall ?",
+    "original_ar": "اين صالة الموسيقى ؟",
+    "original_en": "Where is the music hall ?",
+    "id": "m4412",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "يا استاذ ، اسم PER:حمزة مذكر ؟",
+    "ar_agg": "يا استاذ ، اسم حمزة مذكر ؟",
+    "en": "Teacher , is the name PER:Hamza masculine ?",
+    "original_ar": "يا استاذ ، اسم حمزة مذكر ؟",
+    "original_en": "Teacher , is the name Hamza masculine ?",
+    "id": "a331",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "حمزة",
+          "tagged": "PER:حمزة",
+          "positions": [
+            4
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Hamza",
+          "tagged": "PER:Hamza",
+          "positions": [
+            5
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "هل يمكن ان تعيد القاعدة الاخيرة ؟",
+    "ar_agg": "هل يمكن ان تعيد القاعدة الاخيرة ؟",
+    "en": "Could you please repeat the last rule ?",
+    "original_ar": "هل يمكن ان تعيد القاعدة الاخيرة ؟",
+    "original_en": "Could you please repeat the last rule ?",
+    "id": "a9756",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عفوا يا ابني الصغير .",
+    "ar_agg": "عفوا يا ابني الصغير .",
+    "en": "You're welcome , my little son .",
+    "original_ar": "عفوا يا ابني الصغير .",
+    "original_en": "You're welcome , my little son .",
+    "id": "a9395",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بالتاكيد لا تقلق ، لقد توليت كل شيء .",
+    "ar_agg": "بالتاكيد لا تقلق ، لقد توليت كل شيء .",
+    "en": "Sure , don't worry . I took care of everything .",
+    "original_ar": "بالتاكيد لا تقلق ، لقد توليت كل شيء .",
+    "original_en": "Sure , don't worry . I took care of everything .",
+    "id": "m6831",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "يا له من غروب شمس جميل !",
+    "ar_agg": "يا له من غروب شمس جميل !",
+    "en": "What a beautiful sunset !",
+    "original_ar": "يا له من غروب شمس جميل !",
+    "original_en": "What a beautiful sunset !",
+    "id": "a6896",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكنني ان القي نظرة اخرى على قائمة الطعام ؟",
+    "ar_agg": "هل يمكنني ان القي نظرة اخرى على قائمة الطعام ؟",
+    "en": "Can I see the menu again ?",
+    "original_ar": "هل يمكنني ان القي نظرة اخرى على قائمة الطعام ؟",
+    "original_en": "Can I see the menu again ?",
+    "id": "m3005",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بالتاكيد . دعني اراها . اظن ان المرجان جرحك .",
+    "ar_agg": "بالتاكيد . دعني اراها . اظن ان المرجان جرحك .",
+    "en": "Surely . Let me see it . You were hurt by coral , I guess .",
+    "original_ar": "بالتاكيد . دعني اراها . اظن ان المرجان جرحك .",
+    "original_en": "Surely . Let me see it . You were hurt by coral , I guess .",
+    "id": "m988",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "سمعت انا السيد يامادا عنده ولدان .",
+    "ar_agg": "سمعت انا السيد يامادا عنده ولدان .",
+    "en": "I heard Mr . PER:Yamada has two children .",
+    "original_ar": "سمعت انا السيد يامادا عنده ولدان .",
+    "original_en": "I heard Mr . Yamada has two children .",
+    "id": "m354",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "Yamada",
+          "tagged": "PER:Yamada",
+          "positions": [
+            4
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "انظر ، انها ضخمة ، اليس كذلك ؟ ساحضر لك شنطة لحمل بقية الطعام لاحقا .",
+    "ar_agg": "انظر ، انها ضخمة ، اليس كذلك ؟ ساحضر لك شنطة لحمل بقية الطعام لاحقا .",
+    "en": "See , it's huge , right ? I'll bring a doggie bag for you later .",
+    "original_ar": "انظر ، انها ضخمة ، اليس كذلك ؟ ساحضر لك شنطة لحمل بقية الطعام لاحقا .",
+    "original_en": "See , it's huge , right ? I'll bring a doggie bag for you later .",
+    "id": "m4272",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شغلي الضوء .",
+    "ar_agg": "شغلي الضوء .",
+    "en": "Turn on the light .",
+    "original_ar": "شغلي الضوء .",
+    "original_en": "Turn on the light .",
+    "id": "a5065",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "بالتاكيد . هل يمكنني ان اعرف اسمك ورقم تليفونك ؟",
+    "ar_agg": "بالتاكيد . هل يمكنني ان اعرف اسمك ورقم تليفونك ؟",
+    "en": "Certainly . May I have your name and phone number ?",
+    "original_ar": "بالتاكيد . هل يمكنني ان اعرف اسمك ورقم تليفونك ؟",
+    "original_en": "Certainly . May I have your name and phone number ?",
+    "id": "m10340",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نعم ، وانا ايضا .",
+    "ar_agg": "نعم ، وانا ايضا .",
+    "en": "Yes , me too .",
+    "original_ar": "نعم ، وانا ايضا .",
+    "original_en": "Yes , me too .",
+    "id": "a10649",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما خامة هذه البزة .",
+    "ar_agg": "ما خامة هذه البزة .",
+    "en": "What is the material of this suit ?",
+    "original_ar": "ما خامة هذه البزة .",
+    "original_en": "What is the material of this suit ?",
+    "id": "m8653",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كاميرتي لا تعمل بطريقة صحيحة ، هلا تفضلت بفحصها ؟",
+    "ar_agg": "كاميرتي لا تعمل بطريقة صحيحة ، هلا تفضلت بفحصها ؟",
+    "en": "My camera isn't working right , please check it .",
+    "original_ar": "كاميرتي لا تعمل بطريقة صحيحة ، هلا تفضلت بفحصها ؟",
+    "original_en": "My camera isn't working right , please check it .",
+    "id": "m5898",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ما رايك في الذهاب الى دور السينما ؟",
+    "ar_agg": "ما رايك في الذهاب الى دور السينما ؟",
+    "en": "How about going to see the movies ?",
+    "original_ar": "ما رايك في الذهاب الى دور السينما ؟",
+    "original_en": "How about going to see the movies ?",
+    "id": "m9604",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "مرحبا ، انا اسمي PER:ديفيد .",
+    "ar_agg": "مرحبا ، انا اسمي ديفيد .",
+    "en": "Hello , my name is PER:David .",
+    "original_ar": "مرحبا ، انا اسمي ديفيد .",
+    "original_en": "Hello , my name is David .",
+    "id": "a324",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "ديفيد",
+          "tagged": "PER:ديفيد",
+          "positions": [
+            4
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "David",
+          "tagged": "PER:David",
+          "positions": [
+            5
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "المحتويات تستحق نحو مائتي MISC:دولار .",
+    "ar_agg": "المحتويات تستحق نحو مائتي دولار .",
+    "en": "The contents are worth about two hundred dollars .",
+    "original_ar": "المحتويات تستحق نحو مائتي دولار .",
+    "original_en": "The contents are worth about two hundred dollars .",
+    "id": "m11259",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "دولار",
+          "tagged": "MISC:دولار",
+          "positions": [
+            4
+          ],
+          "language": "ar",
+          "type": "MISC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "هل لديكم جولة يوم كامل ؟",
+    "ar_agg": "هل لديكم جولة يوم كامل ؟",
+    "en": "Do you have a full day tour ?",
+    "original_ar": "هل لديكم جولة يوم كامل ؟",
+    "original_en": "Do you have a full day tour ?",
+    "id": "m4440",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا جزيلا . هذه القهوة لذيذة جدا .",
+    "ar_agg": "شكرا جزيلا . هذه القهوة لذيذة جدا .",
+    "en": "Thank you very much . This coffee is very delicious .",
+    "original_ar": "شكرا جزيلا . هذه القهوة لذيذة جدا .",
+    "original_en": "Thank you very much . This coffee is very delicious .",
+    "id": "a3367",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا لك . واين المسبح ؟",
+    "ar_agg": "شكرا لك . واين المسبح ؟",
+    "en": "Thank you . And where is the swimming pool ?",
+    "original_ar": "شكرا لك . واين المسبح ؟",
+    "original_en": "Thank you . And where is the swimming pool ?",
+    "id": "a13556",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "تسعة وتسعون ، مئة .",
+    "ar_agg": "تسعة وتسعون ، مئة .",
+    "en": "Ninety - nine , one hundred .",
+    "original_ar": "تسعة وتسعون ، مئة .",
+    "original_en": "Ninety - nine , one hundred .",
+    "id": "a10792",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ارغب في اقتراح خبز محمص للسيد وليام .",
+    "ar_agg": "ارغب في اقتراح خبز محمص للسيد وليام .",
+    "en": "I wish to propose a toast to our Mr . PER:William .",
+    "original_ar": "ارغب في اقتراح خبز محمص للسيد وليام .",
+    "original_en": "I wish to propose a toast to our Mr . William .",
+    "id": "m9006",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "William",
+          "tagged": "PER:William",
+          "positions": [
+            10
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "اريد مقعد بجوار الممر وقريب من مخرج الطوارئ .",
+    "ar_agg": "اريد مقعد بجوار الممر وقريب من مخرج الطوارئ .",
+    "en": "I'd like an aisle seat close to an emergency exit .",
+    "original_ar": "اريد مقعد بجوار الممر وقريب من مخرج الطوارئ .",
+    "original_en": "I'd like an aisle seat close to an emergency exit .",
+    "id": "m10117",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اري ان الذهاب الى المتاحف امر مريح جدا .",
+    "ar_agg": "اري ان الذهاب الى المتاحف امر مريح جدا .",
+    "en": "I find going to museums very relaxing .",
+    "original_ar": "اري ان الذهاب الى المتاحف امر مريح جدا .",
+    "original_en": "I find going to museums very relaxing .",
+    "id": "m10230",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ابحث عن مقلاة طهي غير قابلة للالتصاق .",
+    "ar_agg": "ابحث عن مقلاة طهي غير قابلة للالتصاق .",
+    "en": "I'm looking for a nonstick frying pan .",
+    "original_ar": "ابحث عن مقلاة طهي غير قابلة للالتصاق .",
+    "original_en": "I'm looking for a nonstick frying pan .",
+    "id": "m3062",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هناك واحدا خلف هذه الصالة .",
+    "ar_agg": "هناك واحدا خلف هذه الصالة .",
+    "en": "There's one in the back of this hall .",
+    "original_ar": "هناك واحدا خلف هذه الصالة .",
+    "original_en": "There's one in the back of this hall .",
+    "id": "m8859",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اين يمكنني تحويل نقودي ؟",
+    "ar_agg": "اين يمكنني تحويل نقودي ؟",
+    "en": "Where can I exchange my money ?",
+    "original_ar": "اين يمكنني تحويل نقودي ؟",
+    "original_en": "Where can I exchange my money ?",
+    "id": "m10179",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عذرا . هل يمكن ان تخبرني اين يمكن ان اخذ مترو انفاق ؟",
+    "ar_agg": "عذرا . هل يمكن ان تخبرني اين يمكن ان اخذ مترو انفاق ؟",
+    "en": "Excuse me . Could you tell me where I can get a subway ?",
+    "original_ar": "عذرا . هل يمكن ان تخبرني اين يمكن ان اخذ مترو انفاق ؟",
+    "original_en": "Excuse me . Could you tell me where I can get a subway ?",
+    "id": "m3812",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لدي صندوق سجائر .",
+    "ar_agg": "لدي صندوق سجائر .",
+    "en": "I have one carton of cigarettes .",
+    "original_ar": "لدي صندوق سجائر .",
+    "original_en": "I have one carton of cigarettes .",
+    "id": "m3354",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عظيم ! شكرا لك .",
+    "ar_agg": "عظيم ! شكرا لك .",
+    "en": "Great ! Thank you .",
+    "original_ar": "عظيم ! شكرا لك .",
+    "original_en": "Great ! Thank you .",
+    "id": "a1893",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "كيف حالك مع الانتقال اليوم ؟",
+    "ar_agg": "كيف حالك مع الانتقال اليوم ؟",
+    "en": "How are you with the move today ?",
+    "original_ar": "كيف حالك مع الانتقال اليوم ؟",
+    "original_en": "How are you with the move today ?",
+    "id": "a8192",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انا انظف هذا المكان اولا .",
+    "ar_agg": "انا انظف هذا المكان اولا .",
+    "en": "I am cleaning this area first .",
+    "original_ar": "انا انظف هذا المكان اولا .",
+    "original_en": "I am cleaning this area first .",
+    "id": "a151",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هي كاتبة مشهورة .",
+    "ar_agg": "هي كاتبة مشهورة .",
+    "en": "She is a famous writer .",
+    "original_ar": "هي كاتبة مشهورة .",
+    "original_en": "She is a famous writer .",
+    "id": "a1170",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل بالامكان ان توصلني الى الفندق ؟",
+    "ar_agg": "هل بالامكان ان توصلني الى الفندق ؟",
+    "en": "Can you pick me up at the hotel ?",
+    "original_ar": "هل بالامكان ان توصلني الى الفندق ؟",
+    "original_en": "Can you pick me up at the hotel ?",
+    "id": "m4714",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "الساعة هي العاشرة صباحا .",
+    "ar_agg": "الساعة هي العاشرة صباحا .",
+    "en": "The time is ten in the morning .",
+    "original_ar": "الساعة هي العاشرة صباحا .",
+    "original_en": "The time is ten in the morning .",
+    "id": "a4810",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد هذا النوع من فضلك .",
+    "ar_agg": "اريد هذا النوع من فضلك .",
+    "en": "I'd like this style , please .",
+    "original_ar": "اريد هذا النوع من فضلك .",
+    "original_en": "I'd like this style , please .",
+    "id": "m784",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لماذا انت محتارة يا حبيبتي ؟",
+    "ar_agg": "لماذا انت محتارة يا حبيبتي ؟",
+    "en": "Why are you confused , my dear ?",
+    "original_ar": "لماذا انت محتارة يا حبيبتي ؟",
+    "original_en": "Why are you confused , my dear ?",
+    "id": "a7364",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اخشى انها متاخرة ثلاث دقائق .",
+    "ar_agg": "اخشى انها متاخرة ثلاث دقائق .",
+    "en": "I'm afraid it's about three minutes slow .",
+    "original_ar": "اخشى انها متاخرة ثلاث دقائق .",
+    "original_en": "I'm afraid it's about three minutes slow .",
+    "id": "m8725",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "على الرحب والسعة . رحلة سعيدة في LOC:القاهرة .",
+    "ar_agg": "على الرحب والسعة . رحلة سعيدة في القاهرة .",
+    "en": "You're welcome . Have a happy trip in LOC:Cairo .",
+    "original_ar": "على الرحب والسعة . رحلة سعيدة في القاهرة .",
+    "original_en": "You're welcome . Have a happy trip in Cairo .",
+    "id": "a5440",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "القاهرة",
+          "tagged": "LOC:القاهرة",
+          "positions": [
+            7
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Cairo",
+          "tagged": "LOC:Cairo",
+          "positions": [
+            8
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "من فضلك عدل خطة بعد الظهر ؟",
+    "ar_agg": "من فضلك عدل خطة بعد الظهر ؟",
+    "en": "Please alter the afternoon plan .",
+    "original_ar": "من فضلك عدل خطة بعد الظهر ؟",
+    "original_en": "Please alter the afternoon plan .",
+    "id": "m9855",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "عفوا ، هلا اخبرتني كيف الذهاب الى فندق ORG:فيرمونت ؟",
+    "ar_agg": "عفوا ، هلا اخبرتني كيف الذهاب الى فندق فيرمونت ؟",
+    "en": "Excuse me . Could you tell me how to get to the LOC:Fairmont_Hotel ?",
+    "original_ar": "عفوا ، هلا اخبرتني كيف الذهاب الى فندق فيرمونت ؟",
+    "original_en": "Excuse me . Could you tell me how to get to the Fairmont Hotel ?",
+    "id": "m3249",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "فيرمونت",
+          "tagged": "ORG:فيرمونت",
+          "positions": [
+            8
+          ],
+          "language": "ar",
+          "type": "ORG"
+        },
+        {
+          "original": "Fairmont Hotel",
+          "tagged": "LOC:Fairmont_Hotel",
+          "positions": [
+            12,
+            13
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "كنت ساشتري هذا ان كنت في مكانك ؟",
+    "ar_agg": "كنت ساشتري هذا ان كنت في مكانك ؟",
+    "en": "I would buy this if I were you .",
+    "original_ar": "كنت ساشتري هذا ان كنت في مكانك ؟",
+    "original_en": "I would buy this if I were you .",
+    "id": "m68",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هذا رائع ! وماذا عن ابنك PER:حسن ؟",
+    "ar_agg": "هذا رائع ! وماذا عن ابنك حسن ؟",
+    "en": "That's wonderful ! And what about your son PER:Hassan ?",
+    "original_ar": "هذا رائع ! وماذا عن ابنك حسن ؟",
+    "original_en": "That's wonderful ! And what about your son Hassan ?",
+    "id": "a209",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "حسن",
+          "tagged": "PER:حسن",
+          "positions": [
+            6
+          ],
+          "language": "ar",
+          "type": "PER"
+        },
+        {
+          "original": "Hassan",
+          "tagged": "PER:Hassan",
+          "positions": [
+            8
+          ],
+          "language": "en",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "ساخذ هذا من فضلك .",
+    "ar_agg": "ساخذ هذا من فضلك .",
+    "en": "I'll have it , please .",
+    "original_ar": "ساخذ هذا من فضلك .",
+    "original_en": "I'll have it , please .",
+    "id": "m10294",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لن يقدم العشاء قبل السابعة . اما الان فلا توجد سوى مشروبات .",
+    "ar_agg": "لن يقدم العشاء قبل السابعة . اما الان فلا توجد سوى مشروبات .",
+    "en": "Dinner won't be served until seven . Now only drinks are available .",
+    "original_ar": "لن يقدم العشاء قبل السابعة . اما الان فلا توجد سوى مشروبات .",
+    "original_en": "Dinner won't be served until seven . Now only drinks are available .",
+    "id": "m6229",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هلا فتحت لي الباب من فضلك ؟",
+    "ar_agg": "هلا فتحت لي الباب من فضلك ؟",
+    "en": "Could you please open the door for me ?",
+    "original_ar": "هلا فتحت لي الباب من فضلك ؟",
+    "original_en": "Could you please open the door for me ?",
+    "id": "m7097",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "انه ياقوت . لدينا بروش واحد فقط من هذا النوع وهو احد مصوغاتي المفضلة . هلا جربت ان ترتديه ؟",
+    "ar_agg": "انه ياقوت . لدينا بروش واحد فقط من هذا النوع وهو احد مصوغاتي المفضلة . هلا جربت ان ترتديه ؟",
+    "en": "It's a sapphire . We have only one brooch of this type and this is one of my favorite pendants . Will you try it on ?",
+    "original_ar": "انه ياقوت . لدينا بروش واحد فقط من هذا النوع وهو احد مصوغاتي المفضلة . هلا جربت ان ترتديه ؟",
+    "original_en": "It's a sapphire . We have only one brooch of this type and this is one of my favorite pendants . Will you try it on ?",
+    "id": "m4730",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اين حديقة الحيوان ؟",
+    "ar_agg": "اين حديقة الحيوان ؟",
+    "en": "Where is the zoo ?",
+    "original_ar": "اين حديقة الحيوان ؟",
+    "original_en": "Where is the zoo ?",
+    "id": "m11552",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "نعم ، انا حزين جدا . كان اللعب صعبا .",
+    "ar_agg": "نعم ، انا حزين جدا . كان اللعب صعبا .",
+    "en": "Yes , I am very sad . The game was difficult .",
+    "original_ar": "نعم ، انا حزين جدا . كان اللعب صعبا .",
+    "original_en": "Yes , I am very sad . The game was difficult .",
+    "id": "a4613",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل لي بطوابع لخطابات الى LOC:اليابان ؟",
+    "ar_agg": "هل لي بطوابع لخطابات الى اليابان ؟",
+    "en": "May I have stamps for letters to LOC:Japan ?",
+    "original_ar": "هل لي بطوابع لخطابات الى اليابان ؟",
+    "original_en": "May I have stamps for letters to Japan ?",
+    "id": "m1251",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "اليابان",
+          "tagged": "LOC:اليابان",
+          "positions": [
+            5
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Japan",
+          "tagged": "LOC:Japan",
+          "positions": [
+            7
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "كم الاجرة الى LOC:مانشستر ؟",
+    "ar_agg": "كم الاجرة الى مانشستر ؟",
+    "en": "What's the fare to LOC:Manchester ?",
+    "original_ar": "كم الاجرة الى مانشستر ؟",
+    "original_en": "What's the fare to Manchester ?",
+    "id": "m1564",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "مانشستر",
+          "tagged": "LOC:مانشستر",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "LOC"
+        },
+        {
+          "original": "Manchester",
+          "tagged": "LOC:Manchester",
+          "positions": [
+            4
+          ],
+          "language": "en",
+          "type": "LOC"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "لم استخدم خدمة الغسيل عندكم . ايمكنك التحقق مرة اخرى ؟",
+    "ar_agg": "لم استخدم خدمة الغسيل عندكم . ايمكنك التحقق مرة اخرى ؟",
+    "en": "I haven't used your laundry service . Will you check this again ?",
+    "original_ar": "لم استخدم خدمة الغسيل عندكم . ايمكنك التحقق مرة اخرى ؟",
+    "original_en": "I haven't used your laundry service . Will you check this again ?",
+    "id": "m1956",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اسف ، لكنه مملوء في هذا الوقت .",
+    "ar_agg": "اسف ، لكنه مملوء في هذا الوقت .",
+    "en": "I'm sorry , but it's full at that time .",
+    "original_ar": "اسف ، لكنه مملوء في هذا الوقت .",
+    "original_en": "I'm sorry , but it's full at that time .",
+    "id": "m6622",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هل يمكن ان تاخذني الى اقرب نقطة شرطة ؟",
+    "ar_agg": "هل يمكن ان تاخذني الى اقرب نقطة شرطة ؟",
+    "en": "Could you take me to the nearest police station ?",
+    "original_ar": "هل يمكن ان تاخذني الى اقرب نقطة شرطة ؟",
+    "original_en": "Could you take me to the nearest police station ?",
+    "id": "m7065",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا ، انهم فريق شبابي رائع ، وفريق ORG:الدودجرز قادمون بقوة ايضا .",
+    "ar_agg": "حسنا ، انهم فريق شبابي رائع ، وفريق الدودجرز قادمون بقوة ايضا .",
+    "en": "Well , they're a pretty young team , and the ORG:Dodgers are coming on strong , too .",
+    "original_ar": "حسنا ، انهم فريق شبابي رائع ، وفريق الدودجرز قادمون بقوة ايضا .",
+    "original_en": "Well , they're a pretty young team , and the Dodgers are coming on strong , too .",
+    "id": "m1898",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "الدودجرز",
+          "tagged": "ORG:الدودجرز",
+          "positions": [
+            8
+          ],
+          "language": "ar",
+          "type": "ORG"
+        },
+        {
+          "original": "Dodgers",
+          "tagged": "ORG:Dodgers",
+          "positions": [
+            10
+          ],
+          "language": "en",
+          "type": "ORG"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "مرحبا بك . افضل مقعد علي الممر .",
+    "ar_agg": "مرحبا بك . افضل مقعد علي الممر .",
+    "en": "You're welcome . I prefer an aisle seat .",
+    "original_ar": "مرحبا بك . افضل مقعد علي الممر .",
+    "original_en": "You're welcome . I prefer an aisle seat .",
+    "id": "m1042",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "شكرا جزيلا . عندي وقت اجتماع الان .",
+    "ar_agg": "شكرا جزيلا . عندي وقت اجتماع الان .",
+    "en": "Thank you very much . I have a meeting time now .",
+    "original_ar": "شكرا جزيلا . عندي وقت اجتماع الان .",
+    "original_en": "Thank you very much . I have a meeting time now .",
+    "id": "a5716",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لا اعلم ما هو المقاس .",
+    "ar_agg": "لا اعلم ما هو المقاس .",
+    "en": "I don't know what the size is .",
+    "original_ar": "لا اعلم ما هو المقاس .",
+    "original_en": "I don't know what the size is .",
+    "id": "m1647",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "اريد الاتصال بشركة تاجير سيارات .",
+    "ar_agg": "اريد الاتصال بشركة تاجير سيارات .",
+    "en": "I'd like to contact a car rental company .",
+    "original_ar": "اريد الاتصال بشركة تاجير سيارات .",
+    "original_en": "I'd like to contact a car rental company .",
+    "id": "m9070",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "لقد سكبت شيئا . هل يمكنك ان تحضر لي منديل مائدة ؟",
+    "ar_agg": "لقد سكبت شيئا . هل يمكنك ان تحضر لي منديل مائدة ؟",
+    "en": "I spilled something . Can you bring me a napkin ?",
+    "original_ar": "لقد سكبت شيئا . هل يمكنك ان تحضر لي منديل مائدة ؟",
+    "original_en": "I spilled something . Can you bring me a napkin ?",
+    "id": "m2325",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "هيا بنا ، المطعم قريب من هنا .",
+    "ar_agg": "هيا بنا ، المطعم قريب من هنا .",
+    "en": "Let's go , the restaurant is near here .",
+    "original_ar": "هيا بنا ، المطعم قريب من هنا .",
+    "original_en": "Let's go , the restaurant is near here .",
+    "id": "a3508",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "صباح النور يا PER:طارق . تعال وانظر الى الطقس من الشرفة .",
+    "ar_agg": "صباح النور يا طارق . تعال وانظر الى الطقس من الشرفة .",
+    "en": "Good morning , Tarek . Come and look at the weather from the balcony .",
+    "original_ar": "صباح النور يا طارق . تعال وانظر الى الطقس من الشرفة .",
+    "original_en": "Good morning , Tarek . Come and look at the weather from the balcony .",
+    "id": "a1445",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": [
+        {
+          "original": "طارق",
+          "tagged": "PER:طارق",
+          "positions": [
+            3
+          ],
+          "language": "ar",
+          "type": "PER"
+        }
+      ]
+    }
+  },
+  {
+    "ar": "وعليكم السلام . اي كتاب تريد بالضبط ؟",
+    "ar_agg": "وعليكم السلام . اي كتاب تريد بالضبط ؟",
+    "en": "And upon you be peace . Which book do you want exactly ?",
+    "original_ar": "وعليكم السلام . اي كتاب تريد بالضبط ؟",
+    "original_en": "And upon you be peace . Which book do you want exactly ?",
+    "id": "a7219",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "حسنا , سيدي . دعني اعتني بامتعتك اولا .",
+    "ar_agg": "حسنا , سيدي . دعني اعتني بامتعتك اولا .",
+    "en": "All right , sir . Let me take care of your luggage first .",
+    "original_ar": "حسنا , سيدي . دعني اعتني بامتعتك اولا .",
+    "original_en": "All right , sir . Let me take care of your luggage first .",
+    "id": "m9657",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "وكيف حالك انت يا استاذة ؟",
+    "ar_agg": "وكيف حالك انت يا استاذة ؟",
+    "en": "And how are you , Ustatha ?",
+    "original_ar": "وكيف حالك انت يا استاذة ؟",
+    "original_en": "And how are you , Ustatha ?",
+    "id": "a11591",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  },
+  {
+    "ar": "ممتاز . سنبحث عن رحلة مناسبة لك .",
+    "ar_agg": "ممتاز . سنبحث عن رحلة مناسبة لك .",
+    "en": "Excellent . We will look for a suitable trip for you .",
+    "original_ar": "ممتاز . سنبحث عن رحلة مناسبة لك .",
+    "original_en": "Excellent . We will look for a suitable trip for you .",
+    "id": "a6476",
+    "modifications": {
+      "method": "entity_tagging",
+      "tagged_entities": []
+    }
+  }
+]
